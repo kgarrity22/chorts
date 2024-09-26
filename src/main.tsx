@@ -4,7 +4,7 @@ import { ThemeProvider } from "@mui/material";
 import "./style.css";
 import { theme } from "./styles/theme";
 import Layout from "./layout";
-import { CandyMap } from "./visualizations/halloween-candy-map/map";
+import { CandyMap, MtRushmoreNight } from "./visualizations";
 
 const router = createBrowserRouter([
   {
@@ -14,6 +14,7 @@ const router = createBrowserRouter([
       { path: "/", element: <></> },
       { path: "/home", element: <></> },
       { path: "/candy-map", element: <CandyMap /> },
+      { path: "/mt-rushmore", element: <MtRushmoreNight /> },
     ],
   },
 ]);

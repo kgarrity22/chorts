@@ -3,8 +3,7 @@ import { Outlet } from "react-router-dom";
 
 export default function Layout() {
   return (
-    // TODO: add anything we want for consistent styling
-    <Box>
+    <Box sx={{ height: "100%", width: "100%", overflow: "auto" }}>
       <CssBaseline />
       <Outlet />
     </Box>

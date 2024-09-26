@@ -71,7 +71,6 @@ export const CandyMap = () => {
         labelColor: "#fff",
         labelFont: "Plus Jakarta Sans",
         offset: -40,
-        // padding: 25,
       },
     },
     title: {
@@ -80,10 +79,10 @@ export const CandyMap = () => {
       fontSize: 70,
       font: "Creepster",
       subtitle: [
-        "A little subtitle describing the map and also leave a link to the original one.",
-        "Also pick some good font choices for this.",
+        "This map shows the most popular halloween candies in each state in 2023.",
+        "Click on any state to see the top three most popular candies for that state in the bar chart below.",
+        "Source: https://www.candystore.com/blogs/facts-trivia/halloween-candy-map-popular",
       ],
-
       subtitleFontSize: 15,
     },
 
@@ -133,16 +132,12 @@ export const CandyMap = () => {
                 from: {
                   data: {
                     url: "src/visualizations/halloween-candy-map/data/us-states.json",
-                    // values: locationData,
                     format: { type: "json", property: "features" },
                   },
                   key: "id",
                 },
                 as: "geo",
               },
-              //   {
-              //     filter: 'datum.stateId != "VA"'
-              //   }
             ],
             encoding: {
               shape: { field: "geo", type: "geojson" },
@@ -273,7 +268,7 @@ export const CandyMap = () => {
               color: "#ffc971",
             },
             view: {
-              stroke: "transparent", // todo: make conditional
+              stroke: "transparent",
             },
             layer: [
               {
@@ -375,6 +370,7 @@ export const CandyMap = () => {
         height: "100%",
         display: "flex",
         justifyContent: "center",
+        overflow: "auto",
       }}
     >
       <Box sx={{ m: 5 }}>
