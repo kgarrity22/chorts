@@ -1,0 +1,920 @@
+[
+  {
+    "stateId": "AL",
+    "first": {
+      "weight": 109445,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    },
+    "second": {
+      "weight": 104204,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    },
+    "third": {
+      "weight": 95449,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    }
+  },
+  {
+    "stateId": "AK",
+    "first": {
+      "weight": 5017,
+      "candy": "Twix",
+      "image": "src/halloween-candy-map/assets/twix.png"
+    },
+    "second": {
+      "weight": 4821,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "third": {
+      "weight": 4057,
+      "candy": "Milky Way",
+      "image": "src/halloween-candy-map/assets/milky-way.png"
+    }
+  },
+  {
+    "stateId": "AZ",
+    "first": {
+      "weight": 802972,
+      "candy": "Hershey Kisses",
+      "image": "src/halloween-candy-map/assets/hershey-kisses.png"
+    },
+    "second": {
+      "weight": 793426,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "third": {
+      "weight": 732572,
+      "candy": "Snickers",
+      "image": "src/halloween-candy-map/assets/snickers.png"
+    }
+  },
+  {
+    "stateId": "AR",
+    "first": {
+      "weight": 210250,
+      "candy": "Butterfinger",
+      "image": "src/halloween-candy-map/assets/butterfinger.png"
+    },
+    "second": {
+      "weight": 204436,
+      "candy": "Jolly Ranchers",
+      "image": "src/halloween-candy-map/assets/jolly-ranchers.png"
+    },
+    "third": {
+      "weight": 106136,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    }
+  },
+  {
+    "stateId": "CA",
+    "first": {
+      "weight": 1616992,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "second": {
+      "weight": 1204345,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "third": {
+      "weight": 1006133,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    }
+  },
+  {
+    "stateId": "CO",
+    "first": {
+      "weight": 126121,
+      "candy": "Milky Way",
+      "image": "src/halloween-candy-map/assets/milky-way.png"
+    },
+    "second": {
+      "weight": 121947,
+      "candy": "Hershey Kisses",
+      "image": "src/halloween-candy-map/assets/hershey-kisses.png"
+    },
+    "third": {
+      "weight": 105467,
+      "candy": "Twix",
+      "image": "src/halloween-candy-map/assets/twix.png"
+    }
+  },
+  {
+    "stateId": "CT",
+    "first": {
+      "weight": 3056,
+      "candy": "Almond Joy",
+      "image": "src/halloween-candy-map/assets/almond-joy.png"
+    },
+    "second": {
+      "weight": 2424,
+      "candy": "Milky Way",
+      "image": "src/halloween-candy-map/assets/milky-way.png"
+    },
+    "third": {
+      "weight": 2058,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    }
+  },
+  {
+    "stateId": "DE",
+    "first": {
+      "weight": 20704,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "second": {
+      "weight": 17124,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    },
+    "third": {
+      "weight": 11608,
+      "candy": "Life Savers",
+      "image": "src/halloween-candy-map/assets/life-savers.png"
+    }
+  },
+  {
+    "stateId": "FL",
+    "first": {
+      "weight": 667727,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "second": {
+      "weight": 603845,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    },
+    "third": {
+      "weight": 512455,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    }
+  },
+  {
+    "stateId": "GA",
+    "first": {
+      "weight": 142298,
+      "candy": "Jolly Ranchers",
+      "image": "src/halloween-candy-map/assets/jolly-ranchers.png"
+    },
+    "second": {
+      "weight": 116435,
+      "candy": "Swedish Fish",
+      "image": "src/halloween-candy-map/assets/swedish-fish.png"
+    },
+    "third": {
+      "weight": 94186,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    }
+  },
+  {
+    "stateId": "HI",
+    "first": {
+      "weight": 27909,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    },
+    "second": {
+      "weight": 26362,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    },
+    "third": {
+      "weight": 22477,
+      "candy": "Butterfinger",
+      "image": "src/halloween-candy-map/assets/butterfinger.png"
+    }
+  },
+  {
+    "stateId": "ID",
+    "first": {
+      "weight": 87183,
+      "candy": "Snickers",
+      "image": "src/halloween-candy-map/assets/snickers.png"
+    },
+    "second": {
+      "weight": 67016,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    },
+    "third": {
+      "weight": 43822,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    }
+  },
+  {
+    "stateId": "IL",
+    "first": {
+      "weight": 167151,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "second": {
+      "weight": 139777,
+      "candy": "Kit Kat",
+      "image": "src/halloween-candy-map/assets/kit-kat.png"
+    },
+    "third": {
+      "weight": 124018,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    }
+  },
+  {
+    "stateId": "IN",
+    "first": {
+      "weight": 94582,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    },
+    "second": {
+      "weight": 94397,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "third": {
+      "weight": 74457,
+      "candy": "Jolly Ranchers",
+      "image": "src/halloween-candy-map/assets/jolly-ranchers.png"
+    }
+  },
+  {
+    "stateId": "IA",
+    "first": {
+      "weight": 67426,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "second": {
+      "weight": 62579,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "third": {
+      "weight": 53523,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    }
+  },
+  {
+    "stateId": "KS",
+    "first": {
+      "weight": 259750,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "second": {
+      "weight": 214779,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "third": {
+      "weight": 192084,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    }
+  },
+  {
+    "stateId": "KY",
+    "first": {
+      "weight": 69453,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "second": {
+      "weight": 57196,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "third": {
+      "weight": 39808,
+      "candy": "Swedish Fish",
+      "image": "src/halloween-candy-map/assets/swedish-fish.png"
+    }
+  },
+  {
+    "stateId": "LA",
+    "first": {
+      "weight": 113866,
+      "candy": "Lemonheads",
+      "image": "src/halloween-candy-map/assets/lemonheads.png"
+    },
+    "second": {
+      "weight": 111829,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "third": {
+      "weight": 92857,
+      "candy": "Blow Pops",
+      "image": "src/halloween-candy-map/assets/blow-pops.png"
+    }
+  },
+  {
+    "stateId": "ME",
+    "first": {
+      "weight": 58757,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "second": {
+      "weight": 30675,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    },
+    "third": {
+      "weight": 24282,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    }
+  },
+  {
+    "stateId": "MD",
+    "first": {
+      "weight": 38119,
+      "candy": "Hershey Kisses",
+      "image": "src/halloween-candy-map/assets/hershey-kisses.png"
+    },
+    "second": {
+      "weight": 36857,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    },
+    "third": {
+      "weight": 28976,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    }
+  },
+  {
+    "stateId": "MA",
+    "first": {
+      "weight": 71023,
+      "candy": "Butterfinger",
+      "image": "src/halloween-candy-map/assets/butterfinger.png"
+    },
+    "second": {
+      "weight": 70726,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "third": {
+      "weight": 50679,
+      "candy": "Dubble Bubble Gum",
+      "image": "src/halloween-candy-map/assets/dubble-bubble-gum.png"
+    }
+  },
+  {
+    "stateId": "MI",
+    "first": {
+      "weight": 113171,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    },
+    "second": {
+      "weight": 109222,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    },
+    "third": {
+      "weight": 100728,
+      "candy": "Butterfinger",
+      "image": "src/halloween-candy-map/assets/butterfinger.png"
+    }
+  },
+  {
+    "stateId": "MN",
+    "first": {
+      "weight": 180352,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "second": {
+      "weight": 174336,
+      "candy": "Tootsie Pops",
+      "image": "src/halloween-candy-map/assets/tootsie-pops.png"
+    },
+    "third": {
+      "weight": 148584,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    }
+  },
+  {
+    "stateId": "MS",
+    "first": {
+      "weight": 94771,
+      "candy": "3 Musketeers",
+      "image": "src/halloween-candy-map/assets/3-musketeers.png"
+    },
+    "second": {
+      "weight": 92135,
+      "candy": "Snickers",
+      "image": "src/halloween-candy-map/assets/snickers.png"
+    },
+    "third": {
+      "weight": 84538,
+      "candy": "Butterfinger",
+      "image": "src/halloween-candy-map/assets/butterfinger.png"
+    }
+  },
+  {
+    "stateId": "MO",
+    "first": {
+      "weight": 46068,
+      "candy": "Almond Joy",
+      "image": "src/halloween-candy-map/assets/almond-joy.png"
+    },
+    "second": {
+      "weight": 42444,
+      "candy": "Milky Way",
+      "image": "src/halloween-candy-map/assets/milky-way.png"
+    },
+    "third": {
+      "weight": 40012,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    }
+  },
+  {
+    "stateId": "MT",
+    "first": {
+      "weight": 30700,
+      "candy": "Twix",
+      "image": "src/halloween-candy-map/assets/twix.png"
+    },
+    "second": {
+      "weight": 29880,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "third": {
+      "weight": 24301,
+      "candy": "Dubble Bubble Gum",
+      "image": "src/halloween-candy-map/assets/dubble-bubble-gum.png"
+    }
+  },
+  {
+    "stateId": "NE",
+    "first": {
+      "weight": 92845,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "second": {
+      "weight": 84878,
+      "candy": "Salt Water Taffy",
+      "image": "src/halloween-candy-map/assets/salt-water-taffy.png"
+    },
+    "third": {
+      "weight": 43430,
+      "candy": "Twix",
+      "image": "src/halloween-candy-map/assets/twix.png"
+    }
+  },
+  {
+    "stateId": "NV",
+    "first": {
+      "weight": 297647,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    },
+    "second": {
+      "weight": 281386,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "third": {
+      "weight": 222785,
+      "candy": "Hershey Kisses",
+      "image": "src/halloween-candy-map/assets/hershey-kisses.png"
+    }
+  },
+  {
+    "stateId": "NH",
+    "first": {
+      "weight": 71252,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "second": {
+      "weight": 62777,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "third": {
+      "weight": 41568,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    }
+  },
+  {
+    "stateId": "NJ",
+    "first": {
+      "weight": 148870,
+      "candy": "Tootsie Pops",
+      "image": "src/halloween-candy-map/assets/tootsie-pops.png"
+    },
+    "second": {
+      "weight": 145453,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "third": {
+      "weight": 145295,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    }
+  },
+  {
+    "stateId": "NM",
+    "first": {
+      "weight": 83731,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "second": {
+      "weight": 72286,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    },
+    "third": {
+      "weight": 63777,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    }
+  },
+  {
+    "stateId": "NY",
+    "first": {
+      "weight": 171380,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "second": {
+      "weight": 134988,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "third": {
+      "weight": 82152,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    }
+  },
+  {
+    "stateId": "NC",
+    "first": {
+      "weight": 99163,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "second": {
+      "weight": 86055,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "third": {
+      "weight": 80871,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    }
+  },
+  {
+    "stateId": "ND",
+    "first": {
+      "weight": 61901,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "second": {
+      "weight": 61271,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    },
+    "third": {
+      "weight": 48377,
+      "candy": "Jolly Ranchers",
+      "image": "src/halloween-candy-map/assets/jolly-ranchers.png"
+    }
+  },
+  {
+    "stateId": "OH",
+    "first": {
+      "weight": 171607,
+      "candy": "Blow Pops",
+      "image": "src/halloween-candy-map/assets/blow-pops.png"
+    },
+    "second": {
+      "weight": 159547,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "third": {
+      "weight": 149207,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    }
+  },
+  {
+    "stateId": "OK",
+    "first": {
+      "weight": 20841,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    },
+    "second": {
+      "weight": 19396,
+      "candy": "Dubble Bubble Gum",
+      "image": "src/halloween-candy-map/assets/dubble-bubble-gum.png"
+    },
+    "third": {
+      "weight": 14174,
+      "candy": "Snickers",
+      "image": "src/halloween-candy-map/assets/snickers.png"
+    }
+  },
+  {
+    "stateId": "OR",
+    "first": {
+      "weight": 89130,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "second": {
+      "weight": 73107,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "third": {
+      "weight": 64906,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    }
+  },
+  {
+    "stateId": "PA",
+    "first": {
+      "weight": 248944,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    },
+    "second": {
+      "weight": 233074,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "third": {
+      "weight": 205578,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    }
+  },
+  {
+    "stateId": "RI",
+    "first": {
+      "weight": 15609,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "second": {
+      "weight": 14415,
+      "candy": "Twix",
+      "image": "src/halloween-candy-map/assets/twix.png"
+    },
+    "third": {
+      "weight": 12090,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    }
+  },
+  {
+    "stateId": "SC",
+    "first": {
+      "weight": 114685,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    },
+    "second": {
+      "weight": 106285,
+      "candy": "Butterfinger",
+      "image": "src/halloween-candy-map/assets/butterfinger.png"
+    },
+    "third": {
+      "weight": 88895,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    }
+  },
+  {
+    "stateId": "SD",
+    "first": {
+      "weight": 23003,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    },
+    "second": {
+      "weight": 22166,
+      "candy": "Jolly Ranchers",
+      "image": "src/halloween-candy-map/assets/jolly-ranchers.png"
+    },
+    "third": {
+      "weight": 16373,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    }
+  },
+  {
+    "stateId": "TN",
+    "first": {
+      "weight": 58430,
+      "candy": "Tootsie Pops",
+      "image": "src/halloween-candy-map/assets/tootsie-pops.png"
+    },
+    "second": {
+      "weight": 52861,
+      "candy": "Salt Water Taffy",
+      "image": "src/halloween-candy-map/assets/salt-water-taffy.png"
+    },
+    "third": {
+      "weight": 43495,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    }
+  },
+  {
+    "stateId": "TX",
+    "first": {
+      "weight": 947426,
+      "candy": "Sour Patch Kids",
+      "image": "src/halloween-candy-map/assets/sour-patch-kids.png"
+    },
+    "second": {
+      "weight": 908876,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "third": {
+      "weight": 904815,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    }
+  },
+  {
+    "stateId": "UT",
+    "first": {
+      "weight": 414446,
+      "candy": "Candy Corn",
+      "image": "src/halloween-candy-map/assets/candy-corn.png"
+    },
+    "second": {
+      "weight": 331220,
+      "candy": "Tootsie Pops",
+      "image": "src/halloween-candy-map/assets/tootsie-pops.png"
+    },
+    "third": {
+      "weight": 248911,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    }
+  },
+  {
+    "stateId": "VT",
+    "first": {
+      "weight": 37694,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "second": {
+      "weight": 29506,
+      "candy": "Skittles",
+      "image": "src/halloween-candy-map/assets/skittles.png"
+    },
+    "third": {
+      "weight": 20683,
+      "candy": "Milky Way",
+      "image": "src/halloween-candy-map/assets/milky-way.png"
+    }
+  },
+  {
+    "stateId": "VA",
+    "first": {
+      "weight": 157463,
+      "candy": "Butterfinger",
+      "image": "src/halloween-candy-map/assets/butterfinger.png"
+    },
+    "second": {
+      "weight": 156838,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "third": {
+      "weight": 95322,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    }
+  },
+  {
+    "stateId": "DC",
+    "first": {
+      "weight": 25631,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    },
+    "second": {
+      "weight": 22159,
+      "candy": "Tootsie Pops",
+      "image": "src/halloween-candy-map/assets/tootsie-pops.png"
+    },
+    "third": {
+      "weight": 20649,
+      "candy": "Blow Pops",
+      "image": "src/halloween-candy-map/assets/blow-pops.png"
+    }
+  },
+  {
+    "stateId": "WA",
+    "first": {
+      "weight": 171604,
+      "candy": "Tootsie Pops",
+      "image": "src/halloween-candy-map/assets/tootsie-pops.png"
+    },
+    "second": {
+      "weight": 124839,
+      "candy": "Salt Water Taffy",
+      "image": "src/halloween-candy-map/assets/salt-water-taffy.png"
+    },
+    "third": {
+      "weight": 117330,
+      "candy": "M&M's",
+      "image": "src/halloween-candy-map/assets/m&ms.png"
+    }
+  },
+  {
+    "stateId": "WV",
+    "first": {
+      "weight": 39978,
+      "candy": "Hershey's Mini Bars",
+      "image": "src/halloween-candy-map/assets/hersheys-mini-bars.png"
+    },
+    "second": {
+      "weight": 36788,
+      "candy": "Blow Pops",
+      "image": "src/halloween-candy-map/assets/blow-pops.png"
+    },
+    "third": {
+      "weight": 31846,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    }
+  },
+  {
+    "stateId": "WI",
+    "first": {
+      "weight": 106928,
+      "candy": "Butterfinger",
+      "image": "src/halloween-candy-map/assets/butterfinger.png"
+    },
+    "second": {
+      "weight": 104263,
+      "candy": "Hot Tamales",
+      "image": "src/halloween-candy-map/assets/hot-tamales.png"
+    },
+    "third": {
+      "weight": 91771,
+      "candy": "Starburst",
+      "image": "src/halloween-candy-map/assets/starburst.png"
+    }
+  },
+  {
+    "stateId": "WY",
+    "first": {
+      "weight": 24522,
+      "candy": "Reese's Cups",
+      "image": "src/halloween-candy-map/assets/reeses-cups.png"
+    },
+    "second": {
+      "weight": 22992,
+      "candy": "Salt Water Taffy",
+      "image": "src/halloween-candy-map/assets/salt-water-taffy.png"
+    },
+    "third": {
+      "weight": 19228,
+      "candy": "Dubble Bubble Gum",
+      "image": "src/halloween-candy-map/assets/dubble-bubble-gum.png"
+    }
+  }
+]

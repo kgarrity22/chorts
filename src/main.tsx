@@ -3,14 +3,17 @@ import * as ReactDOM from "react-dom/client";
 import { ThemeProvider } from "@mui/material";
 import "./style.css";
 import { theme } from "./styles/theme";
+import Layout from "./layout";
+import { CandyMap } from "./visualizations/halloween-candy-map/map";
 
 const router = createBrowserRouter([
   {
     path: "",
-    element: <></>,
+    element: <Layout />,
     children: [
       { path: "/", element: <></> },
       { path: "/home", element: <></> },
+      { path: "/candy-map", element: <CandyMap /> },
     ],
   },
 ]);
