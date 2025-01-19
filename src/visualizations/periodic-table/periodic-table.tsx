@@ -91,6 +91,7 @@ export const PeriodicTable = () => {
       {
         mark: {
           type: "square",
+          cursor: "pointer",
           // tooltip: true
         },
         params: [

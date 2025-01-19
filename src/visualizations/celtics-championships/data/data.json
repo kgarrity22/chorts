@@ -1,0 +1,182 @@
+[
+  {
+    "row": 1,
+    "col": 1,
+    "Season": "1956-57",
+    "Year": 1957,
+    "Coach": "Red Auerbach",
+    "Opponent": "St. Louis Hawks",
+    "Series_score": "4-3",
+    "Record": "44-28"
+  },
+  {
+    "row": 1,
+    "col": 2,
+    "Season": "1958-59",
+    "Year": 1959,
+    "Coach": "Red Auerbach",
+    "Opponent": "Minneapolis Lakers",
+    "Series_score": "4-0",
+    "Record": "52-20"
+  },
+  {
+    "row": 1,
+    "col": 3,
+    "Season": "1959-60",
+    "Year": 1960,
+    "Coach": "Red Auerbach",
+    "Opponent": "St. Louis Hawks",
+    "Series_score": "4-3",
+    "Record": "59-16"
+  },
+  {
+    "row": 1,
+    "col": 4,
+    "Season": "1960-61",
+    "Year": 1961,
+    "Coach": "Red Auerbach",
+    "Opponent": "St. Louis Hawks",
+    "Series_score": "4-1",
+    "Record": "57-22"
+  },
+  {
+    "row": 2,
+    "col": 1,
+    "Season": "1961-62",
+    "Year": 1962,
+    "Coach": "Red Auerbach",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-3",
+    "Record": "60-20"
+  },
+  {
+    "row": 2,
+    "col": 2,
+    "Season": "1962-63",
+    "Year": 1963,
+    "Coach": "Red Auerbach",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-2",
+    "Record": "58-22"
+  },
+  {
+    "row": 2,
+    "col": 3,
+    "Season": "1963-64",
+    "Year": 1964,
+    "Coach": "Red Auerbach",
+    "Opponent": "San Francisco Warriors",
+    "Series_score": "4-1",
+    "Record": "59-21"
+  },
+  {
+    "row": 2,
+    "col": 4,
+    "Season": "1964-65",
+    "Year": 1965,
+    "Coach": "Red Auerbach",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-1",
+    "Record": "62-18"
+  },
+  {
+    "row": 3,
+    "col": 1,
+    "Season": "1965-66",
+    "Year": 1966,
+    "Coach": "Red Auerbach",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-3",
+    "Record": "54-26"
+  },
+  {
+    "row": 3,
+    "col": 2,
+    "Season": "1967-68",
+    "Year": 1968,
+    "Coach": "Bill Russell",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-2",
+    "Record": "54-28"
+  },
+  {
+    "row": 3,
+    "col": 3,
+    "Season": "1968-69",
+    "Year": 1969,
+    "Coach": "Bill Russell",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-3",
+    "Record": "48-34"
+  },
+  {
+    "row": 3,
+    "col": 4,
+    "Season": "1973-74",
+    "Year": 1974,
+    "Coach": "Tom Heinsohn",
+    "Opponent": "Milwaukee Bucks",
+    "Series_score": "4-3",
+    "Record": "56-26"
+  },
+  {
+    "row": 4,
+    "col": 1,
+    "Season": "1975-76",
+    "Year": 1976,
+    "Coach": "Tom Heinsohn",
+    "Opponent": "Phoenix Suns",
+    "Series_score": "4-2",
+    "Record": "54-28"
+  },
+  {
+    "row": 4,
+    "col": 2,
+    "Season": "1980-81",
+    "Year": 1981,
+    "Coach": "Bill Fitch",
+    "Opponent": "Houston Rockets",
+    "Series_score": "4-2",
+    "Record": "62-20"
+  },
+  {
+    "row": 4,
+    "col": 3,
+    "Season": "1983-84",
+    "Year": 1984,
+    "Coach": "K.C. Jones",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-3",
+    "Record": "62-20"
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "Season": "1985-86",
+    "Year": 1986,
+    "Coach": "K.C. Jones",
+    "Opponent": "Houston Rockets",
+    "Series_score": "4-2",
+    "Record": "67-15"
+  },
+  {
+    "row": 5,
+    "col": 1,
+    "Season": "2007-08",
+    "Year": 2008,
+    "Coach": "Doc Rivers",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-2",
+    "Record": "66-16"
+  },
+  {
+    "row": 5,
+    "col": 2,
+    "Season": "2023-24",
+    "Year": 2024,
+    "Coach": "Joe Mazzulla",
+    "Opponent": "Dallas Mavericks",
+    "Series_score": "4-1",
+    "Record": "64-18"
+  }
+]
