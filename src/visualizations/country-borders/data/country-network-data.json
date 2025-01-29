@@ -1,0 +1,5601 @@
+{
+  "nodes": [
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "population": 77006,
+      "border_num": 2,
+      "continent": "Europe"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "population": 9630959,
+      "border_num": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "population": 37172386,
+      "border_num": 6,
+      "continent": "Asia"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "population": 96286,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Anguilla",
+      "code": "AI",
+      "population": 15094,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "population": 2866376,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "population": 2951776,
+      "border_num": 4,
+      "continent": "Asia"
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "population": 30809762,
+      "border_num": 4,
+      "continent": "Africa"
+    },
+    {
+      "name": "Antarctica",
+      "code": "AQ",
+      "population": 1106,
+      "border_num": 1,
+      "continent": "Antarctica"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "population": 44494502,
+      "border_num": 5,
+      "continent": "South America"
+    },
+    {
+      "name": "American Samoa",
+      "code": "AS",
+      "population": 55465,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "population": 8840521,
+      "border_num": 8,
+      "continent": "Europe"
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "population": 24982688,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Aruba",
+      "code": "AW",
+      "population": 105845,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Aland Islands",
+      "code": "AX",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "population": 9939800,
+      "border_num": 5,
+      "continent": "Asia"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "population": 3323929,
+      "border_num": 3,
+      "continent": "Europe"
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "population": 286641,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "population": 161356039,
+      "border_num": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "population": 11433256,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "population": 19751535,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "population": 7025037,
+      "border_num": 5,
+      "continent": "Europe"
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "population": 1569439,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "population": 11175378,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "population": 11485048,
+      "border_num": 4,
+      "continent": "Africa"
+    },
+    {
+      "name": "Saint Barthelemy",
+      "code": "BL",
+      "population": 0,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Bermuda",
+      "code": "BM",
+      "population": 63973,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "code": "BN",
+      "population": 428962,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Bolivia (Plurinational State Of)",
+      "code": "BO",
+      "population": 11353142,
+      "border_num": 5,
+      "continent": "South America"
+    },
+    {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "code": "BQ",
+      "population": 0,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "population": 209469333,
+      "border_num": 10,
+      "continent": "South America"
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS",
+      "population": 385640,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT",
+      "population": 754394,
+      "border_num": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Bouvet Island",
+      "code": "BV",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Antarctica"
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "population": 2254126,
+      "border_num": 4,
+      "continent": "Africa"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "population": 9483499,
+      "border_num": 5,
+      "continent": "Europe"
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "population": 383071,
+      "border_num": 2,
+      "continent": "North America"
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "population": 37057765,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "code": "CC",
+      "population": 596,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Congo (the Democratic Republic of the)",
+      "code": "CD",
+      "population": 84068091,
+      "border_num": 9,
+      "continent": "Africa"
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "population": 4666377,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "Congo",
+      "code": "CG",
+      "population": 5244363,
+      "border_num": 5,
+      "continent": "Africa"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "population": 8513227,
+      "border_num": 5,
+      "continent": "Europe"
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "code": "CI",
+      "population": 0,
+      "border_num": 5,
+      "continent": "Africa"
+    },
+    {
+      "name": "Cook Islands",
+      "code": "CK",
+      "population": 17379,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "population": 18729160,
+      "border_num": 3,
+      "continent": "South America"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "population": 25216237,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "population": 1392730000,
+      "border_num": 16,
+      "continent": "Asia"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "population": 49648685,
+      "border_num": 5,
+      "continent": "South America"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "population": 4999441,
+      "border_num": 2,
+      "continent": "North America"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "population": 11338138,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "population": 555987,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Curacao",
+      "code": "CW",
+      "population": 0,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Christmas Island",
+      "code": "CX",
+      "population": 1402,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "population": 1189265,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Czechia",
+      "code": "CZ",
+      "population": 10629928,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "population": 82905782,
+      "border_num": 9,
+      "continent": "Europe"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "population": 958920,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "population": 5793636,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "population": 71625,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "population": 10627165,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "population": 42228429,
+      "border_num": 7,
+      "continent": "Africa"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "population": 17084357,
+      "border_num": 2,
+      "continent": "South America"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "population": 1321977,
+      "border_num": 2,
+      "continent": "Europe"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "population": 98423595,
+      "border_num": 4,
+      "continent": "Africa"
+    },
+    {
+      "name": "Western Sahara",
+      "code": "EH",
+      "population": 652271,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "population": 6213972,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "population": 46796540,
+      "border_num": 5,
+      "continent": "Europe"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "population": 109224559,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "population": 5515525,
+      "border_num": 3,
+      "continent": "Europe"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "population": 883483,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "code": "FK",
+      "population": 2840,
+      "border_num": 1,
+      "continent": "South America"
+    },
+    {
+      "name": "Micronesia (Federated States of)",
+      "code": "FM",
+      "population": 112640,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "FO",
+      "population": 48497,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "population": 66977107,
+      "border_num": 8,
+      "continent": "Europe"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "population": 2119275,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "population": 66460344,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "population": 111454,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "population": 3726549,
+      "border_num": 4,
+      "continent": "Asia"
+    },
+    {
+      "name": "French Guiana",
+      "code": "GF",
+      "population": 290691,
+      "border_num": 2,
+      "continent": "South America"
+    },
+    {
+      "name": "Guernsey",
+      "code": "GG",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "population": 29767108,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Gibraltar",
+      "code": "GI",
+      "population": 33718,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Greenland",
+      "code": "GL",
+      "population": 56025,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Gambia",
+      "code": "GM",
+      "population": 2280102,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "population": 12414318,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP",
+      "population": 395700,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "population": 1308974,
+      "border_num": 2,
+      "continent": "Africa"
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "population": 10731726,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "code": "GS",
+      "population": 30,
+      "border_num": 1,
+      "continent": "Antarctica"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "population": 17247807,
+      "border_num": 4,
+      "continent": "North America"
+    },
+    {
+      "name": "Guam",
+      "code": "GU",
+      "population": 165768,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "population": 1874309,
+      "border_num": 2,
+      "continent": "Africa"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "population": 779004,
+      "border_num": 3,
+      "continent": "South America"
+    },
+    {
+      "name": "Hong Kong",
+      "code": "HK",
+      "population": 7451000,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "code": "HM",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Antarctica"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "population": 9587522,
+      "border_num": 3,
+      "continent": "North America"
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "population": 4087843,
+      "border_num": 5,
+      "continent": "Europe"
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "population": 11123176,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "population": 9775564,
+      "border_num": 7,
+      "continent": "Europe"
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "population": 267663435,
+      "border_num": 3,
+      "continent": "Asia"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "population": 4867309,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "population": 8882800,
+      "border_num": 5,
+      "continent": "Asia"
+    },
+    {
+      "name": "Isle of Man",
+      "code": "IM",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "population": 1352617328,
+      "border_num": 6,
+      "continent": "Asia"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "code": "IO",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "population": 38433600,
+      "border_num": 6,
+      "continent": "Asia"
+    },
+    {
+      "name": "Iran (Islamic Republic of)",
+      "code": "IR",
+      "population": 81800269,
+      "border_num": 7,
+      "continent": "Asia"
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "population": 352721,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "population": 60421760,
+      "border_num": 6,
+      "continent": "Europe"
+    },
+    {
+      "name": "Jersey",
+      "code": "JE",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "population": 2934855,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "population": 9956011,
+      "border_num": 5,
+      "continent": "Asia"
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "population": 126529100,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "population": 51393010,
+      "border_num": 5,
+      "continent": "Africa"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "population": 6322800,
+      "border_num": 4,
+      "continent": "Asia"
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "population": 16249798,
+      "border_num": 3,
+      "continent": "Asia"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "population": 115847,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "population": 832322,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "population": 52441,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "North Korea",
+      "code": "KP",
+      "population": 25549819,
+      "border_num": 3,
+      "continent": "Asia"
+    },
+    {
+      "name": "South Korea",
+      "code": "KR",
+      "population": 51606633,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "population": 4137309,
+      "border_num": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Cayman Islands",
+      "code": "KY",
+      "population": 64174,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "population": 18272430,
+      "border_num": 5,
+      "continent": "Asia"
+    },
+    {
+      "name": "Laos",
+      "code": "LA",
+      "population": 7061507,
+      "border_num": 5,
+      "continent": "Asia"
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "population": 6848925,
+      "border_num": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "population": 181889,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "population": 37910,
+      "border_num": 2,
+      "continent": "Europe"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "population": 21670000,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "population": 4818977,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "population": 2108132,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "population": 2801543,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "population": 607950,
+      "border_num": 3,
+      "continent": "Europe"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "population": 1927174,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "population": 6678567,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "population": 36029138,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "population": 38682,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Moldova (the Republic of)",
+      "code": "MD",
+      "population": 2706049,
+      "border_num": 2,
+      "continent": "Europe"
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "population": 631219,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "Saint Martin (French part)",
+      "code": "MF",
+      "population": 0,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "population": 26262368,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "population": 58413,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "population": 2084367,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "population": 19077690,
+      "border_num": 7,
+      "continent": "Africa"
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "population": 53708395,
+      "border_num": 5,
+      "continent": "Asia"
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "population": 3170208,
+      "border_num": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Macao",
+      "code": "MO",
+      "population": 631636,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "code": "MP",
+      "population": 56882,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Martinique",
+      "code": "MQ",
+      "population": 376480,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "population": 4403319,
+      "border_num": 4,
+      "continent": "Africa"
+    },
+    {
+      "name": "Montserrat",
+      "code": "MS",
+      "population": 5900,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "population": 484630,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "population": 1265303,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "population": 515696,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "population": 18143315,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "population": 126190788,
+      "border_num": 3,
+      "continent": "North America"
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "population": 31528585,
+      "border_num": 3,
+      "continent": "Asia"
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "population": 29495962,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "population": 2448255,
+      "border_num": 4,
+      "continent": "Africa"
+    },
+    {
+      "name": "New Caledonia",
+      "code": "NC",
+      "population": 284060,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "population": 22442948,
+      "border_num": 7,
+      "continent": "Africa"
+    },
+    {
+      "name": "Norfolk Island",
+      "code": "NF",
+      "population": 2169,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "population": 195874740,
+      "border_num": 4,
+      "continent": "Africa"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "population": 6465513,
+      "border_num": 2,
+      "continent": "North America"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "population": 17231624,
+      "border_num": 2,
+      "continent": "Europe"
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "population": 5311916,
+      "border_num": 3,
+      "continent": "Europe"
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "population": 28087871,
+      "border_num": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "population": 12704,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Niue",
+      "code": "NU",
+      "population": 1624,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "population": 4841000,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "population": 4829483,
+      "border_num": 3,
+      "continent": "Asia"
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "population": 4176873,
+      "border_num": 2,
+      "continent": "North America"
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "population": 31989256,
+      "border_num": 5,
+      "continent": "South America"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF",
+      "population": 277679,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "population": 8606316,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "population": 106651922,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "population": 212215030,
+      "border_num": 4,
+      "continent": "Asia"
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "population": 37974750,
+      "border_num": 7,
+      "continent": "Europe"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "code": "PM",
+      "population": 5888,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Pitcairn",
+      "code": "PN",
+      "population": 67,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "population": 3195153,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Palestine",
+      "code": "PS",
+      "population": 4569087,
+      "border_num": 3,
+      "continent": "Asia"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "population": 10283822,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "population": 17907,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "population": 6956071,
+      "border_num": 3,
+      "continent": "South America"
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "population": 2781677,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Reunion",
+      "code": "RE",
+      "population": 859959,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "population": 19466145,
+      "border_num": 5,
+      "continent": "Europe"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "population": 6963764,
+      "border_num": 8,
+      "continent": "Europe"
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "population": 144478050,
+      "border_num": 14,
+      "continent": "Europe"
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "population": 12301939,
+      "border_num": 4,
+      "continent": "Africa"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "population": 33699947,
+      "border_num": 7,
+      "continent": "Asia"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "population": 652858,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "population": 96762,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "population": 41801533,
+      "border_num": 7,
+      "continent": "Africa"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "population": 10175214,
+      "border_num": 2,
+      "continent": "Europe"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "population": 5638676,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "code": "SH",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "population": 2073894,
+      "border_num": 4,
+      "continent": "Europe"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "code": "SJ",
+      "population": 2572,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "population": 5446771,
+      "border_num": 5,
+      "continent": "Europe"
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "population": 7650154,
+      "border_num": 2,
+      "continent": "Africa"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "population": 33785,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "population": 15854360,
+      "border_num": 5,
+      "continent": "Africa"
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "population": 15008154,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "population": 575991,
+      "border_num": 3,
+      "continent": "South America"
+    },
+    {
+      "name": "South Sudan",
+      "code": "SS",
+      "population": 10975920,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "population": 211028,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "population": 6420744,
+      "border_num": 2,
+      "continent": "North America"
+    },
+    {
+      "name": "Sint Maarten (Dutch part)",
+      "code": "SX",
+      "population": 0,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "code": "SY",
+      "population": 16906283,
+      "border_num": 5,
+      "continent": "Asia"
+    },
+    {
+      "name": "Eswatini",
+      "code": "SZ",
+      "population": 1136191,
+      "border_num": 2,
+      "continent": "Africa"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "code": "TC",
+      "population": 37665,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "population": 15477751,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "French Southern Territories",
+      "code": "TF",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Antarctica"
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "population": 7889094,
+      "border_num": 3,
+      "continent": "Africa"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "population": 69428524,
+      "border_num": 4,
+      "continent": "Asia"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "population": 9100837,
+      "border_num": 4,
+      "continent": "Asia"
+    },
+    {
+      "name": "Tokelau",
+      "code": "TK",
+      "population": 1411,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "population": 1267972,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "population": 5850908,
+      "border_num": 4,
+      "continent": "Asia"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "population": 11565204,
+      "border_num": 2,
+      "continent": "Africa"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "population": 103197,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "population": 82319724,
+      "border_num": 8,
+      "continent": "Asia"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "population": 1389858,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "population": 11508,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Taiwan (Province of China)",
+      "code": "TW",
+      "population": 0,
+      "border_num": 1,
+      "continent": "Asia"
+    },
+    {
+      "name": "Tanzania (the United Republic of)",
+      "code": "TZ",
+      "population": 56318348,
+      "border_num": 8,
+      "continent": "Africa"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "population": 44622516,
+      "border_num": 7,
+      "continent": "Europe"
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "population": 42723139,
+      "border_num": 5,
+      "continent": "Africa"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "code": "UM",
+      "population": 300,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "United States of America",
+      "code": "US",
+      "population": 326687501,
+      "border_num": 2,
+      "continent": "North America"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "population": 3449299,
+      "border_num": 2,
+      "continent": "South America"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "population": 32955400,
+      "border_num": 5,
+      "continent": "Asia"
+    },
+    {
+      "name": "Holy See",
+      "code": "VA",
+      "population": 825,
+      "border_num": 1,
+      "continent": "Europe"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "population": 110210,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "code": "VE",
+      "population": 28870195,
+      "border_num": 3,
+      "continent": "South America"
+    },
+    {
+      "name": "Virgin Islands (British)",
+      "code": "VG",
+      "population": 29802,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Virgin Islands (U.S.)",
+      "code": "VI",
+      "population": 106977,
+      "border_num": 1,
+      "continent": "North America"
+    },
+    {
+      "name": "Viet Nam",
+      "code": "VN",
+      "population": 95540395,
+      "border_num": 3,
+      "continent": "Asia"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "population": 292680,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "code": "WF",
+      "population": 15289,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "population": 196130,
+      "border_num": 1,
+      "continent": "Oceania"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "population": 28498687,
+      "border_num": 2,
+      "continent": "Asia"
+    },
+    {
+      "name": "Mayotte",
+      "code": "YT",
+      "population": 270372,
+      "border_num": 1,
+      "continent": "Africa"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "population": 57779622,
+      "border_num": 6,
+      "continent": "Africa"
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "population": 17351822,
+      "border_num": 8,
+      "continent": "Africa"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "population": 14439018,
+      "border_num": 4,
+      "continent": "Africa"
+    }
+  ],
+  "links": [
+    {
+      "source": "Andorra",
+      "target": "France",
+      "population": 77006,
+      "border_num": 2
+    },
+    {
+      "source": "Andorra",
+      "target": "Spain",
+      "population": 77006,
+      "border_num": 2
+    },
+    {
+      "source": "United Arab Emirates",
+      "target": "Oman",
+      "population": 9630959,
+      "border_num": 2
+    },
+    {
+      "source": "United Arab Emirates",
+      "target": "Saudi Arabia",
+      "population": 9630959,
+      "border_num": 2
+    },
+    {
+      "source": "Afghanistan",
+      "target": "China",
+      "population": 37172386,
+      "border_num": 6
+    },
+    {
+      "source": "Afghanistan",
+      "target": "Iran (Islamic Republic of)",
+      "population": 37172386,
+      "border_num": 6
+    },
+    {
+      "source": "Afghanistan",
+      "target": "Pakistan",
+      "population": 37172386,
+      "border_num": 6
+    },
+    {
+      "source": "Afghanistan",
+      "target": "Tajikistan",
+      "population": 37172386,
+      "border_num": 6
+    },
+    {
+      "source": "Afghanistan",
+      "target": "Turkmenistan",
+      "population": 37172386,
+      "border_num": 6
+    },
+    {
+      "source": "Afghanistan",
+      "target": "Uzbekistan",
+      "population": 37172386,
+      "border_num": 6
+    },
+    {
+      "source": "Albania",
+      "target": "Greece",
+      "population": 2866376,
+      "border_num": 4
+    },
+    {
+      "source": "Albania",
+      "target": "Montenegro",
+      "population": 2866376,
+      "border_num": 4
+    },
+    {
+      "source": "Albania",
+      "target": "North Macedonia",
+      "population": 2866376,
+      "border_num": 4
+    },
+    {
+      "source": "Albania",
+      "target": "Serbia",
+      "population": 2866376,
+      "border_num": 4
+    },
+    {
+      "source": "Armenia",
+      "target": "Azerbaijan",
+      "population": 2951776,
+      "border_num": 4
+    },
+    {
+      "source": "Armenia",
+      "target": "Georgia",
+      "population": 2951776,
+      "border_num": 4
+    },
+    {
+      "source": "Armenia",
+      "target": "Iran (Islamic Republic of)",
+      "population": 2951776,
+      "border_num": 4
+    },
+    {
+      "source": "Armenia",
+      "target": "Turkey",
+      "population": 2951776,
+      "border_num": 4
+    },
+    {
+      "source": "Angola",
+      "target": "Congo",
+      "population": 30809762,
+      "border_num": 4
+    },
+    {
+      "source": "Angola",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 30809762,
+      "border_num": 4
+    },
+    {
+      "source": "Angola",
+      "target": "Namibia",
+      "population": 30809762,
+      "border_num": 4
+    },
+    {
+      "source": "Angola",
+      "target": "Zambia",
+      "population": 30809762,
+      "border_num": 4
+    },
+    {
+      "source": "Argentina",
+      "target": "Bolivia (Plurinational State Of)",
+      "population": 44494502,
+      "border_num": 5
+    },
+    {
+      "source": "Argentina",
+      "target": "Brazil",
+      "population": 44494502,
+      "border_num": 5
+    },
+    {
+      "source": "Argentina",
+      "target": "Chile",
+      "population": 44494502,
+      "border_num": 5
+    },
+    {
+      "source": "Argentina",
+      "target": "Paraguay",
+      "population": 44494502,
+      "border_num": 5
+    },
+    {
+      "source": "Argentina",
+      "target": "Uruguay",
+      "population": 44494502,
+      "border_num": 5
+    },
+    {
+      "source": "Austria",
+      "target": "Czechia",
+      "population": 8840521,
+      "border_num": 8
+    },
+    {
+      "source": "Austria",
+      "target": "Germany",
+      "population": 8840521,
+      "border_num": 8
+    },
+    {
+      "source": "Austria",
+      "target": "Hungary",
+      "population": 8840521,
+      "border_num": 8
+    },
+    {
+      "source": "Austria",
+      "target": "Italy",
+      "population": 8840521,
+      "border_num": 8
+    },
+    {
+      "source": "Austria",
+      "target": "Liechtenstein",
+      "population": 8840521,
+      "border_num": 8
+    },
+    {
+      "source": "Austria",
+      "target": "Slovakia",
+      "population": 8840521,
+      "border_num": 8
+    },
+    {
+      "source": "Austria",
+      "target": "Slovenia",
+      "population": 8840521,
+      "border_num": 8
+    },
+    {
+      "source": "Austria",
+      "target": "Switzerland",
+      "population": 8840521,
+      "border_num": 8
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Armenia",
+      "population": 9939800,
+      "border_num": 5
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Georgia",
+      "population": 9939800,
+      "border_num": 5
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Iran (Islamic Republic of)",
+      "population": 9939800,
+      "border_num": 5
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Russia",
+      "population": 9939800,
+      "border_num": 5
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Turkey",
+      "population": 9939800,
+      "border_num": 5
+    },
+    {
+      "source": "Bosnia and Herzegovina",
+      "target": "Croatia",
+      "population": 3323929,
+      "border_num": 3
+    },
+    {
+      "source": "Bosnia and Herzegovina",
+      "target": "Montenegro",
+      "population": 3323929,
+      "border_num": 3
+    },
+    {
+      "source": "Bosnia and Herzegovina",
+      "target": "Serbia",
+      "population": 3323929,
+      "border_num": 3
+    },
+    {
+      "source": "Bangladesh",
+      "target": "India",
+      "population": 161356039,
+      "border_num": 2
+    },
+    {
+      "source": "Bangladesh",
+      "target": "Myanmar",
+      "population": 161356039,
+      "border_num": 2
+    },
+    {
+      "source": "Belgium",
+      "target": "France",
+      "population": 11433256,
+      "border_num": 4
+    },
+    {
+      "source": "Belgium",
+      "target": "Germany",
+      "population": 11433256,
+      "border_num": 4
+    },
+    {
+      "source": "Belgium",
+      "target": "Luxembourg",
+      "population": 11433256,
+      "border_num": 4
+    },
+    {
+      "source": "Belgium",
+      "target": "Netherlands",
+      "population": 11433256,
+      "border_num": 4
+    },
+    {
+      "source": "Burkina Faso",
+      "target": "Benin",
+      "population": 19751535,
+      "border_num": 6
+    },
+    {
+      "source": "Burkina Faso",
+      "target": "Cote d'Ivoire",
+      "population": 19751535,
+      "border_num": 6
+    },
+    {
+      "source": "Burkina Faso",
+      "target": "Ghana",
+      "population": 19751535,
+      "border_num": 6
+    },
+    {
+      "source": "Burkina Faso",
+      "target": "Mali",
+      "population": 19751535,
+      "border_num": 6
+    },
+    {
+      "source": "Burkina Faso",
+      "target": "Niger",
+      "population": 19751535,
+      "border_num": 6
+    },
+    {
+      "source": "Burkina Faso",
+      "target": "Togo",
+      "population": 19751535,
+      "border_num": 6
+    },
+    {
+      "source": "Bulgaria",
+      "target": "Greece",
+      "population": 7025037,
+      "border_num": 5
+    },
+    {
+      "source": "Bulgaria",
+      "target": "North Macedonia",
+      "population": 7025037,
+      "border_num": 5
+    },
+    {
+      "source": "Bulgaria",
+      "target": "Romania",
+      "population": 7025037,
+      "border_num": 5
+    },
+    {
+      "source": "Bulgaria",
+      "target": "Serbia",
+      "population": 7025037,
+      "border_num": 5
+    },
+    {
+      "source": "Bulgaria",
+      "target": "Turkey",
+      "population": 7025037,
+      "border_num": 5
+    },
+    {
+      "source": "Burundi",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 11175378,
+      "border_num": 3
+    },
+    {
+      "source": "Burundi",
+      "target": "Rwanda",
+      "population": 11175378,
+      "border_num": 3
+    },
+    {
+      "source": "Burundi",
+      "target": "Tanzania (the United Republic of)",
+      "population": 11175378,
+      "border_num": 3
+    },
+    {
+      "source": "Benin",
+      "target": "Burkina Faso",
+      "population": 11485048,
+      "border_num": 4
+    },
+    {
+      "source": "Benin",
+      "target": "Niger",
+      "population": 11485048,
+      "border_num": 4
+    },
+    {
+      "source": "Benin",
+      "target": "Nigeria",
+      "population": 11485048,
+      "border_num": 4
+    },
+    {
+      "source": "Benin",
+      "target": "Togo",
+      "population": 11485048,
+      "border_num": 4
+    },
+    {
+      "source": "Brunei Darussalam",
+      "target": "Malaysia",
+      "population": 428962,
+      "border_num": 1
+    },
+    {
+      "source": "Bolivia (Plurinational State Of)",
+      "target": "Argentina",
+      "population": 11353142,
+      "border_num": 5
+    },
+    {
+      "source": "Bolivia (Plurinational State Of)",
+      "target": "Brazil",
+      "population": 11353142,
+      "border_num": 5
+    },
+    {
+      "source": "Bolivia (Plurinational State Of)",
+      "target": "Chile",
+      "population": 11353142,
+      "border_num": 5
+    },
+    {
+      "source": "Bolivia (Plurinational State Of)",
+      "target": "Paraguay",
+      "population": 11353142,
+      "border_num": 5
+    },
+    {
+      "source": "Bolivia (Plurinational State Of)",
+      "target": "Peru",
+      "population": 11353142,
+      "border_num": 5
+    },
+    {
+      "source": "Brazil",
+      "target": "Argentina",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "Bolivia (Plurinational State Of)",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "Colombia",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "French Guiana",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "Guyana",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "Paraguay",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "Peru",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "Suriname",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "Uruguay",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Brazil",
+      "target": "Venezuela (Bolivarian Republic of)",
+      "population": 209469333,
+      "border_num": 10
+    },
+    {
+      "source": "Bhutan",
+      "target": "China",
+      "population": 754394,
+      "border_num": 2
+    },
+    {
+      "source": "Bhutan",
+      "target": "India",
+      "population": 754394,
+      "border_num": 2
+    },
+    {
+      "source": "Botswana",
+      "target": "Namibia",
+      "population": 2254126,
+      "border_num": 4
+    },
+    {
+      "source": "Botswana",
+      "target": "South Africa",
+      "population": 2254126,
+      "border_num": 4
+    },
+    {
+      "source": "Botswana",
+      "target": "Zambia",
+      "population": 2254126,
+      "border_num": 4
+    },
+    {
+      "source": "Botswana",
+      "target": "Zimbabwe",
+      "population": 2254126,
+      "border_num": 4
+    },
+    {
+      "source": "Belarus",
+      "target": "Latvia",
+      "population": 9483499,
+      "border_num": 5
+    },
+    {
+      "source": "Belarus",
+      "target": "Lithuania",
+      "population": 9483499,
+      "border_num": 5
+    },
+    {
+      "source": "Belarus",
+      "target": "Poland",
+      "population": 9483499,
+      "border_num": 5
+    },
+    {
+      "source": "Belarus",
+      "target": "Russia",
+      "population": 9483499,
+      "border_num": 5
+    },
+    {
+      "source": "Belarus",
+      "target": "Ukraine",
+      "population": 9483499,
+      "border_num": 5
+    },
+    {
+      "source": "Belize",
+      "target": "Guatemala",
+      "population": 383071,
+      "border_num": 2
+    },
+    {
+      "source": "Belize",
+      "target": "Mexico",
+      "population": 383071,
+      "border_num": 2
+    },
+    {
+      "source": "Canada",
+      "target": "United States of America",
+      "population": 37057765,
+      "border_num": 1
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "Angola",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "Burundi",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "Central African Republic",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "Congo",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "Rwanda",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "South Sudan",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "Tanzania (the United Republic of)",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "Uganda",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Congo (the Democratic Republic of the)",
+      "target": "Zambia",
+      "population": 84068091,
+      "border_num": 9
+    },
+    {
+      "source": "Central African Republic",
+      "target": "Cameroon",
+      "population": 4666377,
+      "border_num": 6
+    },
+    {
+      "source": "Central African Republic",
+      "target": "Chad",
+      "population": 4666377,
+      "border_num": 6
+    },
+    {
+      "source": "Central African Republic",
+      "target": "Congo",
+      "population": 4666377,
+      "border_num": 6
+    },
+    {
+      "source": "Central African Republic",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 4666377,
+      "border_num": 6
+    },
+    {
+      "source": "Central African Republic",
+      "target": "South Sudan",
+      "population": 4666377,
+      "border_num": 6
+    },
+    {
+      "source": "Central African Republic",
+      "target": "Sudan",
+      "population": 4666377,
+      "border_num": 6
+    },
+    {
+      "source": "Congo",
+      "target": "Angola",
+      "population": 5244363,
+      "border_num": 5
+    },
+    {
+      "source": "Congo",
+      "target": "Cameroon",
+      "population": 5244363,
+      "border_num": 5
+    },
+    {
+      "source": "Congo",
+      "target": "Central African Republic",
+      "population": 5244363,
+      "border_num": 5
+    },
+    {
+      "source": "Congo",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 5244363,
+      "border_num": 5
+    },
+    {
+      "source": "Congo",
+      "target": "Gabon",
+      "population": 5244363,
+      "border_num": 5
+    },
+    {
+      "source": "Switzerland",
+      "target": "Austria",
+      "population": 8513227,
+      "border_num": 5
+    },
+    {
+      "source": "Switzerland",
+      "target": "France",
+      "population": 8513227,
+      "border_num": 5
+    },
+    {
+      "source": "Switzerland",
+      "target": "Germany",
+      "population": 8513227,
+      "border_num": 5
+    },
+    {
+      "source": "Switzerland",
+      "target": "Italy",
+      "population": 8513227,
+      "border_num": 5
+    },
+    {
+      "source": "Switzerland",
+      "target": "Liechtenstein",
+      "population": 8513227,
+      "border_num": 5
+    },
+    {
+      "source": "Cote d'Ivoire",
+      "target": "Burkina Faso",
+      "population": 0,
+      "border_num": 5
+    },
+    {
+      "source": "Cote d'Ivoire",
+      "target": "Ghana",
+      "population": 0,
+      "border_num": 5
+    },
+    {
+      "source": "Cote d'Ivoire",
+      "target": "Guinea",
+      "population": 0,
+      "border_num": 5
+    },
+    {
+      "source": "Cote d'Ivoire",
+      "target": "Liberia",
+      "population": 0,
+      "border_num": 5
+    },
+    {
+      "source": "Cote d'Ivoire",
+      "target": "Mali",
+      "population": 0,
+      "border_num": 5
+    },
+    {
+      "source": "Chile",
+      "target": "Argentina",
+      "population": 18729160,
+      "border_num": 3
+    },
+    {
+      "source": "Chile",
+      "target": "Bolivia (Plurinational State Of)",
+      "population": 18729160,
+      "border_num": 3
+    },
+    {
+      "source": "Chile",
+      "target": "Peru",
+      "population": 18729160,
+      "border_num": 3
+    },
+    {
+      "source": "Cameroon",
+      "target": "Central African Republic",
+      "population": 25216237,
+      "border_num": 6
+    },
+    {
+      "source": "Cameroon",
+      "target": "Chad",
+      "population": 25216237,
+      "border_num": 6
+    },
+    {
+      "source": "Cameroon",
+      "target": "Congo",
+      "population": 25216237,
+      "border_num": 6
+    },
+    {
+      "source": "Cameroon",
+      "target": "Equatorial Guinea",
+      "population": 25216237,
+      "border_num": 6
+    },
+    {
+      "source": "Cameroon",
+      "target": "Gabon",
+      "population": 25216237,
+      "border_num": 6
+    },
+    {
+      "source": "Cameroon",
+      "target": "Nigeria",
+      "population": 25216237,
+      "border_num": 6
+    },
+    {
+      "source": "China",
+      "target": "Afghanistan",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Bhutan",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Hong Kong",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "India",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Kazakhstan",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "North Korea",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Kyrgyzstan",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Laos",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Macao",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Mongolia",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Myanmar",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Nepal",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Pakistan",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Russia",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Tajikistan",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "China",
+      "target": "Viet Nam",
+      "population": 1392730000,
+      "border_num": 16
+    },
+    {
+      "source": "Colombia",
+      "target": "Brazil",
+      "population": 49648685,
+      "border_num": 5
+    },
+    {
+      "source": "Colombia",
+      "target": "Ecuador",
+      "population": 49648685,
+      "border_num": 5
+    },
+    {
+      "source": "Colombia",
+      "target": "Panama",
+      "population": 49648685,
+      "border_num": 5
+    },
+    {
+      "source": "Colombia",
+      "target": "Peru",
+      "population": 49648685,
+      "border_num": 5
+    },
+    {
+      "source": "Colombia",
+      "target": "Venezuela (Bolivarian Republic of)",
+      "population": 49648685,
+      "border_num": 5
+    },
+    {
+      "source": "Costa Rica",
+      "target": "Nicaragua",
+      "population": 4999441,
+      "border_num": 2
+    },
+    {
+      "source": "Costa Rica",
+      "target": "Panama",
+      "population": 4999441,
+      "border_num": 2
+    },
+    {
+      "source": "Czechia",
+      "target": "Austria",
+      "population": 10629928,
+      "border_num": 4
+    },
+    {
+      "source": "Czechia",
+      "target": "Germany",
+      "population": 10629928,
+      "border_num": 4
+    },
+    {
+      "source": "Czechia",
+      "target": "Poland",
+      "population": 10629928,
+      "border_num": 4
+    },
+    {
+      "source": "Czechia",
+      "target": "Slovakia",
+      "population": 10629928,
+      "border_num": 4
+    },
+    {
+      "source": "Germany",
+      "target": "Austria",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Germany",
+      "target": "Belgium",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Germany",
+      "target": "Czechia",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Germany",
+      "target": "Denmark",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Germany",
+      "target": "Luxembourg",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Germany",
+      "target": "Poland",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Germany",
+      "target": "Switzerland",
+      "population": 82905782,
+      "border_num": 9
+    },
+    {
+      "source": "Djibouti",
+      "target": "Eritrea",
+      "population": 958920,
+      "border_num": 3
+    },
+    {
+      "source": "Djibouti",
+      "target": "Ethiopia",
+      "population": 958920,
+      "border_num": 3
+    },
+    {
+      "source": "Djibouti",
+      "target": "Somalia",
+      "population": 958920,
+      "border_num": 3
+    },
+    {
+      "source": "Denmark",
+      "target": "Germany",
+      "population": 5793636,
+      "border_num": 1
+    },
+    {
+      "source": "Dominican Republic",
+      "target": "Haiti",
+      "population": 10627165,
+      "border_num": 1
+    },
+    {
+      "source": "Algeria",
+      "target": "Libya",
+      "population": 42228429,
+      "border_num": 7
+    },
+    {
+      "source": "Algeria",
+      "target": "Mali",
+      "population": 42228429,
+      "border_num": 7
+    },
+    {
+      "source": "Algeria",
+      "target": "Mauritania",
+      "population": 42228429,
+      "border_num": 7
+    },
+    {
+      "source": "Algeria",
+      "target": "Morocco",
+      "population": 42228429,
+      "border_num": 7
+    },
+    {
+      "source": "Algeria",
+      "target": "Niger",
+      "population": 42228429,
+      "border_num": 7
+    },
+    {
+      "source": "Algeria",
+      "target": "Tunisia",
+      "population": 42228429,
+      "border_num": 7
+    },
+    {
+      "source": "Algeria",
+      "target": "Western Sahara",
+      "population": 42228429,
+      "border_num": 7
+    },
+    {
+      "source": "Ecuador",
+      "target": "Colombia",
+      "population": 17084357,
+      "border_num": 2
+    },
+    {
+      "source": "Ecuador",
+      "target": "Peru",
+      "population": 17084357,
+      "border_num": 2
+    },
+    {
+      "source": "Estonia",
+      "target": "Latvia",
+      "population": 1321977,
+      "border_num": 2
+    },
+    {
+      "source": "Estonia",
+      "target": "Russia",
+      "population": 1321977,
+      "border_num": 2
+    },
+    {
+      "source": "Egypt",
+      "target": "Israel",
+      "population": 98423595,
+      "border_num": 4
+    },
+    {
+      "source": "Egypt",
+      "target": "Libya",
+      "population": 98423595,
+      "border_num": 4
+    },
+    {
+      "source": "Egypt",
+      "target": "Palestine",
+      "population": 98423595,
+      "border_num": 4
+    },
+    {
+      "source": "Egypt",
+      "target": "Sudan",
+      "population": 98423595,
+      "border_num": 4
+    },
+    {
+      "source": "Western Sahara",
+      "target": "Algeria",
+      "population": 652271,
+      "border_num": 3
+    },
+    {
+      "source": "Western Sahara",
+      "target": "Mauritania",
+      "population": 652271,
+      "border_num": 3
+    },
+    {
+      "source": "Western Sahara",
+      "target": "Morocco",
+      "population": 652271,
+      "border_num": 3
+    },
+    {
+      "source": "Eritrea",
+      "target": "Djibouti",
+      "population": 6213972,
+      "border_num": 3
+    },
+    {
+      "source": "Eritrea",
+      "target": "Ethiopia",
+      "population": 6213972,
+      "border_num": 3
+    },
+    {
+      "source": "Eritrea",
+      "target": "Sudan",
+      "population": 6213972,
+      "border_num": 3
+    },
+    {
+      "source": "Spain",
+      "target": "Andorra",
+      "population": 46796540,
+      "border_num": 5
+    },
+    {
+      "source": "Spain",
+      "target": "France",
+      "population": 46796540,
+      "border_num": 5
+    },
+    {
+      "source": "Spain",
+      "target": "Gibraltar",
+      "population": 46796540,
+      "border_num": 5
+    },
+    {
+      "source": "Spain",
+      "target": "Morocco",
+      "population": 46796540,
+      "border_num": 5
+    },
+    {
+      "source": "Spain",
+      "target": "Portugal",
+      "population": 46796540,
+      "border_num": 5
+    },
+    {
+      "source": "Ethiopia",
+      "target": "Djibouti",
+      "population": 109224559,
+      "border_num": 6
+    },
+    {
+      "source": "Ethiopia",
+      "target": "Eritrea",
+      "population": 109224559,
+      "border_num": 6
+    },
+    {
+      "source": "Ethiopia",
+      "target": "Kenya",
+      "population": 109224559,
+      "border_num": 6
+    },
+    {
+      "source": "Ethiopia",
+      "target": "Somalia",
+      "population": 109224559,
+      "border_num": 6
+    },
+    {
+      "source": "Ethiopia",
+      "target": "South Sudan",
+      "population": 109224559,
+      "border_num": 6
+    },
+    {
+      "source": "Ethiopia",
+      "target": "Sudan",
+      "population": 109224559,
+      "border_num": 6
+    },
+    {
+      "source": "Finland",
+      "target": "Norway",
+      "population": 5515525,
+      "border_num": 3
+    },
+    {
+      "source": "Finland",
+      "target": "Russia",
+      "population": 5515525,
+      "border_num": 3
+    },
+    {
+      "source": "Finland",
+      "target": "Sweden",
+      "population": 5515525,
+      "border_num": 3
+    },
+    {
+      "source": "France",
+      "target": "Andorra",
+      "population": 66977107,
+      "border_num": 8
+    },
+    {
+      "source": "France",
+      "target": "Belgium",
+      "population": 66977107,
+      "border_num": 8
+    },
+    {
+      "source": "France",
+      "target": "Germany",
+      "population": 66977107,
+      "border_num": 8
+    },
+    {
+      "source": "France",
+      "target": "Italy",
+      "population": 66977107,
+      "border_num": 8
+    },
+    {
+      "source": "France",
+      "target": "Luxembourg",
+      "population": 66977107,
+      "border_num": 8
+    },
+    {
+      "source": "France",
+      "target": "Monaco",
+      "population": 66977107,
+      "border_num": 8
+    },
+    {
+      "source": "France",
+      "target": "Spain",
+      "population": 66977107,
+      "border_num": 8
+    },
+    {
+      "source": "France",
+      "target": "Switzerland",
+      "population": 66977107,
+      "border_num": 8
+    },
+    {
+      "source": "Gabon",
+      "target": "Cameroon",
+      "population": 2119275,
+      "border_num": 3
+    },
+    {
+      "source": "Gabon",
+      "target": "Congo",
+      "population": 2119275,
+      "border_num": 3
+    },
+    {
+      "source": "Gabon",
+      "target": "Equatorial Guinea",
+      "population": 2119275,
+      "border_num": 3
+    },
+    {
+      "source": "United Kingdom",
+      "target": "Ireland",
+      "population": 66460344,
+      "border_num": 1
+    },
+    {
+      "source": "Georgia",
+      "target": "Armenia",
+      "population": 3726549,
+      "border_num": 4
+    },
+    {
+      "source": "Georgia",
+      "target": "Azerbaijan",
+      "population": 3726549,
+      "border_num": 4
+    },
+    {
+      "source": "Georgia",
+      "target": "Russia",
+      "population": 3726549,
+      "border_num": 4
+    },
+    {
+      "source": "Georgia",
+      "target": "Turkey",
+      "population": 3726549,
+      "border_num": 4
+    },
+    {
+      "source": "French Guiana",
+      "target": "Brazil",
+      "population": 290691,
+      "border_num": 2
+    },
+    {
+      "source": "French Guiana",
+      "target": "Suriname",
+      "population": 290691,
+      "border_num": 2
+    },
+    {
+      "source": "Ghana",
+      "target": "Burkina Faso",
+      "population": 29767108,
+      "border_num": 3
+    },
+    {
+      "source": "Ghana",
+      "target": "Cote d'Ivoire",
+      "population": 29767108,
+      "border_num": 3
+    },
+    {
+      "source": "Ghana",
+      "target": "Togo",
+      "population": 29767108,
+      "border_num": 3
+    },
+    {
+      "source": "Gibraltar",
+      "target": "Spain",
+      "population": 33718,
+      "border_num": 1
+    },
+    {
+      "source": "Gambia",
+      "target": "Senegal",
+      "population": 2280102,
+      "border_num": 1
+    },
+    {
+      "source": "Guinea",
+      "target": "Cote d'Ivoire",
+      "population": 12414318,
+      "border_num": 6
+    },
+    {
+      "source": "Guinea",
+      "target": "Guinea-Bissau",
+      "population": 12414318,
+      "border_num": 6
+    },
+    {
+      "source": "Guinea",
+      "target": "Liberia",
+      "population": 12414318,
+      "border_num": 6
+    },
+    {
+      "source": "Guinea",
+      "target": "Mali",
+      "population": 12414318,
+      "border_num": 6
+    },
+    {
+      "source": "Guinea",
+      "target": "Senegal",
+      "population": 12414318,
+      "border_num": 6
+    },
+    {
+      "source": "Guinea",
+      "target": "Sierra Leone",
+      "population": 12414318,
+      "border_num": 6
+    },
+    {
+      "source": "Equatorial Guinea",
+      "target": "Cameroon",
+      "population": 1308974,
+      "border_num": 2
+    },
+    {
+      "source": "Equatorial Guinea",
+      "target": "Gabon",
+      "population": 1308974,
+      "border_num": 2
+    },
+    {
+      "source": "Greece",
+      "target": "Albania",
+      "population": 10731726,
+      "border_num": 4
+    },
+    {
+      "source": "Greece",
+      "target": "Bulgaria",
+      "population": 10731726,
+      "border_num": 4
+    },
+    {
+      "source": "Greece",
+      "target": "North Macedonia",
+      "population": 10731726,
+      "border_num": 4
+    },
+    {
+      "source": "Greece",
+      "target": "Turkey",
+      "population": 10731726,
+      "border_num": 4
+    },
+    {
+      "source": "Guatemala",
+      "target": "Belize",
+      "population": 17247807,
+      "border_num": 4
+    },
+    {
+      "source": "Guatemala",
+      "target": "El Salvador",
+      "population": 17247807,
+      "border_num": 4
+    },
+    {
+      "source": "Guatemala",
+      "target": "Honduras",
+      "population": 17247807,
+      "border_num": 4
+    },
+    {
+      "source": "Guatemala",
+      "target": "Mexico",
+      "population": 17247807,
+      "border_num": 4
+    },
+    {
+      "source": "Guinea-Bissau",
+      "target": "Guinea",
+      "population": 1874309,
+      "border_num": 2
+    },
+    {
+      "source": "Guinea-Bissau",
+      "target": "Senegal",
+      "population": 1874309,
+      "border_num": 2
+    },
+    {
+      "source": "Guyana",
+      "target": "Brazil",
+      "population": 779004,
+      "border_num": 3
+    },
+    {
+      "source": "Guyana",
+      "target": "Suriname",
+      "population": 779004,
+      "border_num": 3
+    },
+    {
+      "source": "Guyana",
+      "target": "Venezuela (Bolivarian Republic of)",
+      "population": 779004,
+      "border_num": 3
+    },
+    {
+      "source": "Hong Kong",
+      "target": "China",
+      "population": 7451000,
+      "border_num": 1
+    },
+    {
+      "source": "Honduras",
+      "target": "El Salvador",
+      "population": 9587522,
+      "border_num": 3
+    },
+    {
+      "source": "Honduras",
+      "target": "Guatemala",
+      "population": 9587522,
+      "border_num": 3
+    },
+    {
+      "source": "Honduras",
+      "target": "Nicaragua",
+      "population": 9587522,
+      "border_num": 3
+    },
+    {
+      "source": "Croatia",
+      "target": "Bosnia and Herzegovina",
+      "population": 4087843,
+      "border_num": 5
+    },
+    {
+      "source": "Croatia",
+      "target": "Hungary",
+      "population": 4087843,
+      "border_num": 5
+    },
+    {
+      "source": "Croatia",
+      "target": "Montenegro",
+      "population": 4087843,
+      "border_num": 5
+    },
+    {
+      "source": "Croatia",
+      "target": "Serbia",
+      "population": 4087843,
+      "border_num": 5
+    },
+    {
+      "source": "Croatia",
+      "target": "Slovenia",
+      "population": 4087843,
+      "border_num": 5
+    },
+    {
+      "source": "Haiti",
+      "target": "Dominican Republic",
+      "population": 11123176,
+      "border_num": 1
+    },
+    {
+      "source": "Hungary",
+      "target": "Austria",
+      "population": 9775564,
+      "border_num": 7
+    },
+    {
+      "source": "Hungary",
+      "target": "Croatia",
+      "population": 9775564,
+      "border_num": 7
+    },
+    {
+      "source": "Hungary",
+      "target": "Romania",
+      "population": 9775564,
+      "border_num": 7
+    },
+    {
+      "source": "Hungary",
+      "target": "Serbia",
+      "population": 9775564,
+      "border_num": 7
+    },
+    {
+      "source": "Hungary",
+      "target": "Slovakia",
+      "population": 9775564,
+      "border_num": 7
+    },
+    {
+      "source": "Hungary",
+      "target": "Slovenia",
+      "population": 9775564,
+      "border_num": 7
+    },
+    {
+      "source": "Hungary",
+      "target": "Ukraine",
+      "population": 9775564,
+      "border_num": 7
+    },
+    {
+      "source": "Indonesia",
+      "target": "Malaysia",
+      "population": 267663435,
+      "border_num": 3
+    },
+    {
+      "source": "Indonesia",
+      "target": "Papua New Guinea",
+      "population": 267663435,
+      "border_num": 3
+    },
+    {
+      "source": "Indonesia",
+      "target": "Timor-Leste",
+      "population": 267663435,
+      "border_num": 3
+    },
+    {
+      "source": "Ireland",
+      "target": "United Kingdom",
+      "population": 4867309,
+      "border_num": 1
+    },
+    {
+      "source": "Israel",
+      "target": "Egypt",
+      "population": 8882800,
+      "border_num": 5
+    },
+    {
+      "source": "Israel",
+      "target": "Jordan",
+      "population": 8882800,
+      "border_num": 5
+    },
+    {
+      "source": "Israel",
+      "target": "Lebanon",
+      "population": 8882800,
+      "border_num": 5
+    },
+    {
+      "source": "Israel",
+      "target": "Palestine",
+      "population": 8882800,
+      "border_num": 5
+    },
+    {
+      "source": "Israel",
+      "target": "Syrian Arab Republic",
+      "population": 8882800,
+      "border_num": 5
+    },
+    {
+      "source": "India",
+      "target": "Bangladesh",
+      "population": 1352617328,
+      "border_num": 6
+    },
+    {
+      "source": "India",
+      "target": "Bhutan",
+      "population": 1352617328,
+      "border_num": 6
+    },
+    {
+      "source": "India",
+      "target": "China",
+      "population": 1352617328,
+      "border_num": 6
+    },
+    {
+      "source": "India",
+      "target": "Myanmar",
+      "population": 1352617328,
+      "border_num": 6
+    },
+    {
+      "source": "India",
+      "target": "Nepal",
+      "population": 1352617328,
+      "border_num": 6
+    },
+    {
+      "source": "India",
+      "target": "Pakistan",
+      "population": 1352617328,
+      "border_num": 6
+    },
+    {
+      "source": "Iraq",
+      "target": "Iran (Islamic Republic of)",
+      "population": 38433600,
+      "border_num": 6
+    },
+    {
+      "source": "Iraq",
+      "target": "Jordan",
+      "population": 38433600,
+      "border_num": 6
+    },
+    {
+      "source": "Iraq",
+      "target": "Kuwait",
+      "population": 38433600,
+      "border_num": 6
+    },
+    {
+      "source": "Iraq",
+      "target": "Saudi Arabia",
+      "population": 38433600,
+      "border_num": 6
+    },
+    {
+      "source": "Iraq",
+      "target": "Syrian Arab Republic",
+      "population": 38433600,
+      "border_num": 6
+    },
+    {
+      "source": "Iraq",
+      "target": "Turkey",
+      "population": 38433600,
+      "border_num": 6
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Afghanistan",
+      "population": 81800269,
+      "border_num": 7
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Armenia",
+      "population": 81800269,
+      "border_num": 7
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Azerbaijan",
+      "population": 81800269,
+      "border_num": 7
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Iraq",
+      "population": 81800269,
+      "border_num": 7
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Pakistan",
+      "population": 81800269,
+      "border_num": 7
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Turkey",
+      "population": 81800269,
+      "border_num": 7
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Turkmenistan",
+      "population": 81800269,
+      "border_num": 7
+    },
+    {
+      "source": "Italy",
+      "target": "Austria",
+      "population": 60421760,
+      "border_num": 6
+    },
+    {
+      "source": "Italy",
+      "target": "France",
+      "population": 60421760,
+      "border_num": 6
+    },
+    {
+      "source": "Italy",
+      "target": "San Marino",
+      "population": 60421760,
+      "border_num": 6
+    },
+    {
+      "source": "Italy",
+      "target": "Slovenia",
+      "population": 60421760,
+      "border_num": 6
+    },
+    {
+      "source": "Italy",
+      "target": "Switzerland",
+      "population": 60421760,
+      "border_num": 6
+    },
+    {
+      "source": "Italy",
+      "target": "Holy See",
+      "population": 60421760,
+      "border_num": 6
+    },
+    {
+      "source": "Jordan",
+      "target": "Iraq",
+      "population": 9956011,
+      "border_num": 5
+    },
+    {
+      "source": "Jordan",
+      "target": "Israel",
+      "population": 9956011,
+      "border_num": 5
+    },
+    {
+      "source": "Jordan",
+      "target": "Palestine",
+      "population": 9956011,
+      "border_num": 5
+    },
+    {
+      "source": "Jordan",
+      "target": "Saudi Arabia",
+      "population": 9956011,
+      "border_num": 5
+    },
+    {
+      "source": "Jordan",
+      "target": "Syrian Arab Republic",
+      "population": 9956011,
+      "border_num": 5
+    },
+    {
+      "source": "Kenya",
+      "target": "Ethiopia",
+      "population": 51393010,
+      "border_num": 5
+    },
+    {
+      "source": "Kenya",
+      "target": "Somalia",
+      "population": 51393010,
+      "border_num": 5
+    },
+    {
+      "source": "Kenya",
+      "target": "South Sudan",
+      "population": 51393010,
+      "border_num": 5
+    },
+    {
+      "source": "Kenya",
+      "target": "Tanzania (the United Republic of)",
+      "population": 51393010,
+      "border_num": 5
+    },
+    {
+      "source": "Kenya",
+      "target": "Uganda",
+      "population": 51393010,
+      "border_num": 5
+    },
+    {
+      "source": "Kyrgyzstan",
+      "target": "China",
+      "population": 6322800,
+      "border_num": 4
+    },
+    {
+      "source": "Kyrgyzstan",
+      "target": "Kazakhstan",
+      "population": 6322800,
+      "border_num": 4
+    },
+    {
+      "source": "Kyrgyzstan",
+      "target": "Tajikistan",
+      "population": 6322800,
+      "border_num": 4
+    },
+    {
+      "source": "Kyrgyzstan",
+      "target": "Uzbekistan",
+      "population": 6322800,
+      "border_num": 4
+    },
+    {
+      "source": "Cambodia",
+      "target": "Laos",
+      "population": 16249798,
+      "border_num": 3
+    },
+    {
+      "source": "Cambodia",
+      "target": "Thailand",
+      "population": 16249798,
+      "border_num": 3
+    },
+    {
+      "source": "Cambodia",
+      "target": "Viet Nam",
+      "population": 16249798,
+      "border_num": 3
+    },
+    {
+      "source": "North Korea",
+      "target": "China",
+      "population": 25549819,
+      "border_num": 3
+    },
+    {
+      "source": "North Korea",
+      "target": "South Korea",
+      "population": 25549819,
+      "border_num": 3
+    },
+    {
+      "source": "North Korea",
+      "target": "Russia",
+      "population": 25549819,
+      "border_num": 3
+    },
+    {
+      "source": "South Korea",
+      "target": "North Korea",
+      "population": 51606633,
+      "border_num": 1
+    },
+    {
+      "source": "Kuwait",
+      "target": "Iraq",
+      "population": 4137309,
+      "border_num": 2
+    },
+    {
+      "source": "Kuwait",
+      "target": "Saudi Arabia",
+      "population": 4137309,
+      "border_num": 2
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "China",
+      "population": 18272430,
+      "border_num": 5
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Kyrgyzstan",
+      "population": 18272430,
+      "border_num": 5
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Russia",
+      "population": 18272430,
+      "border_num": 5
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Turkmenistan",
+      "population": 18272430,
+      "border_num": 5
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Uzbekistan",
+      "population": 18272430,
+      "border_num": 5
+    },
+    {
+      "source": "Laos",
+      "target": "China",
+      "population": 7061507,
+      "border_num": 5
+    },
+    {
+      "source": "Laos",
+      "target": "Cambodia",
+      "population": 7061507,
+      "border_num": 5
+    },
+    {
+      "source": "Laos",
+      "target": "Myanmar",
+      "population": 7061507,
+      "border_num": 5
+    },
+    {
+      "source": "Laos",
+      "target": "Thailand",
+      "population": 7061507,
+      "border_num": 5
+    },
+    {
+      "source": "Laos",
+      "target": "Viet Nam",
+      "population": 7061507,
+      "border_num": 5
+    },
+    {
+      "source": "Lebanon",
+      "target": "Israel",
+      "population": 6848925,
+      "border_num": 2
+    },
+    {
+      "source": "Lebanon",
+      "target": "Syrian Arab Republic",
+      "population": 6848925,
+      "border_num": 2
+    },
+    {
+      "source": "Liechtenstein",
+      "target": "Austria",
+      "population": 37910,
+      "border_num": 2
+    },
+    {
+      "source": "Liechtenstein",
+      "target": "Switzerland",
+      "population": 37910,
+      "border_num": 2
+    },
+    {
+      "source": "Liberia",
+      "target": "Cote d'Ivoire",
+      "population": 4818977,
+      "border_num": 3
+    },
+    {
+      "source": "Liberia",
+      "target": "Guinea",
+      "population": 4818977,
+      "border_num": 3
+    },
+    {
+      "source": "Liberia",
+      "target": "Sierra Leone",
+      "population": 4818977,
+      "border_num": 3
+    },
+    {
+      "source": "Lesotho",
+      "target": "South Africa",
+      "population": 2108132,
+      "border_num": 1
+    },
+    {
+      "source": "Lithuania",
+      "target": "Belarus",
+      "population": 2801543,
+      "border_num": 4
+    },
+    {
+      "source": "Lithuania",
+      "target": "Latvia",
+      "population": 2801543,
+      "border_num": 4
+    },
+    {
+      "source": "Lithuania",
+      "target": "Poland",
+      "population": 2801543,
+      "border_num": 4
+    },
+    {
+      "source": "Lithuania",
+      "target": "Russia",
+      "population": 2801543,
+      "border_num": 4
+    },
+    {
+      "source": "Luxembourg",
+      "target": "Belgium",
+      "population": 607950,
+      "border_num": 3
+    },
+    {
+      "source": "Luxembourg",
+      "target": "Germany",
+      "population": 607950,
+      "border_num": 3
+    },
+    {
+      "source": "Luxembourg",
+      "target": "France",
+      "population": 607950,
+      "border_num": 3
+    },
+    {
+      "source": "Latvia",
+      "target": "Belarus",
+      "population": 1927174,
+      "border_num": 4
+    },
+    {
+      "source": "Latvia",
+      "target": "Estonia",
+      "population": 1927174,
+      "border_num": 4
+    },
+    {
+      "source": "Latvia",
+      "target": "Lithuania",
+      "population": 1927174,
+      "border_num": 4
+    },
+    {
+      "source": "Latvia",
+      "target": "Russia",
+      "population": 1927174,
+      "border_num": 4
+    },
+    {
+      "source": "Libya",
+      "target": "Algeria",
+      "population": 6678567,
+      "border_num": 6
+    },
+    {
+      "source": "Libya",
+      "target": "Chad",
+      "population": 6678567,
+      "border_num": 6
+    },
+    {
+      "source": "Libya",
+      "target": "Egypt",
+      "population": 6678567,
+      "border_num": 6
+    },
+    {
+      "source": "Libya",
+      "target": "Niger",
+      "population": 6678567,
+      "border_num": 6
+    },
+    {
+      "source": "Libya",
+      "target": "Sudan",
+      "population": 6678567,
+      "border_num": 6
+    },
+    {
+      "source": "Libya",
+      "target": "Tunisia",
+      "population": 6678567,
+      "border_num": 6
+    },
+    {
+      "source": "Morocco",
+      "target": "Algeria",
+      "population": 36029138,
+      "border_num": 3
+    },
+    {
+      "source": "Morocco",
+      "target": "Spain",
+      "population": 36029138,
+      "border_num": 3
+    },
+    {
+      "source": "Morocco",
+      "target": "Western Sahara",
+      "population": 36029138,
+      "border_num": 3
+    },
+    {
+      "source": "Monaco",
+      "target": "France",
+      "population": 38682,
+      "border_num": 1
+    },
+    {
+      "source": "Moldova (the Republic of)",
+      "target": "Romania",
+      "population": 2706049,
+      "border_num": 2
+    },
+    {
+      "source": "Moldova (the Republic of)",
+      "target": "Ukraine",
+      "population": 2706049,
+      "border_num": 2
+    },
+    {
+      "source": "Montenegro",
+      "target": "Albania",
+      "population": 631219,
+      "border_num": 4
+    },
+    {
+      "source": "Montenegro",
+      "target": "Bosnia and Herzegovina",
+      "population": 631219,
+      "border_num": 4
+    },
+    {
+      "source": "Montenegro",
+      "target": "Croatia",
+      "population": 631219,
+      "border_num": 4
+    },
+    {
+      "source": "Montenegro",
+      "target": "Serbia",
+      "population": 631219,
+      "border_num": 4
+    },
+    {
+      "source": "Saint Martin (French part)",
+      "target": "Sint Maarten (Dutch part)",
+      "population": 0,
+      "border_num": 1
+    },
+    {
+      "source": "North Macedonia",
+      "target": "Albania",
+      "population": 2084367,
+      "border_num": 4
+    },
+    {
+      "source": "North Macedonia",
+      "target": "Bulgaria",
+      "population": 2084367,
+      "border_num": 4
+    },
+    {
+      "source": "North Macedonia",
+      "target": "Greece",
+      "population": 2084367,
+      "border_num": 4
+    },
+    {
+      "source": "North Macedonia",
+      "target": "Serbia",
+      "population": 2084367,
+      "border_num": 4
+    },
+    {
+      "source": "Mali",
+      "target": "Algeria",
+      "population": 19077690,
+      "border_num": 7
+    },
+    {
+      "source": "Mali",
+      "target": "Burkina Faso",
+      "population": 19077690,
+      "border_num": 7
+    },
+    {
+      "source": "Mali",
+      "target": "Cote d'Ivoire",
+      "population": 19077690,
+      "border_num": 7
+    },
+    {
+      "source": "Mali",
+      "target": "Guinea",
+      "population": 19077690,
+      "border_num": 7
+    },
+    {
+      "source": "Mali",
+      "target": "Mauritania",
+      "population": 19077690,
+      "border_num": 7
+    },
+    {
+      "source": "Mali",
+      "target": "Niger",
+      "population": 19077690,
+      "border_num": 7
+    },
+    {
+      "source": "Mali",
+      "target": "Senegal",
+      "population": 19077690,
+      "border_num": 7
+    },
+    {
+      "source": "Myanmar",
+      "target": "Bangladesh",
+      "population": 53708395,
+      "border_num": 5
+    },
+    {
+      "source": "Myanmar",
+      "target": "China",
+      "population": 53708395,
+      "border_num": 5
+    },
+    {
+      "source": "Myanmar",
+      "target": "India",
+      "population": 53708395,
+      "border_num": 5
+    },
+    {
+      "source": "Myanmar",
+      "target": "Laos",
+      "population": 53708395,
+      "border_num": 5
+    },
+    {
+      "source": "Myanmar",
+      "target": "Thailand",
+      "population": 53708395,
+      "border_num": 5
+    },
+    {
+      "source": "Mongolia",
+      "target": "China",
+      "population": 3170208,
+      "border_num": 2
+    },
+    {
+      "source": "Mongolia",
+      "target": "Russia",
+      "population": 3170208,
+      "border_num": 2
+    },
+    {
+      "source": "Macao",
+      "target": "China",
+      "population": 631636,
+      "border_num": 1
+    },
+    {
+      "source": "Mauritania",
+      "target": "Algeria",
+      "population": 4403319,
+      "border_num": 4
+    },
+    {
+      "source": "Mauritania",
+      "target": "Mali",
+      "population": 4403319,
+      "border_num": 4
+    },
+    {
+      "source": "Mauritania",
+      "target": "Senegal",
+      "population": 4403319,
+      "border_num": 4
+    },
+    {
+      "source": "Mauritania",
+      "target": "Western Sahara",
+      "population": 4403319,
+      "border_num": 4
+    },
+    {
+      "source": "Malawi",
+      "target": "Mozambique",
+      "population": 18143315,
+      "border_num": 3
+    },
+    {
+      "source": "Malawi",
+      "target": "Tanzania (the United Republic of)",
+      "population": 18143315,
+      "border_num": 3
+    },
+    {
+      "source": "Malawi",
+      "target": "Zambia",
+      "population": 18143315,
+      "border_num": 3
+    },
+    {
+      "source": "Mexico",
+      "target": "Belize",
+      "population": 126190788,
+      "border_num": 3
+    },
+    {
+      "source": "Mexico",
+      "target": "Guatemala",
+      "population": 126190788,
+      "border_num": 3
+    },
+    {
+      "source": "Mexico",
+      "target": "United States of America",
+      "population": 126190788,
+      "border_num": 3
+    },
+    {
+      "source": "Malaysia",
+      "target": "Brunei Darussalam",
+      "population": 31528585,
+      "border_num": 3
+    },
+    {
+      "source": "Malaysia",
+      "target": "Indonesia",
+      "population": 31528585,
+      "border_num": 3
+    },
+    {
+      "source": "Malaysia",
+      "target": "Thailand",
+      "population": 31528585,
+      "border_num": 3
+    },
+    {
+      "source": "Mozambique",
+      "target": "Malawi",
+      "population": 29495962,
+      "border_num": 6
+    },
+    {
+      "source": "Mozambique",
+      "target": "Eswatini",
+      "population": 29495962,
+      "border_num": 6
+    },
+    {
+      "source": "Mozambique",
+      "target": "South Africa",
+      "population": 29495962,
+      "border_num": 6
+    },
+    {
+      "source": "Mozambique",
+      "target": "Tanzania (the United Republic of)",
+      "population": 29495962,
+      "border_num": 6
+    },
+    {
+      "source": "Mozambique",
+      "target": "Zambia",
+      "population": 29495962,
+      "border_num": 6
+    },
+    {
+      "source": "Mozambique",
+      "target": "Zimbabwe",
+      "population": 29495962,
+      "border_num": 6
+    },
+    {
+      "source": "Namibia",
+      "target": "Angola",
+      "population": 2448255,
+      "border_num": 4
+    },
+    {
+      "source": "Namibia",
+      "target": "Botswana",
+      "population": 2448255,
+      "border_num": 4
+    },
+    {
+      "source": "Namibia",
+      "target": "South Africa",
+      "population": 2448255,
+      "border_num": 4
+    },
+    {
+      "source": "Namibia",
+      "target": "Zambia",
+      "population": 2448255,
+      "border_num": 4
+    },
+    {
+      "source": "Niger",
+      "target": "Algeria",
+      "population": 22442948,
+      "border_num": 7
+    },
+    {
+      "source": "Niger",
+      "target": "Benin",
+      "population": 22442948,
+      "border_num": 7
+    },
+    {
+      "source": "Niger",
+      "target": "Burkina Faso",
+      "population": 22442948,
+      "border_num": 7
+    },
+    {
+      "source": "Niger",
+      "target": "Chad",
+      "population": 22442948,
+      "border_num": 7
+    },
+    {
+      "source": "Niger",
+      "target": "Libya",
+      "population": 22442948,
+      "border_num": 7
+    },
+    {
+      "source": "Niger",
+      "target": "Mali",
+      "population": 22442948,
+      "border_num": 7
+    },
+    {
+      "source": "Niger",
+      "target": "Nigeria",
+      "population": 22442948,
+      "border_num": 7
+    },
+    {
+      "source": "Nigeria",
+      "target": "Benin",
+      "population": 195874740,
+      "border_num": 4
+    },
+    {
+      "source": "Nigeria",
+      "target": "Cameroon",
+      "population": 195874740,
+      "border_num": 4
+    },
+    {
+      "source": "Nigeria",
+      "target": "Chad",
+      "population": 195874740,
+      "border_num": 4
+    },
+    {
+      "source": "Nigeria",
+      "target": "Niger",
+      "population": 195874740,
+      "border_num": 4
+    },
+    {
+      "source": "Nicaragua",
+      "target": "Costa Rica",
+      "population": 6465513,
+      "border_num": 2
+    },
+    {
+      "source": "Nicaragua",
+      "target": "Honduras",
+      "population": 6465513,
+      "border_num": 2
+    },
+    {
+      "source": "Netherlands",
+      "target": "Belgium",
+      "population": 17231624,
+      "border_num": 2
+    },
+    {
+      "source": "Netherlands",
+      "target": "Germany",
+      "population": 17231624,
+      "border_num": 2
+    },
+    {
+      "source": "Norway",
+      "target": "Finland",
+      "population": 5311916,
+      "border_num": 3
+    },
+    {
+      "source": "Norway",
+      "target": "Russia",
+      "population": 5311916,
+      "border_num": 3
+    },
+    {
+      "source": "Norway",
+      "target": "Sweden",
+      "population": 5311916,
+      "border_num": 3
+    },
+    {
+      "source": "Nepal",
+      "target": "China",
+      "population": 28087871,
+      "border_num": 2
+    },
+    {
+      "source": "Nepal",
+      "target": "India",
+      "population": 28087871,
+      "border_num": 2
+    },
+    {
+      "source": "Oman",
+      "target": "United Arab Emirates",
+      "population": 4829483,
+      "border_num": 3
+    },
+    {
+      "source": "Oman",
+      "target": "Saudi Arabia",
+      "population": 4829483,
+      "border_num": 3
+    },
+    {
+      "source": "Oman",
+      "target": "Yemen",
+      "population": 4829483,
+      "border_num": 3
+    },
+    {
+      "source": "Panama",
+      "target": "Colombia",
+      "population": 4176873,
+      "border_num": 2
+    },
+    {
+      "source": "Panama",
+      "target": "Costa Rica",
+      "population": 4176873,
+      "border_num": 2
+    },
+    {
+      "source": "Peru",
+      "target": "Bolivia (Plurinational State Of)",
+      "population": 31989256,
+      "border_num": 5
+    },
+    {
+      "source": "Peru",
+      "target": "Brazil",
+      "population": 31989256,
+      "border_num": 5
+    },
+    {
+      "source": "Peru",
+      "target": "Chile",
+      "population": 31989256,
+      "border_num": 5
+    },
+    {
+      "source": "Peru",
+      "target": "Colombia",
+      "population": 31989256,
+      "border_num": 5
+    },
+    {
+      "source": "Peru",
+      "target": "Ecuador",
+      "population": 31989256,
+      "border_num": 5
+    },
+    {
+      "source": "Papua New Guinea",
+      "target": "Indonesia",
+      "population": 8606316,
+      "border_num": 1
+    },
+    {
+      "source": "Pakistan",
+      "target": "Afghanistan",
+      "population": 212215030,
+      "border_num": 4
+    },
+    {
+      "source": "Pakistan",
+      "target": "China",
+      "population": 212215030,
+      "border_num": 4
+    },
+    {
+      "source": "Pakistan",
+      "target": "India",
+      "population": 212215030,
+      "border_num": 4
+    },
+    {
+      "source": "Pakistan",
+      "target": "Iran (Islamic Republic of)",
+      "population": 212215030,
+      "border_num": 4
+    },
+    {
+      "source": "Poland",
+      "target": "Belarus",
+      "population": 37974750,
+      "border_num": 7
+    },
+    {
+      "source": "Poland",
+      "target": "Czechia",
+      "population": 37974750,
+      "border_num": 7
+    },
+    {
+      "source": "Poland",
+      "target": "Germany",
+      "population": 37974750,
+      "border_num": 7
+    },
+    {
+      "source": "Poland",
+      "target": "Lithuania",
+      "population": 37974750,
+      "border_num": 7
+    },
+    {
+      "source": "Poland",
+      "target": "Russia",
+      "population": 37974750,
+      "border_num": 7
+    },
+    {
+      "source": "Poland",
+      "target": "Slovakia",
+      "population": 37974750,
+      "border_num": 7
+    },
+    {
+      "source": "Poland",
+      "target": "Ukraine",
+      "population": 37974750,
+      "border_num": 7
+    },
+    {
+      "source": "Palestine",
+      "target": "Egypt",
+      "population": 4569087,
+      "border_num": 3
+    },
+    {
+      "source": "Palestine",
+      "target": "Israel",
+      "population": 4569087,
+      "border_num": 3
+    },
+    {
+      "source": "Palestine",
+      "target": "Jordan",
+      "population": 4569087,
+      "border_num": 3
+    },
+    {
+      "source": "Portugal",
+      "target": "Spain",
+      "population": 10283822,
+      "border_num": 1
+    },
+    {
+      "source": "Paraguay",
+      "target": "Argentina",
+      "population": 6956071,
+      "border_num": 3
+    },
+    {
+      "source": "Paraguay",
+      "target": "Bolivia (Plurinational State Of)",
+      "population": 6956071,
+      "border_num": 3
+    },
+    {
+      "source": "Paraguay",
+      "target": "Brazil",
+      "population": 6956071,
+      "border_num": 3
+    },
+    {
+      "source": "Qatar",
+      "target": "Saudi Arabia",
+      "population": 2781677,
+      "border_num": 1
+    },
+    {
+      "source": "Romania",
+      "target": "Bulgaria",
+      "population": 19466145,
+      "border_num": 5
+    },
+    {
+      "source": "Romania",
+      "target": "Hungary",
+      "population": 19466145,
+      "border_num": 5
+    },
+    {
+      "source": "Romania",
+      "target": "Moldova (the Republic of)",
+      "population": 19466145,
+      "border_num": 5
+    },
+    {
+      "source": "Romania",
+      "target": "Serbia",
+      "population": 19466145,
+      "border_num": 5
+    },
+    {
+      "source": "Romania",
+      "target": "Ukraine",
+      "population": 19466145,
+      "border_num": 5
+    },
+    {
+      "source": "Serbia",
+      "target": "Albania",
+      "population": 6963764,
+      "border_num": 8
+    },
+    {
+      "source": "Serbia",
+      "target": "Bosnia and Herzegovina",
+      "population": 6963764,
+      "border_num": 8
+    },
+    {
+      "source": "Serbia",
+      "target": "Bulgaria",
+      "population": 6963764,
+      "border_num": 8
+    },
+    {
+      "source": "Serbia",
+      "target": "Croatia",
+      "population": 6963764,
+      "border_num": 8
+    },
+    {
+      "source": "Serbia",
+      "target": "Hungary",
+      "population": 6963764,
+      "border_num": 8
+    },
+    {
+      "source": "Serbia",
+      "target": "Montenegro",
+      "population": 6963764,
+      "border_num": 8
+    },
+    {
+      "source": "Serbia",
+      "target": "North Macedonia",
+      "population": 6963764,
+      "border_num": 8
+    },
+    {
+      "source": "Serbia",
+      "target": "Romania",
+      "population": 6963764,
+      "border_num": 8
+    },
+    {
+      "source": "Russia",
+      "target": "Azerbaijan",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Belarus",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "China",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Estonia",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Finland",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Georgia",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Kazakhstan",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "North Korea",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Latvia",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Lithuania",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Mongolia",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Norway",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Poland",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Russia",
+      "target": "Ukraine",
+      "population": 144478050,
+      "border_num": 14
+    },
+    {
+      "source": "Rwanda",
+      "target": "Burundi",
+      "population": 12301939,
+      "border_num": 4
+    },
+    {
+      "source": "Rwanda",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 12301939,
+      "border_num": 4
+    },
+    {
+      "source": "Rwanda",
+      "target": "Tanzania (the United Republic of)",
+      "population": 12301939,
+      "border_num": 4
+    },
+    {
+      "source": "Rwanda",
+      "target": "Uganda",
+      "population": 12301939,
+      "border_num": 4
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Iraq",
+      "population": 33699947,
+      "border_num": 7
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Jordan",
+      "population": 33699947,
+      "border_num": 7
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Kuwait",
+      "population": 33699947,
+      "border_num": 7
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Oman",
+      "population": 33699947,
+      "border_num": 7
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Qatar",
+      "population": 33699947,
+      "border_num": 7
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "United Arab Emirates",
+      "population": 33699947,
+      "border_num": 7
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Yemen",
+      "population": 33699947,
+      "border_num": 7
+    },
+    {
+      "source": "Sudan",
+      "target": "Central African Republic",
+      "population": 41801533,
+      "border_num": 7
+    },
+    {
+      "source": "Sudan",
+      "target": "Chad",
+      "population": 41801533,
+      "border_num": 7
+    },
+    {
+      "source": "Sudan",
+      "target": "Egypt",
+      "population": 41801533,
+      "border_num": 7
+    },
+    {
+      "source": "Sudan",
+      "target": "Ethiopia",
+      "population": 41801533,
+      "border_num": 7
+    },
+    {
+      "source": "Sudan",
+      "target": "Eritrea",
+      "population": 41801533,
+      "border_num": 7
+    },
+    {
+      "source": "Sudan",
+      "target": "Libya",
+      "population": 41801533,
+      "border_num": 7
+    },
+    {
+      "source": "Sudan",
+      "target": "South Sudan",
+      "population": 41801533,
+      "border_num": 7
+    },
+    {
+      "source": "Sweden",
+      "target": "Finland",
+      "population": 10175214,
+      "border_num": 2
+    },
+    {
+      "source": "Sweden",
+      "target": "Norway",
+      "population": 10175214,
+      "border_num": 2
+    },
+    {
+      "source": "Slovenia",
+      "target": "Austria",
+      "population": 2073894,
+      "border_num": 4
+    },
+    {
+      "source": "Slovenia",
+      "target": "Croatia",
+      "population": 2073894,
+      "border_num": 4
+    },
+    {
+      "source": "Slovenia",
+      "target": "Hungary",
+      "population": 2073894,
+      "border_num": 4
+    },
+    {
+      "source": "Slovenia",
+      "target": "Italy",
+      "population": 2073894,
+      "border_num": 4
+    },
+    {
+      "source": "Slovakia",
+      "target": "Austria",
+      "population": 5446771,
+      "border_num": 5
+    },
+    {
+      "source": "Slovakia",
+      "target": "Czechia",
+      "population": 5446771,
+      "border_num": 5
+    },
+    {
+      "source": "Slovakia",
+      "target": "Hungary",
+      "population": 5446771,
+      "border_num": 5
+    },
+    {
+      "source": "Slovakia",
+      "target": "Poland",
+      "population": 5446771,
+      "border_num": 5
+    },
+    {
+      "source": "Slovakia",
+      "target": "Ukraine",
+      "population": 5446771,
+      "border_num": 5
+    },
+    {
+      "source": "Sierra Leone",
+      "target": "Guinea",
+      "population": 7650154,
+      "border_num": 2
+    },
+    {
+      "source": "Sierra Leone",
+      "target": "Liberia",
+      "population": 7650154,
+      "border_num": 2
+    },
+    {
+      "source": "San Marino",
+      "target": "Italy",
+      "population": 33785,
+      "border_num": 1
+    },
+    {
+      "source": "Senegal",
+      "target": "Gambia",
+      "population": 15854360,
+      "border_num": 5
+    },
+    {
+      "source": "Senegal",
+      "target": "Guinea",
+      "population": 15854360,
+      "border_num": 5
+    },
+    {
+      "source": "Senegal",
+      "target": "Guinea-Bissau",
+      "population": 15854360,
+      "border_num": 5
+    },
+    {
+      "source": "Senegal",
+      "target": "Mali",
+      "population": 15854360,
+      "border_num": 5
+    },
+    {
+      "source": "Senegal",
+      "target": "Mauritania",
+      "population": 15854360,
+      "border_num": 5
+    },
+    {
+      "source": "Somalia",
+      "target": "Djibouti",
+      "population": 15008154,
+      "border_num": 3
+    },
+    {
+      "source": "Somalia",
+      "target": "Ethiopia",
+      "population": 15008154,
+      "border_num": 3
+    },
+    {
+      "source": "Somalia",
+      "target": "Kenya",
+      "population": 15008154,
+      "border_num": 3
+    },
+    {
+      "source": "Suriname",
+      "target": "Brazil",
+      "population": 575991,
+      "border_num": 3
+    },
+    {
+      "source": "Suriname",
+      "target": "French Guiana",
+      "population": 575991,
+      "border_num": 3
+    },
+    {
+      "source": "Suriname",
+      "target": "Guyana",
+      "population": 575991,
+      "border_num": 3
+    },
+    {
+      "source": "South Sudan",
+      "target": "Central African Republic",
+      "population": 10975920,
+      "border_num": 6
+    },
+    {
+      "source": "South Sudan",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 10975920,
+      "border_num": 6
+    },
+    {
+      "source": "South Sudan",
+      "target": "Ethiopia",
+      "population": 10975920,
+      "border_num": 6
+    },
+    {
+      "source": "South Sudan",
+      "target": "Kenya",
+      "population": 10975920,
+      "border_num": 6
+    },
+    {
+      "source": "South Sudan",
+      "target": "Sudan",
+      "population": 10975920,
+      "border_num": 6
+    },
+    {
+      "source": "South Sudan",
+      "target": "Uganda",
+      "population": 10975920,
+      "border_num": 6
+    },
+    {
+      "source": "El Salvador",
+      "target": "Guatemala",
+      "population": 6420744,
+      "border_num": 2
+    },
+    {
+      "source": "El Salvador",
+      "target": "Honduras",
+      "population": 6420744,
+      "border_num": 2
+    },
+    {
+      "source": "Sint Maarten (Dutch part)",
+      "target": "Saint Martin (French part)",
+      "population": 0,
+      "border_num": 1
+    },
+    {
+      "source": "Syrian Arab Republic",
+      "target": "Iraq",
+      "population": 16906283,
+      "border_num": 5
+    },
+    {
+      "source": "Syrian Arab Republic",
+      "target": "Israel",
+      "population": 16906283,
+      "border_num": 5
+    },
+    {
+      "source": "Syrian Arab Republic",
+      "target": "Jordan",
+      "population": 16906283,
+      "border_num": 5
+    },
+    {
+      "source": "Syrian Arab Republic",
+      "target": "Lebanon",
+      "population": 16906283,
+      "border_num": 5
+    },
+    {
+      "source": "Syrian Arab Republic",
+      "target": "Turkey",
+      "population": 16906283,
+      "border_num": 5
+    },
+    {
+      "source": "Eswatini",
+      "target": "Mozambique",
+      "population": 1136191,
+      "border_num": 2
+    },
+    {
+      "source": "Eswatini",
+      "target": "South Africa",
+      "population": 1136191,
+      "border_num": 2
+    },
+    {
+      "source": "Chad",
+      "target": "Cameroon",
+      "population": 15477751,
+      "border_num": 6
+    },
+    {
+      "source": "Chad",
+      "target": "Central African Republic",
+      "population": 15477751,
+      "border_num": 6
+    },
+    {
+      "source": "Chad",
+      "target": "Libya",
+      "population": 15477751,
+      "border_num": 6
+    },
+    {
+      "source": "Chad",
+      "target": "Niger",
+      "population": 15477751,
+      "border_num": 6
+    },
+    {
+      "source": "Chad",
+      "target": "Nigeria",
+      "population": 15477751,
+      "border_num": 6
+    },
+    {
+      "source": "Chad",
+      "target": "Sudan",
+      "population": 15477751,
+      "border_num": 6
+    },
+    {
+      "source": "Togo",
+      "target": "Benin",
+      "population": 7889094,
+      "border_num": 3
+    },
+    {
+      "source": "Togo",
+      "target": "Burkina Faso",
+      "population": 7889094,
+      "border_num": 3
+    },
+    {
+      "source": "Togo",
+      "target": "Ghana",
+      "population": 7889094,
+      "border_num": 3
+    },
+    {
+      "source": "Thailand",
+      "target": "Cambodia",
+      "population": 69428524,
+      "border_num": 4
+    },
+    {
+      "source": "Thailand",
+      "target": "Laos",
+      "population": 69428524,
+      "border_num": 4
+    },
+    {
+      "source": "Thailand",
+      "target": "Malaysia",
+      "population": 69428524,
+      "border_num": 4
+    },
+    {
+      "source": "Thailand",
+      "target": "Myanmar",
+      "population": 69428524,
+      "border_num": 4
+    },
+    {
+      "source": "Tajikistan",
+      "target": "Afghanistan",
+      "population": 9100837,
+      "border_num": 4
+    },
+    {
+      "source": "Tajikistan",
+      "target": "China",
+      "population": 9100837,
+      "border_num": 4
+    },
+    {
+      "source": "Tajikistan",
+      "target": "Kyrgyzstan",
+      "population": 9100837,
+      "border_num": 4
+    },
+    {
+      "source": "Tajikistan",
+      "target": "Uzbekistan",
+      "population": 9100837,
+      "border_num": 4
+    },
+    {
+      "source": "Timor-Leste",
+      "target": "Indonesia",
+      "population": 1267972,
+      "border_num": 1
+    },
+    {
+      "source": "Turkmenistan",
+      "target": "Afghanistan",
+      "population": 5850908,
+      "border_num": 4
+    },
+    {
+      "source": "Turkmenistan",
+      "target": "Iran (Islamic Republic of)",
+      "population": 5850908,
+      "border_num": 4
+    },
+    {
+      "source": "Turkmenistan",
+      "target": "Kazakhstan",
+      "population": 5850908,
+      "border_num": 4
+    },
+    {
+      "source": "Turkmenistan",
+      "target": "Uzbekistan",
+      "population": 5850908,
+      "border_num": 4
+    },
+    {
+      "source": "Tunisia",
+      "target": "Algeria",
+      "population": 11565204,
+      "border_num": 2
+    },
+    {
+      "source": "Tunisia",
+      "target": "Libya",
+      "population": 11565204,
+      "border_num": 2
+    },
+    {
+      "source": "Turkey",
+      "target": "Armenia",
+      "population": 82319724,
+      "border_num": 8
+    },
+    {
+      "source": "Turkey",
+      "target": "Azerbaijan",
+      "population": 82319724,
+      "border_num": 8
+    },
+    {
+      "source": "Turkey",
+      "target": "Bulgaria",
+      "population": 82319724,
+      "border_num": 8
+    },
+    {
+      "source": "Turkey",
+      "target": "Georgia",
+      "population": 82319724,
+      "border_num": 8
+    },
+    {
+      "source": "Turkey",
+      "target": "Greece",
+      "population": 82319724,
+      "border_num": 8
+    },
+    {
+      "source": "Turkey",
+      "target": "Iran (Islamic Republic of)",
+      "population": 82319724,
+      "border_num": 8
+    },
+    {
+      "source": "Turkey",
+      "target": "Iraq",
+      "population": 82319724,
+      "border_num": 8
+    },
+    {
+      "source": "Turkey",
+      "target": "Syrian Arab Republic",
+      "population": 82319724,
+      "border_num": 8
+    },
+    {
+      "source": "Tanzania (the United Republic of)",
+      "target": "Burundi",
+      "population": 56318348,
+      "border_num": 8
+    },
+    {
+      "source": "Tanzania (the United Republic of)",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 56318348,
+      "border_num": 8
+    },
+    {
+      "source": "Tanzania (the United Republic of)",
+      "target": "Kenya",
+      "population": 56318348,
+      "border_num": 8
+    },
+    {
+      "source": "Tanzania (the United Republic of)",
+      "target": "Malawi",
+      "population": 56318348,
+      "border_num": 8
+    },
+    {
+      "source": "Tanzania (the United Republic of)",
+      "target": "Mozambique",
+      "population": 56318348,
+      "border_num": 8
+    },
+    {
+      "source": "Tanzania (the United Republic of)",
+      "target": "Rwanda",
+      "population": 56318348,
+      "border_num": 8
+    },
+    {
+      "source": "Tanzania (the United Republic of)",
+      "target": "Uganda",
+      "population": 56318348,
+      "border_num": 8
+    },
+    {
+      "source": "Tanzania (the United Republic of)",
+      "target": "Zambia",
+      "population": 56318348,
+      "border_num": 8
+    },
+    {
+      "source": "Ukraine",
+      "target": "Belarus",
+      "population": 44622516,
+      "border_num": 7
+    },
+    {
+      "source": "Ukraine",
+      "target": "Hungary",
+      "population": 44622516,
+      "border_num": 7
+    },
+    {
+      "source": "Ukraine",
+      "target": "Moldova (the Republic of)",
+      "population": 44622516,
+      "border_num": 7
+    },
+    {
+      "source": "Ukraine",
+      "target": "Poland",
+      "population": 44622516,
+      "border_num": 7
+    },
+    {
+      "source": "Ukraine",
+      "target": "Romania",
+      "population": 44622516,
+      "border_num": 7
+    },
+    {
+      "source": "Ukraine",
+      "target": "Russia",
+      "population": 44622516,
+      "border_num": 7
+    },
+    {
+      "source": "Ukraine",
+      "target": "Slovakia",
+      "population": 44622516,
+      "border_num": 7
+    },
+    {
+      "source": "Uganda",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 42723139,
+      "border_num": 5
+    },
+    {
+      "source": "Uganda",
+      "target": "Kenya",
+      "population": 42723139,
+      "border_num": 5
+    },
+    {
+      "source": "Uganda",
+      "target": "Rwanda",
+      "population": 42723139,
+      "border_num": 5
+    },
+    {
+      "source": "Uganda",
+      "target": "South Sudan",
+      "population": 42723139,
+      "border_num": 5
+    },
+    {
+      "source": "Uganda",
+      "target": "Tanzania (the United Republic of)",
+      "population": 42723139,
+      "border_num": 5
+    },
+    {
+      "source": "United States of America",
+      "target": "Canada",
+      "population": 326687501,
+      "border_num": 2
+    },
+    {
+      "source": "United States of America",
+      "target": "Mexico",
+      "population": 326687501,
+      "border_num": 2
+    },
+    {
+      "source": "Uruguay",
+      "target": "Argentina",
+      "population": 3449299,
+      "border_num": 2
+    },
+    {
+      "source": "Uruguay",
+      "target": "Brazil",
+      "population": 3449299,
+      "border_num": 2
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "Afghanistan",
+      "population": 32955400,
+      "border_num": 5
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "Kazakhstan",
+      "population": 32955400,
+      "border_num": 5
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "Kyrgyzstan",
+      "population": 32955400,
+      "border_num": 5
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "Tajikistan",
+      "population": 32955400,
+      "border_num": 5
+    },
+    {
+      "source": "Uzbekistan",
+      "target": "Turkmenistan",
+      "population": 32955400,
+      "border_num": 5
+    },
+    {
+      "source": "Holy See",
+      "target": "Italy",
+      "population": 825,
+      "border_num": 1
+    },
+    {
+      "source": "Venezuela (Bolivarian Republic of)",
+      "target": "Brazil",
+      "population": 28870195,
+      "border_num": 3
+    },
+    {
+      "source": "Venezuela (Bolivarian Republic of)",
+      "target": "Colombia",
+      "population": 28870195,
+      "border_num": 3
+    },
+    {
+      "source": "Venezuela (Bolivarian Republic of)",
+      "target": "Guyana",
+      "population": 28870195,
+      "border_num": 3
+    },
+    {
+      "source": "Viet Nam",
+      "target": "Cambodia",
+      "population": 95540395,
+      "border_num": 3
+    },
+    {
+      "source": "Viet Nam",
+      "target": "China",
+      "population": 95540395,
+      "border_num": 3
+    },
+    {
+      "source": "Viet Nam",
+      "target": "Laos",
+      "population": 95540395,
+      "border_num": 3
+    },
+    {
+      "source": "Yemen",
+      "target": "Oman",
+      "population": 28498687,
+      "border_num": 2
+    },
+    {
+      "source": "Yemen",
+      "target": "Saudi Arabia",
+      "population": 28498687,
+      "border_num": 2
+    },
+    {
+      "source": "South Africa",
+      "target": "Botswana",
+      "population": 57779622,
+      "border_num": 6
+    },
+    {
+      "source": "South Africa",
+      "target": "Lesotho",
+      "population": 57779622,
+      "border_num": 6
+    },
+    {
+      "source": "South Africa",
+      "target": "Mozambique",
+      "population": 57779622,
+      "border_num": 6
+    },
+    {
+      "source": "South Africa",
+      "target": "Namibia",
+      "population": 57779622,
+      "border_num": 6
+    },
+    {
+      "source": "South Africa",
+      "target": "Eswatini",
+      "population": 57779622,
+      "border_num": 6
+    },
+    {
+      "source": "South Africa",
+      "target": "Zimbabwe",
+      "population": 57779622,
+      "border_num": 6
+    },
+    {
+      "source": "Zambia",
+      "target": "Angola",
+      "population": 17351822,
+      "border_num": 8
+    },
+    {
+      "source": "Zambia",
+      "target": "Botswana",
+      "population": 17351822,
+      "border_num": 8
+    },
+    {
+      "source": "Zambia",
+      "target": "Congo (the Democratic Republic of the)",
+      "population": 17351822,
+      "border_num": 8
+    },
+    {
+      "source": "Zambia",
+      "target": "Malawi",
+      "population": 17351822,
+      "border_num": 8
+    },
+    {
+      "source": "Zambia",
+      "target": "Mozambique",
+      "population": 17351822,
+      "border_num": 8
+    },
+    {
+      "source": "Zambia",
+      "target": "Namibia",
+      "population": 17351822,
+      "border_num": 8
+    },
+    {
+      "source": "Zambia",
+      "target": "Tanzania (the United Republic of)",
+      "population": 17351822,
+      "border_num": 8
+    },
+    {
+      "source": "Zambia",
+      "target": "Zimbabwe",
+      "population": 17351822,
+      "border_num": 8
+    },
+    {
+      "source": "Zimbabwe",
+      "target": "Botswana",
+      "population": 14439018,
+      "border_num": 4
+    },
+    {
+      "source": "Zimbabwe",
+      "target": "Mozambique",
+      "population": 14439018,
+      "border_num": 4
+    },
+    {
+      "source": "Zimbabwe",
+      "target": "South Africa",
+      "population": 14439018,
+      "border_num": 4
+    },
+    {
+      "source": "Zimbabwe",
+      "target": "Zambia",
+      "population": 14439018,
+      "border_num": 4
+    }
+  ]
+}
