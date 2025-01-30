@@ -1,182 +1,1142 @@
 [
-  {
-    "row": 1,
-    "col": 1,
-    "Season": "1956-57",
-    "Year": 1957,
-    "Coach": "Red Auerbach",
-    "Opponent": "St. Louis Hawks",
-    "Series_score": "4-3",
-    "Record": "44-28"
-  },
-  {
-    "row": 1,
-    "col": 2,
-    "Season": "1958-59",
-    "Year": 1959,
-    "Coach": "Red Auerbach",
-    "Opponent": "Minneapolis Lakers",
-    "Series_score": "4-0",
-    "Record": "52-20"
-  },
-  {
-    "row": 1,
-    "col": 3,
-    "Season": "1959-60",
-    "Year": 1960,
-    "Coach": "Red Auerbach",
-    "Opponent": "St. Louis Hawks",
-    "Series_score": "4-3",
-    "Record": "59-16"
-  },
-  {
-    "row": 1,
-    "col": 4,
-    "Season": "1960-61",
-    "Year": 1961,
-    "Coach": "Red Auerbach",
-    "Opponent": "St. Louis Hawks",
-    "Series_score": "4-1",
-    "Record": "57-22"
-  },
-  {
-    "row": 2,
-    "col": 1,
-    "Season": "1961-62",
-    "Year": 1962,
-    "Coach": "Red Auerbach",
-    "Opponent": "Los Angeles Lakers",
-    "Series_score": "4-3",
-    "Record": "60-20"
-  },
-  {
-    "row": 2,
-    "col": 2,
-    "Season": "1962-63",
-    "Year": 1963,
-    "Coach": "Red Auerbach",
-    "Opponent": "Los Angeles Lakers",
-    "Series_score": "4-2",
-    "Record": "58-22"
-  },
-  {
-    "row": 2,
-    "col": 3,
-    "Season": "1963-64",
-    "Year": 1964,
-    "Coach": "Red Auerbach",
-    "Opponent": "San Francisco Warriors",
-    "Series_score": "4-1",
-    "Record": "59-21"
-  },
-  {
-    "row": 2,
-    "col": 4,
-    "Season": "1964-65",
-    "Year": 1965,
-    "Coach": "Red Auerbach",
-    "Opponent": "Los Angeles Lakers",
-    "Series_score": "4-1",
-    "Record": "62-18"
-  },
-  {
-    "row": 3,
-    "col": 1,
-    "Season": "1965-66",
-    "Year": 1966,
-    "Coach": "Red Auerbach",
-    "Opponent": "Los Angeles Lakers",
-    "Series_score": "4-3",
-    "Record": "54-26"
-  },
-  {
-    "row": 3,
-    "col": 2,
-    "Season": "1967-68",
-    "Year": 1968,
-    "Coach": "Bill Russell",
-    "Opponent": "Los Angeles Lakers",
-    "Series_score": "4-2",
-    "Record": "54-28"
-  },
-  {
-    "row": 3,
-    "col": 3,
-    "Season": "1968-69",
-    "Year": 1969,
-    "Coach": "Bill Russell",
-    "Opponent": "Los Angeles Lakers",
-    "Series_score": "4-3",
-    "Record": "48-34"
-  },
-  {
-    "row": 3,
-    "col": 4,
-    "Season": "1973-74",
-    "Year": 1974,
-    "Coach": "Tom Heinsohn",
-    "Opponent": "Milwaukee Bucks",
-    "Series_score": "4-3",
-    "Record": "56-26"
-  },
-  {
-    "row": 4,
-    "col": 1,
-    "Season": "1975-76",
-    "Year": 1976,
-    "Coach": "Tom Heinsohn",
-    "Opponent": "Phoenix Suns",
-    "Series_score": "4-2",
-    "Record": "54-28"
-  },
-  {
-    "row": 4,
-    "col": 2,
-    "Season": "1980-81",
-    "Year": 1981,
-    "Coach": "Bill Fitch",
-    "Opponent": "Houston Rockets",
-    "Series_score": "4-2",
-    "Record": "62-20"
-  },
-  {
-    "row": 4,
-    "col": 3,
-    "Season": "1983-84",
-    "Year": 1984,
-    "Coach": "K.C. Jones",
-    "Opponent": "Los Angeles Lakers",
-    "Series_score": "4-3",
-    "Record": "62-20"
-  },
-  {
-    "row": 4,
-    "col": 4,
-    "Season": "1985-86",
-    "Year": 1986,
-    "Coach": "K.C. Jones",
-    "Opponent": "Houston Rockets",
-    "Series_score": "4-2",
-    "Record": "67-15"
-  },
-  {
-    "row": 5,
-    "col": 1,
-    "Season": "2007-08",
-    "Year": 2008,
-    "Coach": "Doc Rivers",
-    "Opponent": "Los Angeles Lakers",
-    "Series_score": "4-2",
-    "Record": "66-16"
-  },
-  {
-    "row": 5,
-    "col": 2,
-    "Season": "2023-24",
-    "Year": 2024,
-    "Coach": "Joe Mazzulla",
-    "Opponent": "Dallas Mavericks",
-    "Series_score": "4-1",
-    "Record": "64-18"
-  }
+    {
+        "row": 1,
+        "col": 1,
+        "Season": "1956-57",
+        "Year": 1957,
+        "Coach": "Red Auerbach",
+        "Opponent": "St. Louis Hawks",
+        "Series_score": "4-3",
+        "Record": "44-28",
+        "Roster": [
+            {
+                "player": "Bob Cousy",
+                "number": "14"
+            },
+            {
+                "player": "Tom Heinsohn",
+                "number": "15"
+            },
+            {
+                "player": "Dick Hemric",
+                "number": "20"
+            },
+            {
+                "player": "Jim Loscutoff",
+                "number": "18"
+            },
+            {
+                "player": "Jack Nichols",
+                "number": "16"
+            },
+            {
+                "player": "Togo Palazzi",
+                "number": "12"
+            },
+            {
+                "player": "Andy Phillip",
+                "number": "17"
+            },
+            {
+                "player": "Frank Ramsey",
+                "number": "23"
+            },
+            {
+                "player": "Arnie Risen",
+                "number": "19"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Bill Sharman",
+                "number": "21"
+            },
+            {
+                "player": "Lou Tsioropoulos",
+                "number": "29"
+            }
+        ]
+    },
+    {
+        "row": 1,
+        "col": 2,
+        "Season": "1958-59",
+        "Year": 1959,
+        "Coach": "Red Auerbach",
+        "Opponent": "Minneapolis Lakers",
+        "Series_score": "4-0",
+        "Record": "52-20",
+        "Roster": [
+            {
+                "player": "Gene Conley",
+                "number": "17"
+            },
+            {
+                "player": "Bob Cousy",
+                "number": "14"
+            },
+            {
+                "player": "Tom Heinsohn",
+                "number": "15"
+            },
+            {
+                "player": "K.C. Jones",
+                "number": "25 27"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Jim Loscutoff",
+                "number": "18"
+            },
+            {
+                "player": "Frank Ramsey",
+                "number": "23"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Bill Sharman",
+                "number": "21"
+            },
+            {
+                "player": "Bennie Swain",
+                "number": "16"
+            },
+            {
+                "player": "Lou Tsioropoulos",
+                "number": "20"
+            }
+        ]
+    },
+    {
+        "row": 1,
+        "col": 3,
+        "Season": "1959-60",
+        "Year": 1960,
+        "Coach": "Red Auerbach",
+        "Opponent": "St. Louis Hawks",
+        "Series_score": "4-3",
+        "Record": "59-16",
+        "Roster": [
+            {
+                "player": "Gene Conley",
+                "number": "17"
+            },
+            {
+                "player": "Bob Cousy",
+                "number": "14"
+            },
+            {
+                "player": "Gene Guarilia",
+                "number": "20"
+            },
+            {
+                "player": "Tom Heinsohn",
+                "number": "15 20"
+            },
+            {
+                "player": "K.C. Jones",
+                "number": "25"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Maurice King",
+                "number": "19"
+            },
+            {
+                "player": "Jim Loscutoff",
+                "number": "18"
+            },
+            {
+                "player": "Frank Ramsey",
+                "number": "23"
+            },
+            {
+                "player": "John Richter",
+                "number": "16"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Bill Sharman",
+                "number": "21"
+            }
+        ]
+    },
+    {
+        "row": 1,
+        "col": 4,
+        "Season": "1960-61",
+        "Year": 1961,
+        "Coach": "Red Auerbach",
+        "Opponent": "St. Louis Hawks",
+        "Series_score": "4-1",
+        "Record": "57-22",
+        "Roster": [
+            {
+                "player": "Gene Conley",
+                "number": "17"
+            },
+            {
+                "player": "Bob Cousy",
+                "number": "14"
+            },
+            {
+                "player": "Gene Guarilia",
+                "number": "20"
+            },
+            {
+                "player": "Tom Heinsohn",
+                "number": "15"
+            },
+            {
+                "player": "K.C. Jones",
+                "number": "25"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Jim Loscutoff",
+                "number": "18"
+            },
+            {
+                "player": "Frank Ramsey",
+                "number": "23"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Tom Sanders",
+                "number": "16"
+            },
+            {
+                "player": "Bill Sharman",
+                "number": "21"
+            }
+        ]
+    },
+    {
+        "row": 2,
+        "col": 1,
+        "Season": "1961-62",
+        "Year": 1962,
+        "Coach": "Red Auerbach",
+        "Opponent": "Los Angeles Lakers",
+        "Series_score": "4-3",
+        "Record": "60-20",
+        "Roster": [
+            {
+                "player": "Carl Braun",
+                "number": "4"
+            },
+            {
+                "player": "Al Butler",
+                "number": "22"
+            },
+            {
+                "player": "Bob Cousy",
+                "number": "14"
+            },
+            {
+                "player": "Gene Guarilia",
+                "number": "20"
+            },
+            {
+                "player": "Tom Heinsohn",
+                "number": "15"
+            },
+            {
+                "player": "K.C. Jones",
+                "number": "25"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Jim Loscutoff",
+                "number": "18"
+            },
+            {
+                "player": "Gary Phillips",
+                "number": "21"
+            },
+            {
+                "player": "Frank Ramsey",
+                "number": "23"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Tom Sanders",
+                "number": "16"
+            }
+        ]
+    },
+    {
+        "row": 2,
+        "col": 2,
+        "Season": "1962-63",
+        "Year": 1963,
+        "Coach": "Red Auerbach",
+        "Opponent": "Los Angeles Lakers",
+        "Series_score": "4-2",
+        "Record": "58-22",
+        "Roster": [
+            {
+                "player": "Bob Cousy",
+                "number": "14"
+            },
+            {
+                "player": "Jack Foley",
+                "number": "21"
+            },
+            {
+                "player": "Gene Guarilia",
+                "number": "20"
+            },
+            {
+                "player": "John Havlicek",
+                "number": "17"
+            },
+            {
+                "player": "Tom Heinsohn",
+                "number": "15"
+            },
+            {
+                "player": "K.C. Jones",
+                "number": "25"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Jim Loscutoff",
+                "number": "18"
+            },
+            {
+                "player": "Clyde Lovellette",
+                "number": "4"
+            },
+            {
+                "player": "Frank Ramsey",
+                "number": "23"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Tom Sanders",
+                "number": "16"
+            },
+            {
+                "player": "Dan Swartz",
+                "number": "12"
+            }
+        ]
+    },
+    {
+        "row": 2,
+        "col": 3,
+        "Season": "1963-64",
+        "Year": 1964,
+        "Coach": "Red Auerbach",
+        "Opponent": "San Francisco Warriors",
+        "Series_score": "4-1",
+        "Record": "59-21",
+        "Roster": [
+            {
+                "player": "John Havlicek",
+                "number": "17"
+            },
+            {
+                "player": "Tom Heinsohn",
+                "number": "15"
+            },
+            {
+                "player": "K.C. Jones",
+                "number": "25"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Jim Loscutoff",
+                "number": "18"
+            },
+            {
+                "player": "Clyde Lovellette",
+                "number": "34"
+            },
+            {
+                "player": "Johnny McCarthy",
+                "number": "21"
+            },
+            {
+                "player": "Willie Naulls",
+                "number": "12"
+            },
+            {
+                "player": "Frank Ramsey",
+                "number": "23"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Tom Sanders",
+                "number": "16"
+            },
+            {
+                "player": "Larry Siegfried",
+                "number": "20"
+            }
+        ]
+    },
+    {
+        "row": 2,
+        "col": 4,
+        "Season": "1964-65",
+        "Year": 1965,
+        "Coach": "Red Auerbach",
+        "Opponent": "Los Angeles Lakers",
+        "Series_score": "4-1",
+        "Record": "62-18",
+        "Roster": [
+            {
+                "player": "Ron Bonham",
+                "number": "21"
+            },
+            {
+                "player": "Mel Counts",
+                "number": "11"
+            },
+            {
+                "player": "John Havlicek",
+                "number": "17"
+            },
+            {
+                "player": "Tom Heinsohn",
+                "number": "15"
+            },
+            {
+                "player": "K.C. Jones",
+                "number": "25"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Willie Naulls",
+                "number": "12"
+            },
+            {
+                "player": "Bevo Nordmann",
+                "number": "34"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Tom Sanders",
+                "number": "16"
+            },
+            {
+                "player": "Larry Siegfried",
+                "number": "20"
+            },
+            {
+                "player": "John Thompson",
+                "number": "18"
+            },
+            {
+                "player": "Gerry Ward",
+                "number": "4"
+            }
+        ]
+    },
+    {
+        "row": 3,
+        "col": 1,
+        "Season": "1965-66",
+        "Year": 1966,
+        "Coach": "Red Auerbach",
+        "Opponent": "Los Angeles Lakers",
+        "Series_score": "4-3",
+        "Record": "54-26",
+        "Roster": [
+            {
+                "player": "Ron Bonham",
+                "number": "21"
+            },
+            {
+                "player": "Mel Counts",
+                "number": "11"
+            },
+            {
+                "player": "Si Green",
+                "number": "28"
+            },
+            {
+                "player": "John Havlicek",
+                "number": "17"
+            },
+            {
+                "player": "K.C. Jones",
+                "number": "25"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Willie Naulls",
+                "number": "12"
+            },
+            {
+                "player": "Don Nelson",
+                "number": "19"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Tom Sanders",
+                "number": "16"
+            },
+            {
+                "player": "Woody Sauldsberry",
+                "number": "18"
+            },
+            {
+                "player": "Larry Siegfried",
+                "number": "20"
+            },
+            {
+                "player": "John Thompson",
+                "number": "5"
+            },
+            {
+                "player": "Ron Watts",
+                "number": "12"
+            }
+        ]
+    },
+    {
+        "row": 3,
+        "col": 2,
+        "Season": "1967-68",
+        "Year": 1968,
+        "Coach": "Bill Russell",
+        "Opponent": "Los Angeles Lakers",
+        "Series_score": "4-2",
+        "Record": "54-28",
+        "Roster": [
+            {
+                "player": "Wayne Embry",
+                "number": "28"
+            },
+            {
+                "player": "Mal Graham",
+                "number": "11"
+            },
+            {
+                "player": "John Havlicek",
+                "number": "17"
+            },
+            {
+                "player": "Bailey Howell",
+                "number": "18"
+            },
+            {
+                "player": "Johnny Jones",
+                "number": "27"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Don Nelson",
+                "number": "19"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Tom Sanders",
+                "number": "16"
+            },
+            {
+                "player": "Larry Siegfried",
+                "number": "20"
+            },
+            {
+                "player": "Tom Thacker",
+                "number": "12"
+            },
+            {
+                "player": "Rick Weitzman",
+                "number": "26"
+            }
+        ]
+    },
+    {
+        "row": 3,
+        "col": 3,
+        "Season": "1968-69",
+        "Year": 1969,
+        "Coach": "Bill Russell",
+        "Opponent": "Los Angeles Lakers",
+        "Series_score": "4-3",
+        "Record": "48-34",
+        "Roster": [
+            {
+                "player": "Jim Barnes",
+                "number": "28"
+            },
+            {
+                "player": "Em Bryant",
+                "number": "7"
+            },
+            {
+                "player": "Don Chaney",
+                "number": "12"
+            },
+            {
+                "player": "Mal Graham",
+                "number": "11"
+            },
+            {
+                "player": "John Havlicek",
+                "number": "17"
+            },
+            {
+                "player": "Bailey Howell",
+                "number": "18"
+            },
+            {
+                "player": "Rich Johnson",
+                "number": "26"
+            },
+            {
+                "player": "Sam Jones",
+                "number": "24"
+            },
+            {
+                "player": "Don Nelson",
+                "number": "19"
+            },
+            {
+                "player": "Bud Olsen",
+                "number": "29"
+            },
+            {
+                "player": "Bill Russell",
+                "number": "6"
+            },
+            {
+                "player": "Tom Sanders",
+                "number": "16"
+            },
+            {
+                "player": "Larry Siegfried",
+                "number": "20"
+            }
+        ]
+    },
+    {
+        "row": 3,
+        "col": 4,
+        "Season": "1973-74",
+        "Year": 1974,
+        "Coach": "Tom Heinsohn",
+        "Opponent": "Milwaukee Bucks",
+        "Series_score": "4-3",
+        "Record": "56-26",
+        "Roster": [
+            {
+                "player": "Don Chaney",
+                "number": "12"
+            },
+            {
+                "player": "Dave Cowens",
+                "number": "18"
+            },
+            {
+                "player": "Steve Downing",
+                "number": "32"
+            },
+            {
+                "player": "Hank Finkel",
+                "number": "29"
+            },
+            {
+                "player": "Phil Hankinson",
+                "number": "20"
+            },
+            {
+                "player": "John Havlicek",
+                "number": "17"
+            },
+            {
+                "player": "Steve Kuberski",
+                "number": "11"
+            },
+            {
+                "player": "Don Nelson",
+                "number": "19"
+            },
+            {
+                "player": "Paul Silas",
+                "number": "35"
+            },
+            {
+                "player": "Paul Westphal",
+                "number": "44"
+            },
+            {
+                "player": "Jo Jo White",
+                "number": "10"
+            },
+            {
+                "player": "Art Williams",
+                "number": "7"
+            }
+        ]
+    },
+    {
+        "row": 4,
+        "col": 1,
+        "Season": "1975-76",
+        "Year": 1976,
+        "Coach": "Tom Heinsohn",
+        "Opponent": "Phoenix Suns",
+        "Series_score": "4-2",
+        "Record": "54-28",
+        "Roster": [
+            {
+                "player": "Jerome Anderson",
+                "number": "42"
+            },
+            {
+                "player": "Jim Ard",
+                "number": "34"
+            },
+            {
+                "player": "Tom Boswell",
+                "number": "31"
+            },
+            {
+                "player": "Dave Cowens",
+                "number": "18"
+            },
+            {
+                "player": "John Havlicek",
+                "number": "17"
+            },
+            {
+                "player": "Steve Kuberski",
+                "number": "33"
+            },
+            {
+                "player": "Glenn McDonald",
+                "number": "30"
+            },
+            {
+                "player": "Don Nelson",
+                "number": "19"
+            },
+            {
+                "player": "Charlie Scott",
+                "number": "11"
+            },
+            {
+                "player": "Ed Searcy",
+                "number": "32"
+            },
+            {
+                "player": "Paul Silas",
+                "number": "35"
+            },
+            {
+                "player": "Kevin Stacom",
+                "number": "27"
+            },
+            {
+                "player": "Jo Jo White",
+                "number": "10"
+            }
+        ]
+    },
+    {
+        "row": 4,
+        "col": 2,
+        "Season": "1980-81",
+        "Year": 1981,
+        "Coach": "Bill Fitch",
+        "Opponent": "Houston Rockets",
+        "Series_score": "4-2",
+        "Record": "62-20",
+        "Roster": [
+            {
+                "player": "Tiny Archibald",
+                "number": "7"
+            },
+            {
+                "player": "Larry Bird",
+                "number": "33"
+            },
+            {
+                "player": "M.L. Carr",
+                "number": "30"
+            },
+            {
+                "player": "Terry Duerod",
+                "number": "40"
+            },
+            {
+                "player": "Eric Fernsten",
+                "number": "45"
+            },
+            {
+                "player": "Chris Ford",
+                "number": "42"
+            },
+            {
+                "player": "Gerald Henderson",
+                "number": "43"
+            },
+            {
+                "player": "Wayne Kreklow",
+                "number": "20"
+            },
+            {
+                "player": "Cedric Maxwell",
+                "number": "31"
+            },
+            {
+                "player": "Kevin McHale",
+                "number": "32"
+            },
+            {
+                "player": "Robert Parish",
+                "number": "00"
+            },
+            {
+                "player": "Rick Robey",
+                "number": "53"
+            }
+        ]
+    },
+    {
+        "row": 4,
+        "col": 3,
+        "Season": "1983-84",
+        "Year": 1984,
+        "Coach": "K.C. Jones",
+        "Opponent": "Los Angeles Lakers",
+        "Series_score": "4-3",
+        "Record": "62-20",
+        "Roster": [
+            {
+                "player": "Danny Ainge",
+                "number": "44"
+            },
+            {
+                "player": "Larry Bird",
+                "number": "33"
+            },
+            {
+                "player": "Quinn Buckner",
+                "number": "28"
+            },
+            {
+                "player": "M.L. Carr",
+                "number": "30"
+            },
+            {
+                "player": "Carlos Clark",
+                "number": "40"
+            },
+            {
+                "player": "Gerald Henderson",
+                "number": "43"
+            },
+            {
+                "player": "Dennis Johnson",
+                "number": "3"
+            },
+            {
+                "player": "Greg Kite",
+                "number": "50"
+            },
+            {
+                "player": "Cedric Maxwell",
+                "number": "31"
+            },
+            {
+                "player": "Kevin McHale",
+                "number": "32"
+            },
+            {
+                "player": "Robert Parish",
+                "number": "00"
+            },
+            {
+                "player": "Scott Wedman",
+                "number": "8"
+            }
+        ]
+    },
+    {
+        "row": 4,
+        "col": 4,
+        "Season": "1985-86",
+        "Year": 1986,
+        "Coach": "K.C. Jones",
+        "Opponent": "Houston Rockets",
+        "Series_score": "4-2",
+        "Record": "67-15",
+        "Roster": [
+            {
+                "player": "Danny Ainge",
+                "number": "44"
+            },
+            {
+                "player": "Larry Bird",
+                "number": "33"
+            },
+            {
+                "player": "Rick Carlisle",
+                "number": "34"
+            },
+            {
+                "player": "Dennis Johnson",
+                "number": "3"
+            },
+            {
+                "player": "Greg Kite",
+                "number": "50"
+            },
+            {
+                "player": "Kevin McHale",
+                "number": "32"
+            },
+            {
+                "player": "Robert Parish",
+                "number": "00"
+            },
+            {
+                "player": "Jerry Sichting",
+                "number": "12"
+            },
+            {
+                "player": "David Thirdkill",
+                "number": "45"
+            },
+            {
+                "player": "Sam Vincent",
+                "number": "11"
+            },
+            {
+                "player": "Bill Walton",
+                "number": "5"
+            },
+            {
+                "player": "Scott Wedman",
+                "number": "8"
+            },
+            {
+                "player": "Sly Williams",
+                "number": "35"
+            }
+        ]
+    },
+    {
+        "row": 5,
+        "col": 1,
+        "Season": "2007-08",
+        "Year": 2008,
+        "Coach": "Doc Rivers",
+        "Opponent": "Los Angeles Lakers",
+        "Series_score": "4-2",
+        "Record": "66-16",
+        "Roster": [
+            {
+                "player": "Ray Allen",
+                "number": "20"
+            },
+            {
+                "player": "Tony Allen",
+                "number": "42"
+            },
+            {
+                "player": "P.J. Brown",
+                "number": "93"
+            },
+            {
+                "player": "Sam Cassell",
+                "number": "28"
+            },
+            {
+                "player": "Glen Davis",
+                "number": "11"
+            },
+            {
+                "player": "Kevin Garnett",
+                "number": "5"
+            },
+            {
+                "player": "Eddie House",
+                "number": "50"
+            },
+            {
+                "player": "Kendrick Perkins",
+                "number": "43"
+            },
+            {
+                "player": "Paul Pierce",
+                "number": "34"
+            },
+            {
+                "player": "Scot Pollard",
+                "number": "66"
+            },
+            {
+                "player": "James Posey",
+                "number": "41"
+            },
+            {
+                "player": "Leon Powe",
+                "number": "0"
+            },
+            {
+                "player": "Gabe Pruitt",
+                "number": "13"
+            },
+            {
+                "player": "Rajon Rondo",
+                "number": "9"
+            },
+            {
+                "player": "Brian Scalabrine",
+                "number": "44"
+            }
+        ]
+    },
+    {
+        "row": 5,
+        "col": 2,
+        "Season": "2023-24",
+        "Year": 2024,
+        "Coach": "Joe Mazzulla",
+        "Opponent": "Dallas Mavericks",
+        "Series_score": "4-1",
+        "Record": "64-18",
+        "Roster": [
+            {
+                "player": "Dalano Banton",
+                "number": "45"
+            },
+            {
+                "player": "Oshae Brissett",
+                "number": "12"
+            },
+            {
+                "player": "Jaylen Brown",
+                "number": "7"
+            },
+            {
+                "player": "JD Davison",
+                "number": "20"
+            },
+            {
+                "player": "Sam Hauser",
+                "number": "30"
+            },
+            {
+                "player": "Jrue Holiday",
+                "number": "4"
+            },
+            {
+                "player": "Al Horford",
+                "number": "42"
+            },
+            {
+                "player": "Luke Kornet",
+                "number": "40"
+            },
+            {
+                "player": "Svi Mykhailiuk",
+                "number": "50"
+            },
+            {
+                "player": "Drew Peterson",
+                "number": "13"
+            },
+            {
+                "player": "Kristaps Porzi\u0146\u0123is",
+                "number": "8"
+            },
+            {
+                "player": "Payton Pritchard",
+                "number": "11"
+            },
+            {
+                "player": "Neemias Queta",
+                "number": "88"
+            },
+            {
+                "player": "Jaden Springer",
+                "number": "44"
+            },
+            {
+                "player": "Lamar Stevens",
+                "number": "77"
+            },
+            {
+                "player": "Jayson Tatum",
+                "number": "0"
+            },
+            {
+                "player": "Xavier Tillman Sr.",
+                "number": "26"
+            },
+            {
+                "player": "Jordan Walsh",
+                "number": "27"
+            },
+            {
+                "player": "Derrick White",
+                "number": "9"
+            }
+        ]
+    }
 ]
