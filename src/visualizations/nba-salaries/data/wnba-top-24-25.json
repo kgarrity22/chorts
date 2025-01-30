@@ -1,0 +1,874 @@
+{
+  "players": [
+    {
+      "name": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "salary": 241984
+    },
+    {
+      "name": "Jewell Loyd",
+      "team": "SEA",
+      "position": "G",
+      "salary": 241984
+    },
+    {
+      "name": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G",
+      "salary": 241984
+    },
+    {
+      "name": "Diana Taurasi",
+      "team": "PHX",
+      "position": "G",
+      "salary": 234936
+    },
+    {
+      "name": "Natasha Howard",
+      "team": "DAL",
+      "position": "F",
+      "salary": 234350
+    },
+    {
+      "name": "Alyssa Thomas",
+      "team": "CON",
+      "position": "F",
+      "salary": 218000
+    },
+    {
+      "name": "Azurá Stevens",
+      "team": "LA",
+      "position": "F",
+      "salary": 215000
+    },
+    {
+      "name": "Brionna Jones",
+      "team": "CON",
+      "position": "C",
+      "salary": 212000
+    },
+    {
+      "name": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "salary": 212000
+    },
+    {
+      "name": "Napheesa Collier",
+      "team": "MIN",
+      "position": "F",
+      "salary": 208219
+    },
+    {
+      "name": "Skylar Diggins-Smith",
+      "team": "SEA",
+      "position": "G",
+      "salary": 208219
+    },
+    {
+      "name": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "salary": 208000
+    },
+    {
+      "name": "Marina Mabrey",
+      "team": "CON",
+      "position": "G",
+      "salary": 208000
+    },
+    {
+      "name": "Breanna Stewart",
+      "team": "NY",
+      "position": "F",
+      "salary": 205000
+    },
+    {
+      "name": "Nneka Ogwumike",
+      "team": "SEA",
+      "position": "F",
+      "salary": 204500
+    },
+    {
+      "name": "Erica Wheeler",
+      "team": "IND",
+      "position": "G",
+      "salary": 202154
+    },
+    {
+      "name": "Sabrina Ionescu",
+      "team": "NY",
+      "position": "G",
+      "salary": 202000
+    },
+    {
+      "name": "A'ja Wilson",
+      "team": "LV",
+      "position": "C",
+      "salary": 200000
+    },
+    {
+      "name": "Ariel Atkins",
+      "team": "WAS",
+      "position": "G",
+      "salary": 200000
+    },
+    {
+      "name": "Brittney Sykes",
+      "team": "WAS",
+      "position": "G",
+      "salary": 200000
+    },
+    {
+      "name": "Cheyenne Parker",
+      "team": "ATL",
+      "position": "F",
+      "salary": 200000
+    },
+    {
+      "name": "DeWanna Bonner",
+      "team": "CON",
+      "position": "F",
+      "salary": 200000
+    },
+    {
+      "name": "Kelsey Plum",
+      "team": "LV",
+      "position": "G",
+      "salary": 200000
+    },
+    {
+      "name": "Natasha Cloud",
+      "team": "PHX",
+      "position": "G",
+      "salary": 200000
+    },
+    {
+      "name": "Chelsea Gray",
+      "team": "LV",
+      "position": "G",
+      "salary": 196267
+    },
+    {
+      "name": "Teaira McCowan",
+      "team": "DAL",
+      "position": "C",
+      "salary": 195700
+    },
+    {
+      "name": "Satou Sabally",
+      "team": "DAL",
+      "position": "F",
+      "salary": 195000
+    },
+    {
+      "name": "Courtney Vandersloot",
+      "team": "NY",
+      "position": "G",
+      "salary": 194670
+    },
+    {
+      "name": "Jonquel Jones",
+      "team": "NY",
+      "position": "F",
+      "salary": 190000
+    },
+    {
+      "name": "Sophie Cunningham",
+      "team": "PHX",
+      "position": "G",
+      "salary": 189500
+    },
+    {
+      "name": "Dearica Hamby",
+      "team": "LA",
+      "position": "F",
+      "salary": 189000
+    },
+    {
+      "name": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "salary": 185000
+    },
+    {
+      "name": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "salary": 185000
+    },
+    {
+      "name": "Stefanie Dolson",
+      "team": "WAS",
+      "position": "C",
+      "salary": 185000
+    },
+    {
+      "name": "Myisha Hines-Allen",
+      "team": "MIN",
+      "position": "F",
+      "salary": 180200
+    },
+    {
+      "name": "Betnijah Laney",
+      "team": "NY",
+      "position": "G",
+      "salary": 180000
+    },
+    {
+      "name": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "salary": 175000
+    },
+    {
+      "name": "Katie Lou Samuelson",
+      "team": "IND",
+      "position": "G",
+      "salary": 175000
+    },
+    {
+      "name": "Jackie Young",
+      "team": "LV",
+      "position": "G",
+      "salary": 169950
+    },
+    {
+      "name": "Elizabeth Williams",
+      "team": "CHI",
+      "position": "C",
+      "salary": 165000
+    },
+    {
+      "name": "Isabelle Harrison",
+      "team": "CHI",
+      "position": "F",
+      "salary": 160000
+    },
+    {
+      "name": "Mercedes Russell",
+      "team": "SEA",
+      "position": "C",
+      "salary": 160000
+    },
+    {
+      "name": "Rebecca Allen",
+      "team": "PHX",
+      "position": "G",
+      "salary": 160000
+    },
+    {
+      "name": "Aerial Powers",
+      "team": "ATL",
+      "position": "F",
+      "salary": 155000
+    },
+    {
+      "name": "Ezi Magbegor",
+      "team": "SEA",
+      "position": "C",
+      "salary": 155000
+    },
+    {
+      "name": "Alanna Smith",
+      "team": "MIN",
+      "position": "F",
+      "salary": 150000
+    },
+    {
+      "name": "Brianna Turner",
+      "team": "CHI",
+      "position": "F",
+      "salary": 150000
+    },
+    {
+      "name": "Brittney Griner",
+      "team": "PHX",
+      "position": "C",
+      "salary": 150000
+    },
+    {
+      "name": "Nia Coffey",
+      "team": "ATL",
+      "position": "F",
+      "salary": 150000
+    },
+    {
+      "name": "Kia Nurse",
+      "team": "LA",
+      "position": "G",
+      "salary": 142500
+    },
+    {
+      "name": "Moriah Jefferson",
+      "team": "CHI",
+      "position": "G",
+      "salary": 141500
+    },
+    {
+      "name": "Sami Whitcomb",
+      "team": "SEA",
+      "position": "G",
+      "salary": 140000
+    },
+    {
+      "name": "Tiffany Mitchell",
+      "team": "CON",
+      "position": "G",
+      "salary": 139050
+    },
+    {
+      "name": "Tina Charles",
+      "team": "ATL",
+      "position": "C",
+      "salary": 130000
+    },
+    {
+      "name": "Astou Ndour",
+      "team": "CON",
+      "position": "C",
+      "salary": 125000
+    },
+    {
+      "name": "Bridget Carleton",
+      "team": "MIN",
+      "position": "G",
+      "salary": 125000
+    },
+    {
+      "name": "Kalani Brown",
+      "team": "DAL",
+      "position": "C",
+      "salary": 125000
+    },
+    {
+      "name": "Karlie Samuelson",
+      "team": "WAS",
+      "position": "G",
+      "salary": 125000
+    },
+    {
+      "name": "Rae Burrell",
+      "team": "LA",
+      "position": "F",
+      "salary": 125000
+    },
+    {
+      "name": "Natisha Hiedeman",
+      "team": "MIN",
+      "position": "G",
+      "salary": 120000
+    },
+    {
+      "name": "Stephanie Talbot",
+      "team": "LA",
+      "position": "F",
+      "salary": 115000
+    },
+    {
+      "name": "Alysha Clark",
+      "team": "LV",
+      "position": "F",
+      "salary": 110000
+    },
+    {
+      "name": "Kayla Thornton",
+      "team": "NY",
+      "position": "F",
+      "salary": 110000
+    },
+    {
+      "name": "Diamond DeShields",
+      "team": "CHI",
+      "position": "G",
+      "salary": 100000
+    },
+    {
+      "name": "Kiah Stokes",
+      "team": "LV",
+      "position": "C",
+      "salary": 100000
+    },
+    {
+      "name": "Layshia Clarendon",
+      "team": "LA",
+      "position": "G",
+      "salary": 100000
+    },
+    {
+      "name": "Shatori Walker-Kimbrough",
+      "team": "WAS",
+      "position": "G",
+      "salary": 97850
+    },
+    {
+      "name": "Damiris Dantas",
+      "team": "IND",
+      "position": "F",
+      "salary": 97100
+    },
+    {
+      "name": "Tyasha Harris",
+      "team": "CON",
+      "position": "G",
+      "salary": 97100
+    },
+    {
+      "name": "Rachel Banham",
+      "team": "CHI",
+      "position": "G",
+      "salary": 95000
+    },
+    {
+      "name": "Megan Gustafson",
+      "team": "LV",
+      "position": "F",
+      "salary": 94000
+    },
+    {
+      "name": "Lindsay Allen",
+      "team": "CHI",
+      "position": "G",
+      "salary": 90000
+    },
+    {
+      "name": "Aari McDonald",
+      "team": "LA",
+      "position": "G",
+      "salary": 89302
+    },
+    {
+      "name": "Tiffany Hayes",
+      "team": "LV",
+      "position": "G",
+      "salary": 88000
+    },
+    {
+      "name": "Michaela Onyenwere",
+      "team": "CHI",
+      "position": "F",
+      "salary": 85690
+    },
+    {
+      "name": "NaLyssa Smith",
+      "team": "IND",
+      "position": "F",
+      "salary": 80943
+    },
+    {
+      "name": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "salary": 80943
+    },
+    {
+      "name": "Shakira Austin",
+      "team": "WAS",
+      "position": "C",
+      "salary": 80943
+    },
+    {
+      "name": "Lexie Brown",
+      "team": "LA",
+      "position": "G",
+      "salary": 80340
+    },
+    {
+      "name": "Dana Evans",
+      "team": "CHI",
+      "position": "G",
+      "salary": 78469
+    },
+    {
+      "name": "DiJonai Carrington",
+      "team": "CON",
+      "position": "G",
+      "salary": 78469
+    },
+    {
+      "name": "Lexie Hull",
+      "team": "IND",
+      "position": "G",
+      "salary": 77669
+    },
+    {
+      "name": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "salary": 76535
+    },
+    {
+      "name": "Cameron Brink",
+      "team": "LA",
+      "position": "F",
+      "salary": 76535
+    },
+    {
+      "name": "Chennedy Carter",
+      "team": "CHI",
+      "position": "G",
+      "salary": 76535
+    },
+    {
+      "name": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "salary": 76535
+    },
+    {
+      "name": "Kennedy Burke",
+      "team": "NY",
+      "position": "G",
+      "salary": 76535
+    },
+    {
+      "name": "Rickea Jackson",
+      "team": "LA",
+      "position": "F",
+      "salary": 76535
+    },
+    {
+      "name": "Stephanie Soares",
+      "team": "DAL",
+      "position": "C",
+      "salary": 76535
+    },
+    {
+      "name": "Sydney Colson",
+      "team": "LV",
+      "position": "G",
+      "salary": 76535
+    },
+    {
+      "name": "Temi Fagbenle",
+      "team": "IND",
+      "position": "C",
+      "salary": 76535
+    },
+    {
+      "name": "Victoria Vivians",
+      "team": "SEA",
+      "position": "G",
+      "salary": 76535
+    },
+    {
+      "name": "Aliyah Boston",
+      "team": "IND",
+      "position": "F",
+      "salary": 75792
+    },
+    {
+      "name": "Diamond Miller",
+      "team": "MIN",
+      "position": "G",
+      "salary": 75792
+    },
+    {
+      "name": "Maddy Siegrist",
+      "team": "DAL",
+      "position": "F",
+      "salary": 75792
+    },
+    {
+      "name": "Kierstan Bell",
+      "team": "LV",
+      "position": "G",
+      "salary": 74398
+    },
+    {
+      "name": "Aaliyah Edwards",
+      "team": "WAS",
+      "position": "F",
+      "salary": 73439
+    },
+    {
+      "name": "Alissa Pili",
+      "team": "MIN",
+      "position": "F",
+      "salary": 73439
+    },
+    {
+      "name": "Angel Reese",
+      "team": "CHI",
+      "position": "F",
+      "salary": 73439
+    },
+    {
+      "name": "Jacy Sheldon",
+      "team": "DAL",
+      "position": "G",
+      "salary": 73439
+    },
+    {
+      "name": "Grace Berger",
+      "team": "IND",
+      "position": "G",
+      "salary": 72727
+    },
+    {
+      "name": "Haley Jones",
+      "team": "ATL",
+      "position": "G",
+      "salary": 72727
+    },
+    {
+      "name": "Laeticia Amihere",
+      "team": "ATL",
+      "position": "C",
+      "salary": 72727
+    },
+    {
+      "name": "Lou Lopez-Senechal",
+      "team": "DAL",
+      "position": "G",
+      "salary": 72727
+    },
+    {
+      "name": "Nyara Sabally",
+      "team": "NY",
+      "position": "F",
+      "salary": 72727
+    },
+    {
+      "name": "Kristy Wallace",
+      "team": "IND",
+      "position": "G",
+      "salary": 71124
+    },
+    {
+      "name": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "salary": 71124
+    },
+    {
+      "name": "Olivia Nelson-Ododa",
+      "team": "CON",
+      "position": "F",
+      "salary": 71124
+    },
+    {
+      "name": "Marquesha Davis",
+      "team": "NY",
+      "position": "G",
+      "salary": 70344
+    },
+    {
+      "name": "Jordan Horston",
+      "team": "SEA",
+      "position": "F",
+      "salary": 69663
+    },
+    {
+      "name": "Zia Cooke",
+      "team": "LA",
+      "position": "G",
+      "salary": 69663
+    },
+    {
+      "name": "Kate Martin",
+      "team": "LV",
+      "position": "G",
+      "salary": 67249
+    },
+    {
+      "name": "Leonie Fiebich",
+      "team": "NY",
+      "position": "F",
+      "salary": 67249
+    },
+    {
+      "name": "Nika Mühl",
+      "team": "SEA",
+      "position": "G",
+      "salary": 67249
+    },
+    {
+      "name": "Dorka Juhasz",
+      "team": "MIN",
+      "position": "F",
+      "salary": 66597
+    },
+    {
+      "name": "Li Yueru",
+      "team": "LA",
+      "position": "C",
+      "salary": 64767
+    },
+    {
+      "name": "Cecilia Zandalasini",
+      "team": "MIN",
+      "position": "F",
+      "salary": 64154
+    },
+    {
+      "name": "Emily Engstler",
+      "team": "WAS",
+      "position": "F",
+      "salary": 64154
+    },
+    {
+      "name": "Ivana Dojkic",
+      "team": "NY",
+      "position": "G",
+      "salary": 64154
+    },
+    {
+      "name": "Jade Melbourne",
+      "team": "WAS",
+      "position": "G",
+      "salary": 64154
+    },
+    {
+      "name": "Jaelyn Brown",
+      "team": "DAL",
+      "position": "G",
+      "salary": 64154
+    },
+    {
+      "name": "Julie Vanloo",
+      "team": "WAS",
+      "position": "G",
+      "salary": 64154
+    },
+    {
+      "name": "Lorela Cubaj",
+      "team": "ATL",
+      "position": "F",
+      "salary": 64154
+    },
+    {
+      "name": "Mikiah Herbert Harrigan",
+      "team": "PHX",
+      "position": "F",
+      "salary": 64154
+    },
+    {
+      "name": "Natasha Mack",
+      "team": "PHX",
+      "position": "F",
+      "salary": 64154
+    },
+    {
+      "name": "Sevgi Uzun",
+      "team": "DAL",
+      "position": "G",
+      "salary": 64154
+    },
+    {
+      "name": "Sika Koné",
+      "team": "WAS",
+      "position": "F",
+      "salary": 64154
+    },
+    {
+      "name": "Sug Sutton",
+      "team": "WAS",
+      "position": "G",
+      "salary": 64154
+    },
+    {
+      "name": "Victaria Saxton",
+      "team": "IND",
+      "position": "F",
+      "salary": 64154
+    },
+    {
+      "name": "Joyner Holmes",
+      "team": "SEA",
+      "position": "F",
+      "salary": 61380
+    },
+    {
+      "name": "Veronica Burton",
+      "team": "CON",
+      "position": "G",
+      "salary": 50180
+    },
+    {
+      "name": "Charisma Osborne",
+      "team": "PHX",
+      "position": "G",
+      "salary": 45098
+    },
+    {
+      "name": "Maya Caldwell",
+      "team": "ATL",
+      "position": "G",
+      "salary": 36841
+    },
+    {
+      "name": "Gabby Williams",
+      "team": "SEA",
+      "position": "F",
+      "salary": 23491
+    },
+    {
+      "name": "Monique Billings",
+      "team": "PHX",
+      "position": "F",
+      "salary": 18950
+    },
+    {
+      "name": "Jaylyn Sherrod",
+      "team": "NY",
+      "position": "G",
+      "salary": 17145
+    },
+    {
+      "name": "Caitlin Bickle",
+      "team": "CON",
+      "position": "F",
+      "salary": 12700
+    },
+    {
+      "name": "Celeste Taylor",
+      "team": "CON",
+      "position": "G",
+      "salary": 8658
+    },
+    {
+      "name": "Odyssey Sims",
+      "team": "LA",
+      "position": "G",
+      "salary": 8335
+    },
+    {
+      "name": "Crystal Dangerfield",
+      "team": "LA",
+      "position": "G",
+      "salary": 5304
+    },
+    {
+      "name": "Queen Egbo",
+      "team": "LV",
+      "position": "C",
+      "salary": 1905
+    },
+    {
+      "name": "Kaela Davis",
+      "team": "CHI",
+      "position": "F",
+      "salary": 1516
+    },
+    {
+      "name": "Ezinne Kalu",
+      "team": "ATL",
+      "position": "G",
+      "salary": 1270
+    },
+    {
+      "name": "Amy Atwell",
+      "team": "PHX",
+      "position": "F",
+      "salary": 635
+    },
+    {
+      "name": "Olivia Epoupa",
+      "team": "MIN",
+      "position": "G",
+      "salary": 635
+    }
+  ]
+}

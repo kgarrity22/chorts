@@ -1,0 +1,705 @@
+{
+  "season": "2024-2025",
+  "players": [
+    {
+      "rank": 1,
+      "name": "Stephen Curry",
+      "position": "PG",
+      "team": "Golden State Warriors",
+      "salary": 55761216
+    },
+    {
+      "rank": 2,
+      "name": "Joel Embiid",
+      "position": "C",
+      "team": "Philadelphia 76ers",
+      "salary": 51415938
+    },
+    {
+      "rank": 3,
+      "name": "Nikola Jokic",
+      "position": "C",
+      "team": "Denver Nuggets",
+      "salary": 51415938
+    },
+    {
+      "rank": 4,
+      "name": "Kevin Durant",
+      "position": "PF",
+      "team": "Phoenix Suns",
+      "salary": 51179021
+    },
+    {
+      "rank": 5,
+      "name": "Bradley Beal",
+      "position": "SG",
+      "team": "Phoenix Suns",
+      "salary": 50203930
+    },
+    {
+      "rank": 6,
+      "name": "Kawhi Leonard",
+      "position": "SF",
+      "team": "LA Clippers",
+      "salary": 49350000
+    },
+    {
+      "rank": 7,
+      "name": "Devin Booker",
+      "position": "SG",
+      "team": "Phoenix Suns",
+      "salary": 49205800
+    },
+    {
+      "rank": 8,
+      "name": "Paul George",
+      "position": "F",
+      "team": "Philadelphia 76ers",
+      "salary": 49205800
+    },
+    {
+      "rank": 9,
+      "name": "Karl-Anthony Towns",
+      "position": "C",
+      "team": "New York Knicks",
+      "salary": 49205800
+    },
+    {
+      "rank": 10,
+      "name": "Jaylen Brown",
+      "position": "SG",
+      "team": "Boston Celtics",
+      "salary": 49205800
+    },
+    {
+      "rank": 11,
+      "name": "Jimmy Butler",
+      "position": "SF",
+      "team": "Miami Heat",
+      "salary": 48798677
+    },
+    {
+      "rank": 12,
+      "name": "Giannis Antetokounmpo",
+      "position": "PF",
+      "team": "Milwaukee Bucks",
+      "salary": 48787676
+    },
+    {
+      "rank": 13,
+      "name": "Damian Lillard",
+      "position": "PG",
+      "team": "Milwaukee Bucks",
+      "salary": 48787676
+    },
+    {
+      "rank": 14,
+      "name": "LeBron James",
+      "position": "SF",
+      "team": "Los Angeles Lakers",
+      "salary": 48728845
+    },
+    {
+      "rank": 15,
+      "name": "Rudy Gobert",
+      "position": "C",
+      "team": "Minnesota Timberwolves",
+      "salary": 43827587
+    },
+    {
+      "rank": 16,
+      "name": "Anthony Davis",
+      "position": "PF",
+      "team": "Los Angeles Lakers",
+      "salary": 43219440
+    },
+    {
+      "rank": 17,
+      "name": "Luka Doncic",
+      "position": "PG",
+      "team": "Dallas Mavericks",
+      "salary": 43031940
+    },
+    {
+      "rank": 18,
+      "name": "Zach LaVine",
+      "position": "SG",
+      "team": "Chicago Bulls",
+      "salary": 43031940
+    },
+    {
+      "rank": 19,
+      "name": "Trae Young",
+      "position": "PG",
+      "team": "Atlanta Hawks",
+      "salary": 43031940
+    },
+    {
+      "rank": 20,
+      "name": "Fred VanVleet",
+      "position": "PG",
+      "team": "Houston Rockets",
+      "salary": 42846615
+    },
+    {
+      "rank": 21,
+      "name": "Lauri Markkanen",
+      "position": "PF",
+      "team": "Utah Jazz",
+      "salary": 42176400
+    },
+    {
+      "rank": 22,
+      "name": "Anthony Edwards",
+      "position": "SG",
+      "team": "Minnesota Timberwolves",
+      "salary": 42176400
+    },
+    {
+      "rank": 23,
+      "name": "Tyrese Haliburton",
+      "position": "PG",
+      "team": "Indiana Pacers",
+      "salary": 42176000
+    },
+    {
+      "rank": 24,
+      "name": "Pascal Siakam",
+      "position": "PF",
+      "team": "Indiana Pacers",
+      "salary": 42176000
+    },
+    {
+      "rank": 25,
+      "name": "Kyrie Irving",
+      "position": "PG",
+      "team": "Dallas Mavericks",
+      "salary": 41000000
+    },
+    {
+      "rank": 26,
+      "name": "Domantas Sabonis",
+      "position": "PF",
+      "team": "Sacramento Kings",
+      "salary": 40500000
+    },
+    {
+      "rank": 27,
+      "name": "Ben Simmons",
+      "position": "PG",
+      "team": "Brooklyn Nets",
+      "salary": 40338144
+    },
+    {
+      "rank": 28,
+      "name": "Ja Morant",
+      "position": "PG",
+      "team": "Memphis Grizzlies",
+      "salary": 36725670
+    },
+    {
+      "rank": 29,
+      "name": "Darius Garland",
+      "position": "PG",
+      "team": "Cleveland Cavaliers",
+      "salary": 36725670
+    },
+    {
+      "rank": 30,
+      "name": "Zion Williamson",
+      "position": "PF",
+      "team": "New Orleans Pelicans",
+      "salary": 36725670
+    },
+    {
+      "rank": 31,
+      "name": "OG Anunoby",
+      "position": "SF",
+      "team": "New York Knicks",
+      "salary": 36637931
+    },
+    {
+      "rank": 32,
+      "name": "Jamal Murray",
+      "position": "PG",
+      "team": "Denver Nuggets",
+      "salary": 36016200
+    },
+    {
+      "rank": 33,
+      "name": "Brandon Ingram",
+      "position": "SF",
+      "team": "New Orleans Pelicans",
+      "salary": 36016200
+    },
+    {
+      "rank": 34,
+      "name": "Shai Gilgeous-Alexander",
+      "position": "PG",
+      "team": "Oklahoma City Thunder",
+      "salary": 35859950
+    },
+    {
+      "rank": 35,
+      "name": "Michael Porter Jr.",
+      "position": "SF",
+      "team": "Denver Nuggets",
+      "salary": 35859950
+    },
+    {
+      "rank": 36,
+      "name": "Donovan Mitchell",
+      "position": "SG",
+      "team": "Cleveland Cavaliers",
+      "salary": 35410310
+    },
+    {
+      "rank": 37,
+      "name": "LaMelo Ball",
+      "position": "PG",
+      "team": "Charlotte Hornets",
+      "salary": 35147000
+    },
+    {
+      "rank": 38,
+      "name": "Tyrese Maxey",
+      "position": "PG",
+      "team": "Philadelphia 76ers",
+      "salary": 35147000
+    },
+    {
+      "rank": 39,
+      "name": "De'Aaron Fox",
+      "position": "PG",
+      "team": "Sacramento Kings",
+      "salary": 34848340
+    },
+    {
+      "rank": 40,
+      "name": "Bam Adebayo",
+      "position": "C",
+      "team": "Miami Heat",
+      "salary": 34848340
+    },
+    {
+      "rank": 41,
+      "name": "Jayson Tatum",
+      "position": "SF",
+      "team": "Boston Celtics",
+      "salary": 34848340
+    },
+    {
+      "rank": 42,
+      "name": "Desmond Bane",
+      "position": "SG",
+      "team": "Memphis Grizzlies",
+      "salary": 34005250
+    },
+    {
+      "rank": 43,
+      "name": "Deandre Ayton",
+      "position": "C",
+      "team": "Portland Trail Blazers",
+      "salary": 34005126
+    },
+    {
+      "rank": 44,
+      "name": "James Harden",
+      "position": "SG",
+      "team": "LA Clippers",
+      "salary": 33653846
+    },
+    {
+      "rank": 45,
+      "name": "CJ McCollum",
+      "position": "SG",
+      "team": "New Orleans Pelicans",
+      "salary": 33333333
+    },
+    {
+      "rank": 46,
+      "name": "Julius Randle",
+      "position": "PF",
+      "team": "Minnesota Timberwolves",
+      "salary": 33073920
+    },
+    {
+      "rank": 47,
+      "name": "Immanuel Quickley",
+      "position": "SG",
+      "team": "Toronto Raptors",
+      "salary": 32500000
+    },
+    {
+      "rank": 48,
+      "name": "Khris Middleton",
+      "position": "SF",
+      "team": "Milwaukee Bucks",
+      "salary": 31666676
+    },
+    {
+      "rank": 49,
+      "name": "Isaiah Hartenstein",
+      "position": "C",
+      "team": "Oklahoma City Thunder",
+      "salary": 30000000
+    },
+    {
+      "rank": 50,
+      "name": "Jrue Holiday",
+      "position": "PG",
+      "team": "Boston Celtics",
+      "salary": 30000000
+    },
+    {
+      "rank": 51,
+      "name": "Jerami Grant",
+      "position": "SF",
+      "team": "Portland Trail Blazers",
+      "salary": 29793104
+    },
+    {
+      "rank": 52,
+      "name": "Jordan Poole",
+      "position": "SG",
+      "team": "Washington Wizards",
+      "salary": 29651786
+    },
+    {
+      "rank": 53,
+      "name": "Dejounte Murray",
+      "position": "SG",
+      "team": "New Orleans Pelicans",
+      "salary": 29535801
+    },
+    {
+      "rank": 54,
+      "name": "Devin Vassell",
+      "position": "SG",
+      "team": "San Antonio Spurs",
+      "salary": 29347826
+    },
+    {
+      "rank": 55,
+      "name": "Kristaps Porzingis",
+      "position": "C",
+      "team": "Boston Celtics",
+      "salary": 29268293
+    },
+    {
+      "rank": 56,
+      "name": "Tyler Herro",
+      "position": "PG",
+      "team": "Miami Heat",
+      "salary": 29000000
+    },
+    {
+      "rank": 57,
+      "name": "Nic Claxton",
+      "position": "C",
+      "team": "Brooklyn Nets",
+      "salary": 27556817
+    },
+    {
+      "rank": 58,
+      "name": "Miles Bridges",
+      "position": "SF",
+      "team": "Charlotte Hornets",
+      "salary": 27173913
+    },
+    {
+      "rank": 59,
+      "name": "John Collins",
+      "position": "PF",
+      "team": "Utah Jazz",
+      "salary": 26580000
+    },
+    {
+      "rank": 60,
+      "name": "Andrew Wiggins",
+      "position": "SF",
+      "team": "Golden State Warriors",
+      "salary": 26276786
+    },
+    {
+      "rank": 61,
+      "name": "Anfernee Simons",
+      "position": "SG",
+      "team": "Portland Trail Blazers",
+      "salary": 25892857
+    },
+    {
+      "rank": 62,
+      "name": "RJ Barrett",
+      "position": "SG",
+      "team": "Toronto Raptors",
+      "salary": 25794643
+    },
+    {
+      "rank": 63,
+      "name": "Tobias Harris",
+      "position": "F",
+      "team": "Detroit Pistons",
+      "salary": 25365854
+    },
+    {
+      "rank": 64,
+      "name": "Jaren Jackson Jr.",
+      "position": "PF",
+      "team": "Memphis Grizzlies",
+      "salary": 25257798
+    },
+    {
+      "rank": 65,
+      "name": "Jonathan Isaac",
+      "position": "PF",
+      "team": "Orlando Magic",
+      "salary": 25000000
+    },
+    {
+      "rank": 66,
+      "name": "Jalen Brunson",
+      "position": "PG",
+      "team": "New York Knicks",
+      "salary": 24960001
+    },
+    {
+      "rank": 67,
+      "name": "Terry Rozier",
+      "position": "SG",
+      "team": "Miami Heat",
+      "salary": 24924126
+    },
+    {
+      "rank": 68,
+      "name": "Draymond Green",
+      "position": "PF",
+      "team": "Golden State Warriors",
+      "salary": 24107143
+    },
+    {
+      "rank": 69,
+      "name": "Kyle Kuzma",
+      "position": "SF",
+      "team": "Washington Wizards",
+      "salary": 23522727
+    },
+    {
+      "rank": 70,
+      "name": "DeMar DeRozan",
+      "position": "SF",
+      "team": "Sacramento Kings",
+      "salary": 23400000
+    },
+    {
+      "rank": 71,
+      "name": "Mikal Bridges",
+      "position": "SF",
+      "team": "New York Knicks",
+      "salary": 23300000
+    },
+    {
+      "rank": 72,
+      "name": "Jaden McDaniels",
+      "position": "PF",
+      "team": "Minnesota Timberwolves",
+      "salary": 23017242
+    },
+    {
+      "rank": 73,
+      "name": "Bruce Brown",
+      "position": "SF",
+      "team": "Toronto Raptors",
+      "salary": 23000000
+    },
+    {
+      "rank": 74,
+      "name": "Brook Lopez",
+      "position": "C",
+      "team": "Milwaukee Bucks",
+      "salary": 23000000
+    },
+    {
+      "rank": 75,
+      "name": "Aaron Gordon",
+      "position": "PF",
+      "team": "Denver Nuggets",
+      "salary": 22841455
+    },
+    {
+      "rank": 76,
+      "name": "Kentavious Caldwell-Pope",
+      "position": "SG",
+      "team": "Orlando Magic",
+      "salary": 22757000
+    },
+    {
+      "rank": 77,
+      "name": "Malcolm Brogdon",
+      "position": "PG",
+      "team": "Washington Wizards",
+      "salary": 22500000
+    },
+    {
+      "rank": 78,
+      "name": "Cameron Johnson",
+      "position": "SF",
+      "team": "Brooklyn Nets",
+      "salary": 22500000
+    },
+    {
+      "rank": 79,
+      "name": "Clint Capela",
+      "position": "C",
+      "team": "Atlanta Hawks",
+      "salary": 22265280
+    },
+    {
+      "rank": 80,
+      "name": "Dillon Brooks",
+      "position": "SF",
+      "team": "Houston Rockets",
+      "salary": 22255493
+    },
+    {
+      "rank": 81,
+      "name": "De'Andre Hunter",
+      "position": "SF",
+      "team": "Atlanta Hawks",
+      "salary": 21696429
+    },
+    {
+      "rank": 82,
+      "name": "Lonzo Ball",
+      "position": "PG",
+      "team": "Chicago Bulls",
+      "salary": 21395348
+    },
+    {
+      "rank": 83,
+      "name": "Marcus Smart",
+      "position": "PG",
+      "team": "Memphis Grizzlies",
+      "salary": 20210285
+    },
+    {
+      "rank": 84,
+      "name": "Derrick White",
+      "position": "PG",
+      "team": "Boston Celtics",
+      "salary": 20017429
+    },
+    {
+      "rank": 85,
+      "name": "Jarrett Allen",
+      "position": "C",
+      "team": "Cleveland Cavaliers",
+      "salary": 20000000
+    },
+    {
+      "rank": 86,
+      "name": "Nikola Vucevic",
+      "position": "C",
+      "team": "Chicago Bulls",
+      "salary": 20000000
+    },
+    {
+      "rank": 87,
+      "name": "Myles Turner",
+      "position": "C",
+      "team": "Indiana Pacers",
+      "salary": 19928500
+    },
+    {
+      "rank": 88,
+      "name": "Jakob Poeltl",
+      "position": "C",
+      "team": "Toronto Raptors",
+      "salary": 19500000
+    },
+    {
+      "rank": 89,
+      "name": "Duncan Robinson",
+      "position": "F",
+      "team": "Miami Heat",
+      "salary": 19406000
+    },
+    {
+      "rank": 90,
+      "name": "Norman Powell",
+      "position": "G",
+      "team": "LA Clippers",
+      "salary": 19241379
+    },
+    {
+      "rank": 91,
+      "name": "Bojan Bogdanovic",
+      "position": "SF",
+      "team": "Brooklyn Nets",
+      "salary": 19032850
+    },
+    {
+      "rank": 92,
+      "name": "Keldon Johnson",
+      "position": "SF",
+      "team": "San Antonio Spurs",
+      "salary": 19000000
+    },
+    {
+      "rank": 93,
+      "name": "D'Angelo Russell",
+      "position": "G",
+      "team": "Brooklyn Nets",
+      "salary": 18692307
+    },
+    {
+      "rank": 94,
+      "name": "Patrick Williams",
+      "position": "PF",
+      "team": "Chicago Bulls",
+      "salary": 18500000
+    },
+    {
+      "rank": 95,
+      "name": "Collin Sexton",
+      "position": "PG",
+      "team": "Utah Jazz",
+      "salary": 18350000
+    },
+    {
+      "rank": 96,
+      "name": "Josh Hart",
+      "position": "SG",
+      "team": "New York Knicks",
+      "salary": 18144000
+    },
+    {
+      "rank": 97,
+      "name": "Jusuf Nurkic",
+      "position": "C",
+      "team": "Phoenix Suns",
+      "salary": 18125000
+    },
+    {
+      "rank": 98,
+      "name": "Harrison Barnes",
+      "position": "SF",
+      "team": "San Antonio Spurs",
+      "salary": 18000000
+    },
+    {
+      "rank": 99,
+      "name": "Malik Monk",
+      "position": "SG",
+      "team": "Sacramento Kings",
+      "salary": 17405202
+    },
+    {
+      "rank": 100,
+      "name": "Bogdan Bogdanovic",
+      "position": "SG",
+      "team": "Atlanta Hawks",
+      "salary": 17260000
+    }
+  ]
+}
