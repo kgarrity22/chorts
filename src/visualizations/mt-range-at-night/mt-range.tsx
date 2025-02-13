@@ -3,6 +3,9 @@ import { BaseChart } from "../utils/vega-utils";
 import { TopLevelSpec } from "vega-lite";
 import { data, starsData } from "./data";
 
+/**
+ *
+ */
 export const MtRushmoreNight = () => {
   const spec: TopLevelSpec = {
     $schema: "https://vega.github.io/schema/vega-lite/v5.json",
@@ -23,7 +26,7 @@ export const MtRushmoreNight = () => {
       },
     },
     title: {
-      text: "Mount Rushmore at Night",
+      text: "Mountain Range at Night",
       fontSize: 30,
       font: "Comfortaa",
       anchor: "middle",
