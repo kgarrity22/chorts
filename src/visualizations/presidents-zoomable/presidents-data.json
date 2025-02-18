@@ -1,0 +1,810 @@
+[
+    {
+        "name": "George Washington",
+        "startYear": 1789,
+        "endYear": 1797,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "John Adams",
+        "party": "Independent",
+        "notes": [
+            "First US President",
+            "Commander of Continental Army",
+            "Established two-term precedent",
+            "Only president unanimously elected"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/160px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
+    },
+    {
+        "name": "John Adams",
+        "startYear": 1797,
+        "endYear": 1801,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Thomas Jefferson",
+        "party": "Federalist",
+        "notes": [
+            "First president to live in White House",
+            "Signed controversial Alien and Sedition Acts",
+            "First president to lose reelection"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/John_Adams_A18236.jpg/320px-John_Adams_A18236.jpg"
+    },
+    {
+        "name": "Thomas Jefferson",
+        "startYear": 1801,
+        "endYear": 1809,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": [
+            "Aaron Burr",
+            "George Clinton"
+        ],
+        "party": "Democratic-Republican",
+        "notes": [
+            "Primary author of Declaration of Independence",
+            "Louisiana Purchase doubled US territory",
+            "Founded University of Virginia"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/160px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg"
+    },
+    {
+        "name": "James Madison",
+        "startYear": 1809,
+        "endYear": 1817,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": [
+            "George Clinton",
+            "Elbridge Gerry"
+        ],
+        "party": "Democratic-Republican",
+        "notes": [
+            "Father of the Constitution",
+            "Led US during War of 1812",
+            "Smallest US president at 5'4\""
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/160px-James_Madison.jpg"
+    },
+    {
+        "name": "James Monroe",
+        "startYear": 1817,
+        "endYear": 1825,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "Daniel D. Tompkins",
+        "party": "Democratic-Republican",
+        "notes": [
+            "Established Monroe Doctrine",
+            "Presided over Era of Good Feelings",
+            "Last president who was a Founding Father"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/160px-James_Monroe_White_House_portrait_1819.jpg"
+    },
+    {
+        "name": "John Quincy Adams",
+        "startYear": 1825,
+        "endYear": 1829,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "John C. Calhoun",
+        "party": "Democratic-Republican",
+        "notes": [
+            "Son of John Adams",
+            "Lost popular and electoral vote but won via House of Representatives",
+            "First president to be photographed"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JQA_Photo.tif/lossy-page1-160px-JQA_Photo.tif.jpg"
+    },
+    {
+        "name": "Andrew Jackson",
+        "startYear": 1829,
+        "endYear": 1837,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": [
+            "John C. Calhoun",
+            "Martin Van Buren"
+        ],
+        "party": "Democratic",
+        "notes": [
+            "First president from humble beginnings",
+            "Indian Removal Act and Trail of Tears",
+            "Only president to pay off national debt"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/165px-Andrew_jackson_head.jpg"
+    },
+    {
+        "name": "Martin Van Buren",
+        "startYear": 1837,
+        "endYear": 1841,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Richard Mentor Johnson",
+        "party": "Democratic",
+        "notes": [
+            "First president born as US citizen",
+            "Handled Panic of 1837",
+            "English was his second language (Dutch was first)"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Martin_Van_Buren_edit.jpg/160px-Martin_Van_Buren_edit.jpg"
+    },
+    {
+        "name": "William Henry Harrison",
+        "startYear": 1841,
+        "endYear": 1841,
+        "totalTime": 744,
+        "terms": 0.08,
+        "veep": "John Tyler",
+        "party": "Whig",
+        "notes": [
+            "Died after 31 days in office",
+            "First president to die in office",
+            "Longest inaugural speech"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg/160px-William_Henry_Harrison_daguerreotype_edit.jpg"
+    },
+    {
+        "name": "John Tyler",
+        "startYear": 1841,
+        "endYear": 1845,
+        "totalTime": 34296,
+        "terms": 1,
+        "veep": "None",
+        "party": "Whig",
+        "notes": [
+            "First vice president to succeed to presidency",
+            "Annexed Texas",
+            "Expelled from own party while president"
+        ],
+        "electionsWon": 0,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/John_Tyler%2C_Jr.jpg/160px-John_Tyler%2C_Jr.jpg"
+    },
+    {
+        "name": "James K. Polk",
+        "startYear": 1845,
+        "endYear": 1849,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "George M. Dallas",
+        "party": "Democratic",
+        "notes": [
+            "Acquired Oregon Territory",
+            "Mexican-American War victor",
+            "Successfully completed all campaign promises"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JKP.jpg/160px-JKP.jpg"
+    },
+    {
+        "name": "Zachary Taylor",
+        "startYear": 1849,
+        "endYear": 1850,
+        "totalTime": 13896,
+        "terms": 0.4,
+        "veep": "Millard Fillmore",
+        "party": "Whig",
+        "notes": [
+            "Never held prior political office",
+            "Mexican-American War hero",
+            "Died in office from gastroenteritis"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zachary_Taylor_restored_and_cropped.jpg/160px-Zachary_Taylor_restored_and_cropped.jpg"
+    },
+    {
+        "name": "Millard Fillmore",
+        "startYear": 1850,
+        "endYear": 1853,
+        "totalTime": 21144,
+        "terms": 0.6,
+        "veep": "None",
+        "party": "Whig",
+        "notes": [
+            "Last Whig president",
+            "Signed Compromise of 1850",
+            "Opened trade with Japan"
+        ],
+        "electionsWon": 0,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fillmore.jpg/160px-Fillmore.jpg"
+    },
+    {
+        "name": "Franklin Pierce",
+        "startYear": 1853,
+        "endYear": 1857,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "William R. King",
+        "party": "Democratic",
+        "notes": [
+            "Enforced Fugitive Slave Act",
+            "Signed Kansas-Nebraska Act",
+            "Only president to affirm rather than swear presidential oath"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29.jpg/160px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29.jpg"
+    },
+    {
+        "name": "James Buchanan",
+        "startYear": 1857,
+        "endYear": 1861,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "John C. Breckinridge",
+        "party": "Democratic",
+        "notes": [
+            "Only president never married",
+            "Failed to prevent Civil War",
+            "Last president born in 18th century"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/160px-James_Buchanan.jpg"
+    },
+    {
+        "name": "Abraham Lincoln",
+        "startYear": 1861,
+        "endYear": 1865,
+        "totalTime": 35784,
+        "terms": 1.1,
+        "veep": [
+            "Hannibal Hamlin",
+            "Andrew Johnson"
+        ],
+        "party": "Republican",
+        "notes": [
+            "Led Union to victory in Civil War",
+            "Emancipation Proclamation",
+            "Assassinated by John Wilkes Booth"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/160px-Abraham_Lincoln_O-77_matte_collodion_print.jpg"
+    },
+    {
+        "name": "Andrew Johnson",
+        "startYear": 1865,
+        "endYear": 1869,
+        "totalTime": 34296,
+        "terms": 0.9,
+        "veep": "None",
+        "party": "Democratic",
+        "notes": [
+            "First president to be impeached",
+            "Purchased Alaska from Russia",
+            "Former tailor with no formal education"
+        ],
+        "electionsWon": 0,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/160px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg"
+    },
+    {
+        "name": "Ulysses S. Grant",
+        "startYear": 1869,
+        "endYear": 1877,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": [
+            "Schuyler Colfax",
+            "Henry Wilson"
+        ],
+        "party": "Republican",
+        "notes": [
+            "Union Army General during Civil War",
+            "Established Yellowstone as first national park",
+            "Fought Ku Klux Klan with Force Acts"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulysses_S_Grant_by_Brady_c1870-restored.jpg/160px-Ulysses_S_Grant_by_Brady_c1870-restored.jpg"
+    },
+    {
+        "name": "Rutherford B. Hayes",
+        "startYear": 1877,
+        "endYear": 1881,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "William A. Wheeler",
+        "party": "Republican",
+        "notes": [
+            "Won in disputed election of 1876",
+            "Ended Reconstruction",
+            "Banned alcohol from White House"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/160px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg"
+    },
+    {
+        "name": "James A. Garfield",
+        "startYear": 1881,
+        "endYear": 1881,
+        "totalTime": 4392,
+        "terms": 0.125,
+        "veep": "Chester A. Arthur",
+        "party": "Republican",
+        "notes": [
+            "Last president born in log cabin",
+            "Could write in Latin and Greek simultaneously",
+            "Assassinated after 200 days in office"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/160px-James_Abram_Garfield%2C_photo_portrait_seated.jpg"
+    },
+    {
+        "name": "Chester A. Arthur",
+        "startYear": 1881,
+        "endYear": 1885,
+        "totalTime": 30648,
+        "terms": 0.875,
+        "veep": "None",
+        "party": "Republican",
+        "notes": [
+            "Passed first Civil Service Reform law",
+            "Overcame corruption allegations",
+            "Known for elegant clothing and lifestyle"
+        ],
+        "electionsWon": 0,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/160px-Chester_Alan_Arthur.jpg"
+    },
+    {
+        "name": "Grover Cleveland",
+        "startYear": 1885,
+        "endYear": 1889,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Thomas A. Hendricks",
+        "party": "Democratic",
+        "notes": [
+            "Only president to serve two non-consecutive terms",
+            "Only president married in White House",
+            "First term of two separate presidencies"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/160px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg"
+    },
+    {
+        "name": "Benjamin Harrison",
+        "startYear": 1889,
+        "endYear": 1893,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Levi P. Morton",
+        "party": "Republican",
+        "notes": [
+            "Grandson of President William Henry Harrison",
+            "First president to use electricity in White House",
+            "Sherman Anti-Trust Act"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/160px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg"
+    },
+    {
+        "name": "Grover Cleveland",
+        "startYear": 1893,
+        "endYear": 1897,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Adlai Stevenson",
+        "party": "Democratic",
+        "notes": [
+            "Only president to serve non-consecutive terms",
+            "Handled Pullman Strike",
+            "Second term of two separate presidencies"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/160px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg"
+    },
+    {
+        "name": "William McKinley",
+        "startYear": 1897,
+        "endYear": 1901,
+        "totalTime": 40176,
+        "terms": 1.15,
+        "veep": [
+            "Garret Hobart",
+            "Theodore Roosevelt"
+        ],
+        "party": "Republican",
+        "notes": [
+            "Led US in Spanish-American War",
+            "Gold Standard Act",
+            "Assassinated by anarchist Leon Czolgosz"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/160px-Mckinley.jpg"
+    },
+    {
+        "name": "Theodore Roosevelt",
+        "startYear": 1901,
+        "endYear": 1909,
+        "totalTime": 64944,
+        "terms": 1.85,
+        "veep": "Charles W. Fairbanks",
+        "party": "Republican",
+        "notes": [
+            "Youngest president at 42",
+            "Trust-buster and conservationist",
+            "Won Nobel Peace Prize"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/101px-Theodore_Roosevelt_by_the_Pach_Bros.jpg"
+    },
+    {
+        "name": "William Howard Taft",
+        "startYear": 1909,
+        "endYear": 1913,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "James S. Sherman",
+        "party": "Republican",
+        "notes": [
+            "Only president to later serve as Chief Justice",
+            "Heaviest president at over 300 pounds",
+            "Broke up Standard Oil"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/William_Howard_Taft_-_Harris_and_Ewing.jpg/160px-William_Howard_Taft_-_Harris_and_Ewing.jpg"
+    },
+    {
+        "name": "Woodrow Wilson",
+        "startYear": 1913,
+        "endYear": 1921,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "Thomas R. Marshall",
+        "party": "Democratic",
+        "notes": [
+            "Led US through World War I",
+            "Created Federal Reserve",
+            "League of Nations founder"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/160px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg"
+    },
+    {
+        "name": "Warren G. Harding",
+        "startYear": 1921,
+        "endYear": 1923,
+        "totalTime": 22632,
+        "terms": 0.65,
+        "veep": "Calvin Coolidge",
+        "party": "Republican",
+        "notes": [
+            "Teapot Dome scandal",
+            "First president to visit Alaska",
+            "Died in office of probable heart attack"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/160px-Warren_G_Harding-Harris_%26_Ewing.jpg"
+    },
+    {
+        "name": "Calvin Coolidge",
+        "startYear": 1923,
+        "endYear": 1929,
+        "totalTime": 47448,
+        "terms": 1.35,
+        "veep": "Charles G. Dawes",
+        "party": "Republican",
+        "notes": [
+            "Known as 'Silent Cal'",
+            "Presided over Roaring Twenties",
+            "First president to make radio address"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg/160px-Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg"
+    },
+    {
+        "name": "Herbert Hoover",
+        "startYear": 1929,
+        "endYear": 1933,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Charles Curtis",
+        "party": "Republican",
+        "notes": [
+            "President during start of Great Depression",
+            "First president born west of Mississippi",
+            "Made 'Star-Spangled Banner' national anthem"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/165px-President_Hoover_portrait.jpg"
+    },
+    {
+        "name": "Franklin D. Roosevelt",
+        "startYear": 1933,
+        "endYear": 1945,
+        "totalTime": 140160,
+        "terms": 4,
+        "veep": [
+            "John N. Garner",
+            "Henry A. Wallace",
+            "Harry S. Truman"
+        ],
+        "party": "Democratic",
+        "notes": [
+            "Only president to serve more than two terms",
+            "Led US through Great Depression and WWII",
+            "Established New Deal programs"
+        ],
+        "electionsWon": 4,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/160px-FDR_1944_Color_Portrait.jpg"
+    },
+    {
+        "name": "Harry S. Truman",
+        "startYear": 1945,
+        "endYear": 1953,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "Alben W. Barkley",
+        "party": "Democratic",
+        "notes": [
+            "Ordered atomic bomb drops on Japan",
+            "Implemented Marshall Plan",
+            "Korean War president"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TRUMAN_58-766-06_CROPPED.jpg/160px-TRUMAN_58-766-06_CROPPED.jpg"
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "startYear": 1953,
+        "endYear": 1961,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "Richard Nixon",
+        "party": "Republican",
+        "notes": [
+            "WWII Supreme Allied Commander",
+            "Created Interstate Highway System",
+            "Handled Little Rock school desegregation"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/160px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg"
+    },
+    {
+        "name": "John F. Kennedy",
+        "startYear": 1961,
+        "endYear": 1963,
+        "totalTime": 24840,
+        "terms": 0.75,
+        "veep": "Lyndon B. Johnson",
+        "party": "Democratic",
+        "notes": [
+            "Youngest elected president at 43",
+            "Cuban Missile Crisis",
+            "Assassinated in Dallas"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/160px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"
+    },
+    {
+        "name": "Lyndon B. Johnson",
+        "startYear": 1963,
+        "endYear": 1969,
+        "totalTime": 45240,
+        "terms": 1.25,
+        "veep": "Hubert Humphrey",
+        "party": "Democratic",
+        "notes": [
+            "Passed Civil Rights Act and Voting Rights Act",
+            "Created Great Society programs",
+            "Escalated Vietnam War"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/160px-37_Lyndon_Johnson_3x4.jpg"
+    },
+    {
+        "name": "Richard Nixon",
+        "startYear": 1969,
+        "endYear": 1974,
+        "totalTime": 48216,
+        "terms": 1.5,
+        "veep": [
+            "Spiro Agnew",
+            "Gerald Ford"
+        ],
+        "party": "Republican",
+        "notes": [
+            "Only president to resign",
+            "Watergate scandal",
+            "Opened relations with China"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/160px-Richard_Nixon_presidential_portrait_%281%29.jpg"
+    },
+    {
+        "name": "Gerald Ford",
+        "startYear": 1974,
+        "endYear": 1977,
+        "totalTime": 21864,
+        "terms": 0.5,
+        "veep": "Nelson Rockefeller",
+        "party": "Republican",
+        "notes": [
+            "Only president never elected as president or VP",
+            "Pardoned Nixon",
+            "Handled fall of Saigon"
+        ],
+        "electionsWon": 0,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gerald_Ford_presidential_portrait.jpg/160px-Gerald_Ford_presidential_portrait.jpg"
+    },
+    {
+        "name": "Jimmy Carter",
+        "startYear": 1977,
+        "endYear": 1981,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Walter Mondale",
+        "party": "Democratic",
+        "notes": [
+            "Nobel Peace Prize winner",
+            "Camp David Accords",
+            "Iran hostage crisis"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/160px-JimmyCarterPortrait2.jpg"
+    },
+    {
+        "name": "Ronald Reagan",
+        "startYear": 1981,
+        "endYear": 1989,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "George H. W. Bush",
+        "party": "Republican",
+        "notes": [
+            "Former actor and California governor",
+            "Ended Cold War with Soviet Union",
+            "Reaganomics economic policy"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/165px-Official_Portrait_of_President_Reagan_1981.jpg"
+    },
+    {
+        "name": "George H. W. Bush",
+        "startYear": 1989,
+        "endYear": 1993,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Dan Quayle",
+        "party": "Republican",
+        "notes": [
+            "Led Coalition in Gulf War",
+            "Former CIA Director",
+            "Americans with Disabilities Act"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/160px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg"
+    },
+    {
+        "name": "Bill Clinton",
+        "startYear": 1993,
+        "endYear": 2001,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "Al Gore",
+        "party": "Democratic",
+        "notes": [
+            "First baby boomer president",
+            "Balanced federal budget",
+            "Impeached but acquitted"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/160px-Bill_Clinton.jpg"
+    },
+    {
+        "name": "George W. Bush",
+        "startYear": 2001,
+        "endYear": 2009,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "Dick Cheney",
+        "party": "Republican",
+        "notes": [
+            "President during 9/11 attacks",
+            "Led War on Terror",
+            "Son of previous president Bush"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/160px-George-W-Bush.jpeg"
+    },
+    {
+        "name": "Barack Obama",
+        "startYear": 2009,
+        "endYear": 2017,
+        "totalTime": 70080,
+        "terms": 2,
+        "veep": "Joe Biden",
+        "party": "Democratic",
+        "notes": [
+            "First African American president",
+            "Affordable Care Act",
+            "Oversaw killing of Osama bin Laden"
+        ],
+        "electionsWon": 2,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/160px-Official_portrait_of_Barack_Obama.jpg"
+    },
+    {
+        "name": "Donald Trump",
+        "startYear": 2017,
+        "endYear": 2021,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Mike Pence",
+        "party": "Republican",
+        "notes": [
+            "First president with no prior political/military experience",
+            "Tax Cuts and Jobs Act",
+            "First president impeached twice"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/160px-Donald_Trump_official_portrait.jpg"
+    },
+    {
+        "name": "Joe Biden",
+        "startYear": 2021,
+        "endYear": 2025,
+        "totalTime": 35040,
+        "terms": 1,
+        "veep": "Kamala Harris",
+        "party": "Democratic",
+        "notes": [
+            "Oldest president to take office",
+            "Former VP under Obama",
+            "Infrastructure Investment and Jobs Act"
+        ],
+        "electionsWon": 1,
+        "electionsLost": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/160px-Joe_Biden_presidential_portrait.jpg"
+    }
+]
