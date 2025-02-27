@@ -28,7 +28,7 @@ export const BaseChart = ({
   return (
     <Box display="flex" justifyContent="center">
       <VegaLite
-        renderer={"svg"}
+        renderer="svg"
         spec={compiledSpec}
         style={isResponsive ? { width: "100%" } : {}}
       />

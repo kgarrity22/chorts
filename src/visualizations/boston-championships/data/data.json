@@ -1,0 +1,353 @@
+[
+  {
+    "Season": "1903",
+    "Coach": "Jimmy Collins",
+    "Opponent": "Pittsburgh Pirates",
+    "Series_score": "5-3",
+    "Record": "91-47",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "1912",
+    "Coach": "Jake Stahl",
+    "Opponent": "New York Giants",
+    "Series_score": "4-3",
+    "Record": "105-47",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "1915",
+    "Coach": "Bill Carrigan",
+    "Opponent": "Philadelphia Phillies",
+    "Series_score": "4-1",
+    "Record": "101-50",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "1916",
+    "Coach": "Bill Carrigan",
+    "Opponent": "Brooklyn Robins",
+    "Series_score": "4-1",
+    "Record": "91-63",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "1918",
+    "Coach": "Ed Barrow",
+    "Opponent": "Chicago Cubs",
+    "Series_score": "4-2",
+    "Record": "75-51",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "2004",
+    "Coach": "Terry Francona",
+    "Opponent": "St. Louis Cardinals",
+    "Series_score": "4-0",
+    "Record": "98-64",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "2007",
+    "Coach": "Terry Francona",
+    "Opponent": "Colorado Rockies",
+    "Series_score": "4-0",
+    "Record": "96-66",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "2013",
+    "Coach": "John Farrell",
+    "Opponent": "St. Louis Cardinals",
+    "Series_score": "4-2",
+    "Record": "97-65",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "2018",
+    "Coach": "Alex Cora",
+    "Opponent": "Los Angeles Dodgers",
+    "Series_score": "4-1",
+    "Record": "108-54",
+    "Sport": "Baseball",
+    "Team": "Red Sox"
+  },
+  {
+    "Season": "1956-57",
+    "Coach": "Red Auerbach",
+    "Opponent": "St. Louis Hawks",
+    "Series_score": "4-3",
+    "Record": "44-28",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1958-59",
+    "Coach": "Red Auerbach",
+    "Opponent": "Minneapolis Lakers",
+    "Series_score": "4-0",
+    "Record": "52-20",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1959-60",
+    "Coach": "Red Auerbach",
+    "Opponent": "St. Louis Hawks",
+    "Series_score": "4-3",
+    "Record": "59-16",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1960-61",
+    "Coach": "Red Auerbach",
+    "Opponent": "St. Louis Hawks",
+    "Series_score": "4-1",
+    "Record": "57-22",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1961-62",
+    "Coach": "Red Auerbach",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-3",
+    "Record": "60-20",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1962-63",
+    "Coach": "Red Auerbach",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-2",
+    "Record": "58-22",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1963-64",
+    "Coach": "Red Auerbach",
+    "Opponent": "San Francisco Warriors",
+    "Series_score": "4-1",
+    "Record": "59-21",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1964-65",
+    "Coach": "Red Auerbach",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-1",
+    "Record": "62-18",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1965-66",
+    "Coach": "Red Auerbach",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-3",
+    "Record": "54-26",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1967-68",
+    "Coach": "Bill Russell",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-2",
+    "Record": "54-28",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1968-69",
+    "Coach": "Bill Russell",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-3",
+    "Record": "48-34",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1973-74",
+    "Coach": "Tom Heinsohn",
+    "Opponent": "Milwaukee Bucks",
+    "Series_score": "4-3",
+    "Record": "56-26",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1975-76",
+    "Coach": "Tom Heinsohn",
+    "Opponent": "Phoenix Suns",
+    "Series_score": "4-2",
+    "Record": "54-28",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1980-81",
+    "Coach": "Bill Fitch",
+    "Opponent": "Houston Rockets",
+    "Series_score": "4-2",
+    "Record": "62-20",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1983-84",
+    "Coach": "K.C. Jones",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-3",
+    "Record": "62-20",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1985-86",
+    "Coach": "K.C. Jones",
+    "Opponent": "Houston Rockets",
+    "Series_score": "4-2",
+    "Record": "67-15",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "2007-08",
+    "Coach": "Doc Rivers",
+    "Opponent": "Los Angeles Lakers",
+    "Series_score": "4-2",
+    "Record": "66-16",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  },
+  {
+    "Season": "1928-29",
+    "Coach": "Art Ross",
+    "Opponent": "New York Rangers",
+    "Series_score": "2-0",
+    "Record": "26-13-5",
+    "Sport": "Hockey",
+    "Team": "Bruins"
+  },
+  {
+    "Season": "1938-39",
+    "Coach": "Art Ross",
+    "Opponent": "Toronto Maple Leafs",
+    "Series_score": "4-1",
+    "Record": "36-10-2",
+    "Sport": "Hockey",
+    "Team": "Bruins"
+  },
+  {
+    "Season": "1940-41",
+    "Coach": "Cooney Weiland",
+    "Opponent": "Detroit Red Wings",
+    "Series_score": "4-0",
+    "Record": "27-8-13",
+    "Sport": "Hockey",
+    "Team": "Bruins"
+  },
+  {
+    "Season": "1969-70",
+    "Coach": "Harry Sinden",
+    "Opponent": "St. Louis Blues",
+    "Series_score": "4-0",
+    "Record": "40-17-19",
+    "Sport": "Hockey",
+    "Team": "Bruins"
+  },
+  {
+    "Season": "1971-72",
+    "Coach": "Tom Johnson",
+    "Opponent": "New York Rangers",
+    "Series_score": "4-2",
+    "Record": "54-13-11",
+    "Sport": "Hockey",
+    "Team": "Bruins"
+  },
+  {
+    "Season": "2010-11",
+    "Coach": "Claude Julien",
+    "Opponent": "Vancouver Canucks",
+    "Series_score": "4-3",
+    "Record": "46-25-11",
+    "Sport": "Hockey",
+    "Team": "Bruins"
+  },
+  {
+    "Season": "2001",
+    "Coach": "Bill Belichick",
+    "Opponent": "St. Louis Rams",
+    "Series_score": "20-17",
+    "Record": "11-5",
+    "Sport": "Football",
+    "Team": "Patriots"
+  },
+  {
+    "Season": "2003",
+    "Coach": "Bill Belichick",
+    "Opponent": "Carolina Panthers",
+    "Series_score": "32-29",
+    "Record": "14-2",
+    "Sport": "Football",
+    "Team": "Patriots"
+  },
+  {
+    "Season": "2004",
+    "Coach": "Bill Belichick",
+    "Opponent": "Philadelphia Eagles",
+    "Series_score": "24-21",
+    "Record": "14-2",
+    "Sport": "Football",
+    "Team": "Patriots"
+  },
+  {
+    "Season": "2014",
+    "Coach": "Bill Belichick",
+    "Opponent": "Seattle Seahawks",
+    "Series_score": "28-24",
+    "Record": "12-4",
+    "Sport": "Football",
+    "Team": "Patriots"
+  },
+  {
+    "Season": "2016",
+    "Coach": "Bill Belichick",
+    "Opponent": "Atlanta Falcons",
+    "Series_score": "34-28",
+    "Record": "14-2",
+    "Sport": "Football",
+    "Team": "Patriots"
+  },
+  {
+    "Season": "2018",
+    "Coach": "Bill Belichick",
+    "Opponent": "Los Angeles Rams",
+    "Series_score": "13-3",
+    "Record": "11-5",
+    "Sport": "Football",
+    "Team": "Patriots"
+  },
+  {
+    "Season": "2024",
+    "Coach": "Joe Mazzulla",
+    "Opponent": "Dallas Mavericks",
+    "Series_score": "4-1",
+    "Record": "64-18",
+    "Sport": "Basketball",
+    "Team": "Celtics"
+  }
+]

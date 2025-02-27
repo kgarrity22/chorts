@@ -1,0 +1,84 @@
+#vg-tooltip-element {
+  border: 2px solid white;
+  background-color: #344e41;
+  color: white;
+  max-width: 300px;
+}
+
+/* Table Width of 200px */
+.vg-tooltip > table {
+  text-align: center;
+}
+
+.vg-tooltip > table > tbody > tr:nth-child(5) {
+  font-style: italic;
+  text-align: end;
+}
+
+/* keys */
+#vg-tooltip-element table tr td.key {
+  font-weight: bolder;
+  text-decoration: underline;
+  color: white;
+  font-size: 12px;
+}
+
+/* Style for the roster data table inside tooltip */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value {
+  display: table;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 8px;
+}
+
+/* Style for each player row in the roster */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value > div {
+  display: table-row;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Style for player name and number */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value > div > span {
+  display: table-cell;
+  padding: 2px 4px;
+}
+
+/* Player number styling */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value > div > span:last-child {
+  text-align: right;
+  opacity: 0.8;
+}
+
+/* Remove border from last roster entry */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value > div:last-child {
+  border-bottom: none;
+}
+
+/* Keys */
+#vg-tooltip-element table tr td.key {
+  font-weight: bolder;
+  text-decoration: underline;
+  color: white;
+  font-size: 12px;
+}
+
+/* Target the roster value cell specifically */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value {
+  display: block; /* Change to block display */
+  margin-top: 8px;
+}
+
+/* Format the array contents */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value {
+  white-space: pre-wrap; /* Preserve whitespace and wrapping */
+}
+
+/* Remove the square brackets and quotes */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value {
+  content: attr(data-value);
+}
+
+/* Style each name as a separate line */
+.vg-tooltip > table > tbody > tr:nth-child(5) td.value::before {
+  content: "• "; /* Add bullet points */
+}

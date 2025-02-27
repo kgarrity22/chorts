@@ -1,0 +1,99 @@
+[
+  {
+    "id": "costco-opens",
+    "Year": 1983,
+    "note": {
+      "label": "Costco opens it's doors",
+      "title": "1983"
+    },
+    "type": "d3_svg_annotation.annotationCallout",
+    "data": { "Year": 1983, "Price": 1.5 },
+    "dx": 10,
+    "dy": 80
+  },
+  {
+    "id": "hotdog-intro",
+    "Year": 1984,
+    "note": {
+      "label": "Costco introduces the hotdog combo",
+      "title": "1984"
+    },
+    "type": "d3_svg_annotation.annotationCallout",
+    "data": { "Year": 1984, "Price": 1.5 },
+    "dx": 15,
+    "dy": -80
+  },
+  {
+    "id": "financial-crisis",
+    "Year": 2008,
+    "note": {
+      "label": "2008 financial crisis",
+      "title": "2008"
+    },
+    "type": "d3_svg_annotation.annotationCallout",
+    "data": { "Year": 2008, "Price": 1.5 },
+    "dx": -90,
+    "dy": -30
+  },
+  {
+    "id": "kirkland-brand",
+    "Year": 2009,
+    "note": {
+      "label": "The Hebrew National hotdog is replaced with the Kirkland brand",
+      "title": "2009"
+    },
+    "type": "d3_svg_annotation.annotationCallout",
+    "data": { "Year": 2009, "Price": 1.5 },
+    "dx": -50,
+    "dy": 60
+  },
+  {
+    "id": "im-dead",
+    "Year": 2009,
+    "note": {
+      "label": "The Seattle Times asks Jim Sinegal 'If the price of the hot dog ever goes up, what will it mean?', he responds 'That I'm dead.'",
+      "title": "2009"
+    },
+    "type": "d3_svg_annotation.annotationCallout",
+    "data": { "Year": 2009, "Price": 1.5 },
+    "dx": -1,
+    "dy": -215
+  },
+
+  {
+    "id": "craig-jelinek",
+    "Year": 2012,
+    "note": {
+      "label": "Craig Jelinek succeeds Jim Sinegal as CEO",
+      "title": "2012"
+    },
+    "type": "d3_svg_annotation.annotationCallout",
+    "data": { "Year": 2012, "Price": 1.5 },
+    "dx": 0,
+    "dy": 80
+  },
+  {
+    "id": "ill-kill-you",
+    "Year": 2013,
+    "note": {
+      "label": "Craig Jelinek approaches Sinegal about raising the price of the hotdog; Singeal responds 'If you raise the effing hot dog, I will kill you.'",
+      "title": "2013"
+    },
+    "type": "d3_svg_annotation.annotationCallout",
+    "data": { "Year": 2013, "Price": 1.5 },
+    "dx": 60,
+    "dy": -25
+  },
+  {
+    "id": "rom-varchris",
+    "Year": 2024,
+    "note": {
+      "label": "Rom Vachris succeeds Jelinek as CEO",
+      "title": "2024"
+    },
+    "type": "d3_svg_annotation.annotationCallout",
+    "data": { "Year": 2024, "Price": 1.5 },
+    "dx": 5,
+    "dy": 50
+  }
+]

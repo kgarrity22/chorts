@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Espresso",
+    "ingredients": [{ "type": "Espresso", "measurement_oz": 1 }]
+  },
+  {
+    "name": "Espresso Doppio",
+    "ingredients": [{ "type": "Espresso", "measurement_oz": 2 }]
+  },
+  {
+    "name": "Ristretto",
+    "ingredients": [{ "type": "Concentrated Espresso", "measurement_oz": 0.75 }]
+  },
+  {
+    "name": "Lungo",
+    "ingredients": [
+      { "type": "Less Concentrated Espresso", "measurement_oz": 3 }
+    ]
+  },
+  {
+    "name": "Macchiato",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Foamed Milk", "measurement_oz": 0.25 }
+    ]
+  },
+  {
+    "name": "Café Creme",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Heavy Cream", "measurement_oz": 1 }
+    ]
+  },
+  {
+    "name": "Café Noisette",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Hot Milk", "measurement_oz": 1 }
+    ]
+  },
+  {
+    "name": "Cortado",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Foamed Milk", "measurement_oz": 1 }
+    ]
+  },
+  {
+    "name": "Cappuccino",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Steamed Milk", "measurement_oz": 2 },
+      { "type": "Foamed Milk", "measurement_oz": 2 }
+    ]
+  },
+  {
+    "name": "Dry Cappuccino",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Milk Foam", "measurement_oz": 4 }
+    ]
+  },
+  {
+    "name": "Americano",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Hot Water", "measurement_oz": 3 }
+    ]
+  },
+  {
+    "name": "Breve",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Half & Half", "measurement_oz": 3 }
+    ]
+  },
+  {
+    "name": "Mocha Breve",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Chocolate", "measurement_oz": 2 },
+      { "type": "Half & Half", "measurement_oz": 2 }
+    ]
+  },
+  {
+    "name": "Mocha",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Chocolate", "measurement_oz": 2 },
+      { "type": "Steamed Milk", "measurement_oz": 1 }
+    ]
+  },
+  {
+    "name": "Affogato",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Vanilla Ice Cream", "measurement_oz": 3 }
+    ]
+  },
+  {
+    "name": "Viennois",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Hot Milk", "measurement_oz": 2 },
+      { "type": "Whipped Cream", "measurement_oz": 2 }
+    ]
+  },
+  {
+    "name": "Con Panna",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Whipped Cream", "measurement_oz": 3 }
+    ]
+  },
+  {
+    "name": "Flat White",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Steamed Milk", "measurement_oz": 4 }
+    ]
+  },
+  {
+    "name": "Black Eye",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Brewed Coffee", "measurement_oz": 4 }
+    ]
+  },
+  {
+    "name": "Caffé Latte",
+    "ingredients": [
+      { "type": "Espresso", "measurement_oz": 2 },
+      { "type": "Steamed Milk", "measurement_oz": 10 },
+      { "type": "Milk Foam", "measurement_oz": 0.05 }
+    ]
+  },
+  {
+    "name": "Caffé Au Lait",
+    "ingredients": [
+      { "type": "French Pressed Coffee", "measurement_oz": 5 },
+      { "type": "Steamed Milk", "measurement_oz": 5 }
+    ]
+  },
+  {
+    "name": "Café con Leche",
+    "ingredients": [
+      { "type": "Brewed Coffee", "measurement_oz": 6 },
+      { "type": "Scalded Milk", "measurement_oz": 6 }
+    ]
+  }
+]

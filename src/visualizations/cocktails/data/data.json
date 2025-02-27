@@ -1,0 +1,1619 @@
+[
+  {
+    "name": "Angel Face",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 1
+      },
+      {
+        "type": "Apricot Brandy",
+        "measurement": 1
+      },
+      {
+        "type": "Calvados",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {},
+  {
+    "name": "Aviation",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 3
+      },
+      {
+        "type": "Lemon Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Maraschino",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Between the Sheets",
+    "ingredients": [
+      {
+        "type": "White Rum",
+        "measurement": 3
+      },
+      {
+        "type": "Cognac",
+        "measurement": 3
+      },
+      {
+        "type": "Triple Sec",
+        "measurement": 3
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 2
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Bramble",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 4
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 1.5
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 1
+      },
+      {
+        "type": "Blackberry Liqueur",
+        "measurement": 1.5
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Caipirinha",
+    "ingredients": [
+      {
+        "type": "Half fresh lime cut into 4 wedges",
+        "measurement": 1
+      },
+      {
+        "type": "Cachaça",
+        "measurement": 5
+      },
+      {
+        "type": "Sugar",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Muddle and Stir"
+  },
+  {
+    "name": "Casino",
+    "ingredients": [
+      {
+        "type": "Old Tom Gin",
+        "measurement": 4
+      },
+      {
+        "type": "Maraschino",
+        "measurement": 1
+      },
+      {
+        "type": "Orange Bitters",
+        "measurement": 1
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Clover Club",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 3
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Raspberry Syrup",
+        "measurement": 1
+      },
+      {
+        "type": "Egg White",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Cosmopolitan",
+    "ingredients": [
+      {
+        "type": "Citron Vodka",
+        "measurement": 4
+      },
+      {
+        "type": "Cranberry Juice",
+        "measurement": 3
+      },
+      {
+        "type": "Cointreau",
+        "measurement": 1.5
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 1.5
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Derby",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 2
+      },
+      {
+        "type": "Mint Leaves",
+        "measurement": 2
+      },
+      {
+        "type": "Peach Bitters",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Stir & Strain"
+  },
+  {
+    "name": "Harvey Wallbanger",
+    "ingredients": [
+      {
+        "type": "Orange Juice",
+        "measurement": 6
+      },
+      {
+        "type": "Vodka",
+        "measurement": 3
+      },
+      {
+        "type": "Galliano",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Hemingway Special",
+    "ingredients": [
+      {
+        "type": "White Rum",
+        "measurement": 6
+      },
+      {
+        "type": "Grapefruit Juice",
+        "measurement": 4
+      },
+      {
+        "type": "Maraschino",
+        "measurement": 1.5
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 1.5
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Kamikaze",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 1
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Triple Sec",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "ingredients": [
+      {
+        "type": "Vodka Lemon",
+        "measurement": 2.5
+      },
+      {
+        "type": "Triple Sec",
+        "measurement": 2
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 1.5
+      },
+      {
+        "type": "Sugar Rim",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Margarita",
+    "ingredients": [
+      {
+        "type": "Tequila",
+        "measurement": 3.5
+      },
+      {
+        "type": "Cointreau",
+        "measurement": 2
+      },
+      {
+        "type": "Freshly Squeezed Lime Juice",
+        "measurement": 1.5
+      },
+      {
+        "type": "Salt Rim",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Mary Pickform",
+    "ingredients": [
+      {
+        "type": "White Rum",
+        "measurement": 6
+      },
+      {
+        "type": "Fresh Pineapple Juice",
+        "measurement": 6
+      },
+      {
+        "type": "Maraschino",
+        "measurement": 1
+      },
+      {
+        "type": "Grenadine",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Monkey Gland",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 5
+      },
+      {
+        "type": "Orange Juice",
+        "measurement": 3
+      },
+      {
+        "type": "Absinthe",
+        "measurement": 0.25
+      },
+      {
+        "type": "Grenadine",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Pico Sour",
+    "ingredients": [
+      {
+        "type": "Pico",
+        "measurement": 4.5
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 3
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 2
+      },
+      {
+        "type": "Raw Egg White",
+        "measurement": 1
+      },
+      {
+        "type": "Angostura Bitters",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Screwdriver",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 1
+      },
+      {
+        "type": "Orange Juice",
+        "measurement": 2
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Sidecar",
+    "ingredients": [
+      {
+        "type": "Cognac",
+        "measurement": 5
+      },
+      {
+        "type": "Triple Sec",
+        "measurement": 2
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 2
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Tommy's Margarita",
+    "ingredients": [
+      {
+        "type": "Tequila",
+        "measurement": 3
+      },
+      {
+        "type": "Freshly Squeezed Lime Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Agave",
+        "measurement": 0.35
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Tuxedo",
+    "ingredients": [
+      {
+        "type": "Old Tom Gin",
+        "measurement": 1
+      },
+      {
+        "type": "Dry Vermouth",
+        "measurement": 1
+      },
+      {
+        "type": "Maraschino",
+        "measurement": 0.5
+      },
+      {
+        "type": "Absinthe",
+        "measurement": 0.25
+      },
+      {
+        "type": "Orange Bitters",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Stir & Strain"
+  },
+  {
+    "name": "White Lady",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 2
+      },
+      {
+        "type": "Triple Sec",
+        "measurement": 1.5
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Yellow Bird",
+    "ingredients": [
+      {
+        "type": "White Rum",
+        "measurement": 2
+      },
+      {
+        "type": "Galliano",
+        "measurement": 1
+      },
+      {
+        "type": "Triple Sec",
+        "measurement": 1
+      },
+      {
+        "type": "Lime Juice",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Americano",
+    "ingredients": [
+      {
+        "type": "Campari",
+        "measurement": 1
+      },
+      {
+        "type": "Red Vermouth",
+        "measurement": 1
+      },
+      {
+        "type": "Soda Water",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Mix"
+  },
+  {
+    "name": "Barcardi",
+    "ingredients": [
+      {
+        "type": "Bacardi White Rum",
+        "measurement": 4.5
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 2
+      },
+      {
+        "type": "Grenadine",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Daiquiri",
+    "ingredients": [
+      {
+        "type": "White Rum",
+        "measurement": 4.5
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 2.5
+      },
+      {
+        "type": "Simple Syrup",
+        "measurement": 1.5
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Dirty Martini",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 6
+      },
+      {
+        "type": "Dry Vermouth",
+        "measurement": 1
+      },
+      {
+        "type": "Olive Juice",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir & Strain"
+  },
+  {
+    "name": "Dry Martini",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 1
+      },
+      {
+        "type": "Gin",
+        "measurement": 1
+      },
+      {
+        "type": "Lemon Peel",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir & Strain"
+  },
+  {
+    "name": "French Martini",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 3
+      },
+      {
+        "type": "Raspberry Liqueur",
+        "measurement": 1
+      },
+      {
+        "type": "Fresh Pineapple Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Lemon Peel",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir & Strain"
+  },
+  {
+    "name": "Kir",
+    "ingredients": [
+      {
+        "type": "Créme de Cassis",
+        "measurement": 1
+      },
+      {
+        "type": "Dry White Wine",
+        "measurement": 9
+      }
+    ],
+    "method": "Pour"
+  },
+  {
+    "name": "Manhattan",
+    "ingredients": [
+      {
+        "type": "Rye Whiskey",
+        "measurement": 5
+      },
+      {
+        "type": "Red Vermouth",
+        "measurement": 2
+      },
+      {
+        "type": "Angostura Bitters",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Negroni",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 1
+      },
+      {
+        "type": "Campari",
+        "measurement": 1
+      },
+      {
+        "type": "Sweet Red Vermouth",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Old Fashioned",
+    "ingredients": [
+      {
+        "type": "Bourbon",
+        "measurement": 2
+      },
+      {
+        "type": "Angostura Bitters",
+        "measurement": 0.5
+      },
+      {
+        "type": "Sugar Cube",
+        "measurement": 1
+      },
+      {
+        "type": "Plain Water",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Dissolve & Pour"
+  },
+  {
+    "name": "Vesper",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 4
+      },
+      {
+        "type": "Vodka",
+        "measurement": 1
+      },
+      {
+        "type": "Lillet Blonde",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Whiskey Sour",
+    "ingredients": [
+      {
+        "type": "Bourbon Whiskey",
+        "measurement": 3
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 2
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Alexander",
+    "ingredients": [
+      {
+        "type": "Cognac",
+        "measurement": 1
+      },
+      {
+        "type": "Creme de Cacao",
+        "measurement": 1
+      },
+      {
+        "type": "Fresh Cream",
+        "measurement": 1
+      },
+      {
+        "type": "Nutmeg",
+        "measurement": 0.15
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "B52",
+    "ingredients": [
+      {
+        "type": "Kahlua",
+        "measurement": 1
+      },
+      {
+        "type": "Bailey's Irish Cream",
+        "measurement": 1
+      },
+      {
+        "type": "Grand Marnier",
+        "measurement": 1
+      },
+      {
+        "type": "Flame",
+        "measurement": 1
+      }
+    ],
+    "method": "Layer"
+  },
+  {
+    "name": "Black Russian",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 5
+      },
+      {
+        "type": "Coffee Liqueur",
+        "measurement": 2
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Espresso Martini",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 5
+      },
+      {
+        "type": "Kahlua",
+        "measurement": 1
+      },
+      {
+        "type": "Short Strong Espresso",
+        "measurement": 1
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "French Connection",
+    "ingredients": [
+      {
+        "type": "Cognac",
+        "measurement": 1
+      },
+      {
+        "type": "DiSaronno",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "God Father",
+    "ingredients": [
+      {
+        "type": "Scotch",
+        "measurement": 1
+      },
+      {
+        "type": "DiSaronno",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "God Mother",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 1
+      },
+      {
+        "type": "DiSaronno",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Golden Dream",
+    "ingredients": [
+      {
+        "type": "Galliano",
+        "measurement": 1
+      },
+      {
+        "type": "Triple Sec",
+        "measurement": 1
+      },
+      {
+        "type": "Fresh Orange Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Fresh Cream",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Grasshopper",
+    "ingredients": [
+      {
+        "type": "Créme de Cacao (White)",
+        "measurement": 1
+      },
+      {
+        "type": "Créme de Menthe",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Porto Flip",
+    "ingredients": [
+      {
+        "type": "Red Port",
+        "measurement": 4.5
+      },
+      {
+        "type": "Brandy",
+        "measurement": 1.5
+      },
+      {
+        "type": "Egg Yolk",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Rose",
+    "ingredients": [
+      {
+        "type": "Dry Vermouth",
+        "measurement": 2
+      },
+      {
+        "type": "Kirsch",
+        "measurement": 1
+      },
+      {
+        "type": "Nutmeg",
+        "measurement": 0.15
+      }
+    ],
+    "method": "Stir & Strain"
+  },
+  {
+    "name": "Rusty Nail",
+    "ingredients": [
+      {
+        "type": "Scotch Whiskey",
+        "measurement": 4.5
+      },
+      {
+        "type": "Drambuie",
+        "measurement": 2.5
+      }
+    ],
+    "method": "Stir Gently"
+  },
+  {
+    "name": "Sazerac",
+    "ingredients": [
+      {
+        "type": "Cognac",
+        "measurement": 5
+      },
+      {
+        "type": "Absinthe",
+        "measurement": 1
+      },
+      {
+        "type": "Peychaud's Bitters",
+        "measurement": 0.5
+      },
+      {
+        "type": "Sugar Cube",
+        "measurement": 1
+      },
+      {
+        "type": "Lemon Peel",
+        "measurement": 1
+      },
+      {
+        "type": "Strawberry Syrup",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Stir & Strain"
+  },
+  {
+    "name": "Stinger",
+    "ingredients": [
+      {
+        "type": "Cognac",
+        "measurement": 2.5
+      },
+      {
+        "type": "Créme de Menthe",
+        "measurement": 1
+      }
+    ],
+    "method": "Stir & Strain"
+  },
+  {
+    "name": "Irish Coffee",
+    "ingredients": [
+      {
+        "type": "Irish Whiskey",
+        "measurement": 4
+      },
+      {
+        "type": "Hot Coffee",
+        "measurement": 9
+      },
+      {
+        "type": "Fresh Cream",
+        "measurement": 3
+      },
+      {
+        "type": "Brown Sugar",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Warm & Pour"
+  },
+  {
+    "name": "Bloody Mary",
+    "ingredients": [
+      {
+        "type": "Tomato Juice",
+        "measurement": 3
+      },
+      {
+        "type": "Vodka",
+        "measurement": 1.5
+      },
+      {
+        "type": "Lemon Juice",
+        "measurement": 0.5
+      },
+      {
+        "type": "Pepper",
+        "measurement": 0.15
+      },
+      {
+        "type": "Tabasco",
+        "measurement": 0.25
+      },
+      {
+        "type": "Celery",
+        "measurement": 1
+      },
+      {
+        "type": "Worcestershire Sauce",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Cuba Libre",
+    "ingredients": [
+      {
+        "type": "Cola",
+        "measurement": 6
+      },
+      {
+        "type": "White Rum",
+        "measurement": 2.5
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Build"
+  },
+  {
+    "name": "Dark 'N Stormy",
+    "ingredients": [
+      {
+        "type": "Ginger Beer",
+        "measurement": 5
+      },
+      {
+        "type": "Dark Rum",
+        "measurement": 3
+      }
+    ],
+    "method": "Pour"
+  },
+  {
+    "name": "Gin Fizz",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 4.5
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 3
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 1
+      },
+      {
+        "type": "Soda Water",
+        "measurement": 8
+      }
+    ],
+    "method": "Shake"
+  },
+  {
+    "name": "Horse's Neck",
+    "ingredients": [
+      {
+        "type": "Ginger Ale",
+        "measurement": 3
+      },
+      {
+        "type": "Cognac",
+        "measurement": 1
+      },
+      {
+        "type": "Angostura Bitters",
+        "measurement": 0.15
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "John Collins",
+    "ingredients": [
+      {
+        "type": "Soda Water",
+        "measurement": 4
+      },
+      {
+        "type": "Gin",
+        "measurement": 3
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 2
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 1
+      },
+      {
+        "type": "Angostura Bitters",
+        "measurement": 0.15
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Long Island Iced Tea",
+    "ingredients": [
+      {
+        "type": "Gomme Syrup",
+        "measurement": 3
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 2.5
+      },
+      {
+        "type": "Gin",
+        "measurement": 1.5
+      },
+      {
+        "type": "Triple Sec",
+        "measurement": 1.5
+      },
+      {
+        "type": "White Rum",
+        "measurement": 1.5
+      },
+      {
+        "type": "Vodka",
+        "measurement": 1.5
+      },
+      {
+        "type": "Tequila",
+        "measurement": 1.5
+      },
+      {
+        "type": "Cola",
+        "measurement": 0.15
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Mai-Tai",
+    "ingredients": [
+      {
+        "type": "White Rum",
+        "measurement": 4
+      },
+      {
+        "type": "Dark Rum",
+        "measurement": 2
+      },
+      {
+        "type": "Orange Curaćao",
+        "measurement": 1.5
+      },
+      {
+        "type": "Orgeat Syrup",
+        "measurement": 1.5
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Mint Sprig",
+        "measurement": 1
+      },
+      {
+        "type": "Lime Peel",
+        "measurement": 1
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Mint Julep",
+    "ingredients": [
+      {
+        "type": "Bourbon Whiskey",
+        "measurement": 4
+      },
+      {
+        "type": "Mint Sprig",
+        "measurement": 4
+      },
+      {
+        "type": "Water",
+        "measurement": 0.5
+      },
+      {
+        "type": "Powdered Sugar",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Muddle & Stir"
+  },
+  {
+    "name": "Mojito",
+    "ingredients": [
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 3
+      },
+      {
+        "type": "White Cuban Rum",
+        "measurement": 4
+      },
+      {
+        "type": "Mint Sprig",
+        "measurement": 6
+      },
+      {
+        "type": "Soda Water",
+        "measurement": 0.5
+      },
+      {
+        "type": "White Sugar",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Muddle & Stir"
+  },
+  {
+    "name": "Moscow Mule",
+    "ingredients": [
+      {
+        "type": "Ginger Beer",
+        "measurement": 12
+      },
+      {
+        "type": "Vodka",
+        "measurement": 4.5
+      },
+      {
+        "type": "Lime Juice",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Pour"
+  },
+  {
+    "name": "Pina Colada",
+    "ingredients": [
+      {
+        "type": "Pineapple Juice",
+        "measurement": 3
+      },
+      {
+        "type": "White Rum",
+        "measurement": 1
+      },
+      {
+        "type": "Coconut Milk",
+        "measurement": 1
+      }
+    ],
+    "method": "Blend"
+  },
+  {
+    "name": "Planter's Punch",
+    "ingredients": [
+      {
+        "type": "Dark Rum",
+        "measurement": 4.5
+      },
+      {
+        "type": "Fresh Orange Juice",
+        "measurement": 3.5
+      },
+      {
+        "type": "Fresh Pineapple Juice",
+        "measurement": 3.5
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 2
+      },
+      {
+        "type": "Grenadine",
+        "measurement": 1
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 1
+      },
+      {
+        "type": "Angostura Bitters",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Shake"
+  },
+  {
+    "name": "Ramos Fizz",
+    "ingredients": [
+      {
+        "type": "Gin",
+        "measurement": 4.5
+      },
+      {
+        "type": "Lime Juice",
+        "measurement": 1.5
+      },
+      {
+        "type": "Lemon Juice",
+        "measurement": 1.5
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 3
+      },
+      {
+        "type": "Cream",
+        "measurement": 6
+      },
+      {
+        "type": "Egg White",
+        "measurement": 1
+      },
+      {
+        "type": "Orange Flower Water",
+        "measurement": 0.5
+      },
+      {
+        "type": "Vanilla Extract",
+        "measurement": 0.5
+      },
+      {
+        "type": "Soda Water",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Sea Breeze",
+    "ingredients": [
+      {
+        "type": "Cranberry Juice",
+        "measurement": 6
+      },
+      {
+        "type": "Vodka",
+        "measurement": 2
+      },
+      {
+        "type": "Grapefruit Juice",
+        "measurement": 1.5
+      }
+    ],
+    "method": "Build"
+  },
+  {
+    "name": "Sex On The Beach",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 6
+      },
+      {
+        "type": "Orange Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Cranberry Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Peach Schnapps",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Build"
+  },
+  {
+    "name": "Singapore Sling",
+    "ingredients": [
+      {
+        "type": "Pineapple Juice",
+        "measurement": 12
+      },
+      {
+        "type": "Gin",
+        "measurement": 3
+      },
+      {
+        "type": "Cherry Liqueur",
+        "measurement": 1.5
+      },
+      {
+        "type": "Lime Juice",
+        "measurement": 1.5
+      },
+      {
+        "type": "Grenadine",
+        "measurement": 1
+      },
+      {
+        "type": "Cointreau",
+        "measurement": 0.75
+      },
+      {
+        "type": "Bénédictine",
+        "measurement": 0.75
+      },
+      {
+        "type": "Angostura Bitters",
+        "measurement": 0.15
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Tequila Sunrise",
+    "ingredients": [
+      {
+        "type": "Orange Juice",
+        "measurement": 6
+      },
+      {
+        "type": "Tequila",
+        "measurement": 3
+      },
+      {
+        "type": "Grenadine",
+        "measurement": 6
+      }
+    ],
+    "method": "Pour"
+  },
+  {
+    "name": "Vampiro",
+    "ingredients": [
+      {
+        "type": "Tomato Juice",
+        "measurement": 7
+      },
+      {
+        "type": "Tequila",
+        "measurement": 5
+      },
+      {
+        "type": "Red Hot Chili Pepper Slices",
+        "measurement": 1
+      },
+      {
+        "type": "Fresh Orange Juice",
+        "measurement": 3
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Half Slice Onion Finely Chopped",
+        "measurement": 1
+      },
+      {
+        "type": "Salt",
+        "measurement": 0.15
+      },
+      {
+        "type": "Worcestershire Sauce",
+        "measurement": 0.15
+      },
+      {
+        "type": "Worcestershire Sauce",
+        "measurement": 0.15
+      },
+      {
+        "type": "Worcestershire Sauce",
+        "measurement": 0.15
+      },
+      {
+        "type": "Honey",
+        "measurement": 0.15
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Champagne Cocktail",
+    "ingredients": [
+      {
+        "type": "Chilled Champagne",
+        "measurement": 9
+      },
+      {
+        "type": "Cognac",
+        "measurement": 1
+      },
+      {
+        "type": "Sugar Cube",
+        "measurement": 1
+      },
+      {
+        "type": "Angostura Bitters",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Pour"
+  },
+  {
+    "name": "Barracuda",
+    "ingredients": [
+      {
+        "type": "Gold Rum",
+        "measurement": 3
+      },
+      {
+        "type": "Galliano",
+        "measurement": 1
+      },
+      {
+        "type": "Pineapple Juice",
+        "measurement": 4
+      },
+      {
+        "type": "Prosecco",
+        "measurement": 0.75
+      },
+      {
+        "type": "Fresh Lime Juice",
+        "measurement": 0.25
+      }
+    ],
+    "method": "Pour"
+  },
+  {
+    "name": "Bellini",
+    "ingredients": [
+      {
+        "type": "Prosecco",
+        "measurement": 2
+      },
+      {
+        "type": "Fresh Peach Purée",
+        "measurement": 2
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "French 75",
+    "ingredients": [
+      {
+        "type": "Champagne",
+        "measurement": 4
+      },
+      {
+        "type": "Gin",
+        "measurement": 2
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 1
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Shake & Strain"
+  },
+  {
+    "name": "Mimosa",
+    "ingredients": [
+      {
+        "type": "Champagne",
+        "measurement": 6
+      },
+      {
+        "type": "Orange Juice",
+        "measurement": 6
+      }
+    ],
+    "method": "Stir"
+  },
+  {
+    "name": "Russian Spring Punch",
+    "ingredients": [
+      {
+        "type": "Vodka",
+        "measurement": 2.5
+      },
+      {
+        "type": "Fresh Lemon Juice",
+        "measurement": 2.5
+      },
+      {
+        "type": "Créme de Cassis",
+        "measurement": 1.5
+      },
+      {
+        "type": "Sugar Syrup",
+        "measurement": 1
+      },
+      {
+        "type": "Sparkling Wine",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Shake"
+  },
+  {
+    "name": "Spritz Veneziano",
+    "ingredients": [
+      {
+        "type": "Prosecco",
+        "measurement": 3
+      },
+      {
+        "type": "Aperol",
+        "measurement": 2
+      },
+      {
+        "type": "Soda Water",
+        "measurement": 0.5
+      }
+    ],
+    "method": "Stir"
+  }
+]
