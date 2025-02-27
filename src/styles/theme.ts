@@ -37,26 +37,26 @@ export const themeOptions: ThemeOptions = {
 
   typography: {
     h1: {
-      fontFamily: "Coolvetica",
+      fontFamily: "Inter",
       fontWeight: 200,
     },
     h2: {
-      fontFamily: "Lost Signal",
+      fontFamily: "Inter",
     },
     h3: {
-      fontFamily: "Lost Signal",
+      fontFamily: "Figtree",
       fontWeight: 200,
     },
     h4: {
-      fontFamily: "Shippori Antique B1",
+      fontFamily: "Inter",
       fontWeight: 200,
     },
     h5: {
-      fontFamily: "Inter",
+      fontFamily: "Figtree",
       fontWeight: 600,
     },
     h6: {
-      fontFamily: "Inter",
+      fontFamily: "Figtree",
       fontSize: 20,
       fontWeight: 600,
     },
@@ -66,17 +66,17 @@ export const themeOptions: ThemeOptions = {
       fontWeight: 400,
     },
     body2: {
-      fontFamily: "Sono",
+      fontFamily: "Figtree",
       fontSize: 16,
     },
     caption: {
       fontWeight: 700,
-      fontFamily: "Sono",
+      fontFamily: "Figtree",
       fontSize: 14,
       color: "black",
     },
     button: {
-      fontFamily: "Canela Text",
+      fontFamily: "Inter",
       fontSize: 16,
       fontWeight: 200,
       textTransform: "none",
