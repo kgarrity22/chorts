@@ -63,25 +63,25 @@ export const Home = () => {
     {
       name: "Celtics Trophy Case",
       url: "/celtics-trophy-case",
-      img: "",
+      img: "celtics-banners.png",
       isComingSoon: false,
     },
     //
     {
       name: "Oscar Winners",
-      url: "/oscar-winners",
-      img: "",
+      url: "https://observablehq.com/d/3bc3052e763266c5",
+      img: "/oscars-tree.png",
       isComingSoon: true,
     },
-    {
-      name: "Boston Championships",
-      url: "/boston-championships",
-      img: "",
-      isComingSoon: true,
-    },
-    { name: "Coffee", url: "/coffee", img: "", isComingSoon: true },
+    // {
+    //   name: "Boston Championships",
+    //   url: "/boston-championships",
+    //   img: "",
+    //   isComingSoon: true,
+    // },
+    // { name: "Coffee", url: "/coffee", img: "", isComingSoon: true },
     // { name: "Cocktails", url: "/cocktails", img: "", isComingSoon: true },
-    { name: "NBA Salaries", url: "/nba-salaries", img: "", isComingSoon: true },
+    // { name: "NBA Salaries", url: "/nba-salaries", img: "", isComingSoon: true },
   ];
   const theme = useTheme();
   return (
