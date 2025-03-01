@@ -1,5 +1,6 @@
 import { Box, Grid2 as Grid, Typography, useTheme } from "@mui/material";
 import { VizCard } from "./components/project-card";
+import { Particles } from "./components/particles/particles";
 // darkest to lightest
 const darkScheme = {
   dark: "#0d1321",
@@ -85,57 +86,60 @@ export const Home = () => {
   ];
   const theme = useTheme();
   return (
-    <Box
-      sx={{
-        margin: theme.spacing(12),
-        mt: theme.spacing(5),
-        mb: theme.spacing(10),
-      }}
-    >
+    <Box>
+      <Particles />
       <Box
         sx={{
+          margin: theme.spacing(12),
+          mt: theme.spacing(5),
           mb: theme.spacing(10),
-          display: "flex",
-          justifyContent: "center",
         }}
       >
-        <Box maxWidth={550}>
-          <Typography
-            variant="h2"
-            sx={{
-              mt: theme.spacing(15),
-              mb: theme.spacing(2),
-              fontWeight: 900,
-              fontSize: 70,
-              color: "#99b5f3", // light blue
-              fontFamily: "Figtree",
-              textAlign: "center",
-            }}
-          >
-            Viz Gallery
-          </Typography>
-          <Typography
-            variant="body2"
-            sx={{
-              ml: theme.spacing(2),
-              color: darkScheme["light"],
-              textAlign: "center",
-            }}
-          >
-            These are a few collected vizualiztions I have created mostly with
-            D3, Vega and Vega-Lite. Some are built directly into this app while
-            others are hosted on the platform Observable. Click on any of the
-            items below to explore the visualization live.
-          </Typography>
+        <Box
+          sx={{
+            mb: theme.spacing(10),
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          <Box maxWidth={550}>
+            <Typography
+              variant="h2"
+              sx={{
+                mt: theme.spacing(15),
+                mb: theme.spacing(2),
+                fontWeight: 900,
+                fontSize: 70,
+                color: "#99b5f3", // light blue
+                fontFamily: "Figtree",
+                textAlign: "center",
+              }}
+            >
+              Viz Gallery
+            </Typography>
+            <Typography
+              variant="body2"
+              sx={{
+                ml: theme.spacing(2),
+                color: darkScheme["light"],
+                textAlign: "center",
+              }}
+            >
+              These are a few collected vizualiztions I have created mostly with
+              D3, Vega and Vega-Lite. Some are built directly into this app
+              while others are hosted on the platform Observable. Click on any
+              of the items below to explore the visualization live.
+            </Typography>
+          </Box>
         </Box>
+        <Grid container spacing={3}>
+          {projects.map((p) => (
+            <Grid key={p.name} size={{ xs: 12, sm: 6, md: 4, lg: 4 }}>
+              <VizCard name={p.name} url={p.url} img={p.img} />
+            </Grid>
+          ))}
+        </Grid>
       </Box>
-      <Grid container spacing={3}>
-        {projects.map((p) => (
-          <Grid key={p.name} size={{ xs: 12, sm: 6, md: 4, lg: 4 }}>
-            <VizCard name={p.name} url={p.url} img={p.img} />
-          </Grid>
-        ))}
-      </Grid>
     </Box>
   );
 };
