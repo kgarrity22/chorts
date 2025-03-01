@@ -1,5 +1,6 @@
 import { Box, CssBaseline } from "@mui/material";
 import { Outlet } from "react-router-dom";
+import { Particles } from "./components/particles/particles";
 
 // darkest to lightest
 const darkScheme = {
@@ -16,10 +17,12 @@ export default function Layout() {
         height: "100%",
         width: "100%",
         overflow: "auto",
-        background: darkScheme["dark"],
+        background:
+          "linear-gradient(213deg, rgba(15,18,64,1) 0%, rgba(23,1,62,1) 50%, rgba(6,7,124,1) 100%)",
         color: darkScheme["light-2"],
       }}
     >
+      <Particles />
       <CssBaseline />
       <Outlet />
     </Box>
