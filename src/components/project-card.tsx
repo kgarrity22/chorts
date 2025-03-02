@@ -12,10 +12,12 @@ export const VizCard = ({
   name,
   url,
   img,
+  description,
 }: {
   name: string;
   url: string;
   img: string;
+  description: string;
 }) => {
   const theme = useTheme();
   return (
@@ -26,16 +28,12 @@ export const VizCard = ({
           minHeight: 250,
           maxHeight: 300,
           position: "relative",
-          // border: "1px solid rgba(255, 255, 255, 0.3)",
           transition: "0.2s",
           "&:hover": {
             transform: "scale(1.1)",
             ".MuiCardContent-root": {
-              height: 120,
-              bottom: 0,
-              right: 0,
-              left: 0,
-              transition: "0.5s height",
+              opacity: 1,
+              transition: "0.2s opacity",
             },
             ".text": {
               opacity: 1,
@@ -46,7 +44,7 @@ export const VizCard = ({
       >
         <CardMedia
           component="img"
-          image={`/src/assets/charts-imgs/${img || "costco-hotdog.png"}`}
+          image={`/src/assets/charts-imgs/${img || "chart.png"}`}
           alt={`${name}-viz`} // project name
           sx={{
             height: 300,
@@ -56,28 +54,39 @@ export const VizCard = ({
         />
         <CardContent
           sx={{
-            background: "rgba(255, 255, 255, 0.2)",
-            boxShadow: "0 4px 30px rgba(0, 0, 0, 0.1)",
+            background: "#1f3d4738",
+            opacity: 0,
             backdropFilter: "blur(5px)",
             WebkitBackdropFilter: "blur(5px)",
-            border: "1px solid rgba(255, 255, 255, 0.3)",
-            height: 0,
             padding: 0,
             position: "absolute",
             bottom: 0,
             right: 0,
-            left: 0,
+            top: 0,
             "&:last-child": {
               paddingBottom: 0,
             },
           }}
         >
-          <Box className="text" sx={{ opacity: 0, m: theme.spacing(1) }}>
-            <Typography gutterBottom variant="h5" component="div">
+          <Box
+            className="text"
+            sx={{ opacity: 0, m: theme.spacing(1), color: "#fff" }}
+          >
+            <Typography
+              gutterBottom
+              variant="h6"
+              sx={{ mb: 0, lineHeight: "normal" }}
+            >
               {name}
             </Typography>
-            <Typography variant="body2" sx={{ color: "text.secondary" }}>
-              {url}
+            <Typography variant="body1" sx={{ fontSize: 10 }}>
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and scrambled it to make a type specimen book. It has
+              survived not only five centuries, but also the leap into
+              electronic typesetting, remaining essentially unchanged.
+              {description}
             </Typography>
           </Box>
         </CardContent>

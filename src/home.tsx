@@ -16,48 +16,56 @@ export const Home = () => {
       name: "Halloween Candy Map",
       url: "/candy-map",
       img: "halloween-candy.png",
+      description: "",
       isComingSoon: false,
     },
     {
       name: "Mt. Rushmore At Night",
       url: "/mt-range",
       img: "mt-range-at-night.png",
+      description: "",
       isComingSoon: false,
     },
     {
       name: "Periodic Table",
       url: "/periodic-table",
       img: "periodic-table.png",
+      description: "",
       isComingSoon: false,
     },
     {
       name: "Presidential Ages",
       url: "https://observablehq.com/d/3cfb3567c7ba0445",
       img: "presidential-ages.png",
+      description: "",
       isComingSoon: false,
     },
     {
       name: "World Network Graph",
       url: "https://observablehq.com/d/5bf60404d3219afa",
       img: "world-network-graph.png",
+      description: "",
       isComingSoon: false,
     },
     {
       name: "Market Cap by Sector",
       url: "https://observablehq.com/d/f65c0eaac01cbc84",
       img: "market-cap-treemap.png",
+      description: "",
       isComingSoon: false,
     },
     {
       name: "U.S. Presidents",
       url: "https://observablehq.com/@kgarrityviz/us-presidents",
       img: "presidents-zoomable.png",
+      description: "",
       isComingSoon: false,
     },
     {
       name: "History of the Costco Hotdog",
       url: "https://observablehq.com/d/0084e695ae0f64b5",
       img: "costco-hotdog.png",
+      description: "",
       isComingSoon: false,
     },
     /////////////////////////////////////
@@ -65,6 +73,7 @@ export const Home = () => {
       name: "Celtics Trophy Case",
       url: "/celtics-trophy-case",
       img: "celtics-banners.png",
+      description: "",
       isComingSoon: false,
     },
     //
@@ -72,6 +81,7 @@ export const Home = () => {
       name: "Oscar Winners",
       url: "https://observablehq.com/d/3bc3052e763266c5",
       img: "/oscars-tree.png",
+      description: "",
       isComingSoon: true,
     },
     // {
@@ -100,6 +110,8 @@ export const Home = () => {
             mb: theme.spacing(10),
             display: "flex",
             justifyContent: "center",
+            position: "sticky",
+            top: theme.spacing(1),
           }}
         >
           <Box maxWidth={550}>
@@ -132,10 +144,16 @@ export const Home = () => {
             </Typography>
           </Box>
         </Box>
+        {/** want to create a fade into blur effect here */}
         <Grid container spacing={3}>
           {projects.map((p) => (
             <Grid key={p.name} size={{ xs: 12, sm: 6, md: 4, lg: 4 }}>
-              <VizCard name={p.name} url={p.url} img={p.img} />
+              <VizCard
+                name={p.name}
+                url={p.url}
+                img={p.img}
+                description={p.description}
+              />
             </Grid>
           ))}
         </Grid>

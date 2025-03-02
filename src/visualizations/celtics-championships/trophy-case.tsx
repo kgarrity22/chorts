@@ -1,7 +1,7 @@
 import { Box } from "@mui/material";
 import { BaseChart } from "../utils/vega-utils";
 import { TopLevelSpec } from "vega-lite";
-import "./custom-tooltip-styles.css";
+// import "./custom-tooltip-styles.css";
 
 const t = [];
 /**
@@ -18,7 +18,7 @@ export const TrophyCase = () => {
     title: {
       text: "Banner town",
       subtitle:
-        "this doesn't work yet, ... but eventually ... click on a banner to get a detailed view of that year's celtics win",
+        "Click on a banner to get a detailed view of that year's celtics win",
     },
     data: { url: "src/visualizations/celtics-championships/data/data.json" },
     transform: [
