@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 
 export const Particles = () => {
-  const PARTICLE_COUNT = 150;
+  const PARTICLE_COUNT = 300;
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const particlesRef = useRef<
     { x: number; y: number; size: number; opacity: number; speed: number }[]
@@ -26,7 +26,7 @@ export const Particles = () => {
         particlesRef.current = Array.from({ length: PARTICLE_COUNT }, () => ({
           x: Math.random() * canvas.width,
           y: Math.random() * canvas.height,
-          size: Math.random() * 10,
+          size: Math.random() * 2,
           opacity: 1,
           speed: Math.random(),
         }));
