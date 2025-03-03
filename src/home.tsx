@@ -9,7 +9,7 @@ const darkScheme = {
   "light-2": "#748cab",
   light: "#f0ebd8",
 };
-// TODO: image grid of all the visuals to demo
+
 export const Home = () => {
   const projects = [
     {
@@ -17,6 +17,7 @@ export const Home = () => {
       url: "/candy-map",
       img: "halloween-candy.png",
       description: "",
+      contrastText: "light",
       isComingSoon: false,
     },
     {
@@ -24,6 +25,7 @@ export const Home = () => {
       url: "/mt-range",
       img: "mt-range-at-night.png",
       description: "",
+      contrastText: "light",
       isComingSoon: false,
     },
     {
@@ -31,6 +33,7 @@ export const Home = () => {
       url: "/periodic-table",
       img: "periodic-table.png",
       description: "",
+      contrastText: "light",
       isComingSoon: false,
     },
     {
@@ -100,7 +103,7 @@ export const Home = () => {
       <Particles />
       <Box
         sx={{
-          margin: theme.spacing(12),
+          margin: theme.spacing(8),
           mt: theme.spacing(5),
           mb: theme.spacing(10),
         }}
@@ -110,15 +113,13 @@ export const Home = () => {
             mb: theme.spacing(10),
             display: "flex",
             justifyContent: "center",
-            position: "sticky",
-            top: theme.spacing(1),
+            mt: theme.spacing(15),
           }}
         >
           <Box maxWidth={550}>
             <Typography
               variant="h2"
               sx={{
-                mt: theme.spacing(15),
                 mb: theme.spacing(2),
                 fontWeight: 900,
                 fontSize: 70,
@@ -144,19 +145,25 @@ export const Home = () => {
             </Typography>
           </Box>
         </Box>
-        {/** want to create a fade into blur effect here */}
-        <Grid container spacing={3}>
-          {projects.map((p) => (
-            <Grid key={p.name} size={{ xs: 12, sm: 6, md: 4, lg: 4 }}>
-              <VizCard
-                name={p.name}
-                url={p.url}
-                img={p.img}
-                description={p.description}
-              />
-            </Grid>
-          ))}
-        </Grid>
+        <Box
+          sx={{
+            backgroundImage:
+              "linear-gradient(180deg, var(--color-neutral-300) 5%, transparent 40%, transparent 60%, var(--color-neutral-300) 95%)",
+          }}
+        >
+          <Grid container spacing={3}>
+            {projects.map((p) => (
+              <Grid key={p.name} size={{ xs: 12, sm: 6, md: 4, lg: 4 }}>
+                <VizCard
+                  name={p.name}
+                  url={p.url}
+                  img={p.img}
+                  description={p.description}
+                />
+              </Grid>
+            ))}
+          </Grid>
+        </Box>
       </Box>
     </Box>
   );

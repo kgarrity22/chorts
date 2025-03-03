@@ -7,6 +7,8 @@ import {
   Typography,
   useTheme,
 } from "@mui/material";
+import { getContrastText } from "./utils";
+import { useEffect, useState } from "react";
 
 export const VizCard = ({
   name,
@@ -20,6 +22,10 @@ export const VizCard = ({
   description: string;
 }) => {
   const theme = useTheme();
+  const [textColor, setTextColor] = useState("#000");
+  useEffect(() => {
+    setTextColor(getContrastText({ imageId: img }));
+  }, [img]);
   return (
     <Link href={url}>
       <Card
@@ -27,10 +33,14 @@ export const VizCard = ({
         sx={{
           minHeight: 250,
           maxHeight: 300,
+          border: "1px solid gray",
           position: "relative",
           transition: "0.2s",
           "&:hover": {
-            transform: "scale(1.1)",
+            transform: "scale(1.05)",
+            webkitBoxShadow: "0px 0px 80px 15px rgba(0,47,189,0.9)",
+            MozBoxShadow: "0px 0px 80px 15px rgba(0,47,189,0.9)",
+            boxShadow: "0px 0px 80px 15px rgba(0,47,189,0.9)",
             ".MuiCardContent-root": {
               opacity: 1,
               transition: "0.2s opacity",
@@ -44,6 +54,7 @@ export const VizCard = ({
       >
         <CardMedia
           component="img"
+          id={img}
           image={`/src/assets/charts-imgs/${img || "chart.png"}`}
           alt={`${name}-viz`} // project name
           sx={{
@@ -70,16 +81,26 @@ export const VizCard = ({
         >
           <Box
             className="text"
-            sx={{ opacity: 0, m: theme.spacing(1), color: "#fff" }}
+            sx={{
+              opacity: 0,
+              m: theme.spacing(1.5),
+              padding: theme.spacing(1),
+              background: "#00000040",
+              borderRadius: theme.spacing(1),
+            }}
           >
             <Typography
               gutterBottom
               variant="h6"
-              sx={{ mb: 0, lineHeight: "normal" }}
+              sx={{
+                mb: 0,
+                lineHeight: "normal",
+                color: textColor,
+              }}
             >
               {name}
             </Typography>
-            <Typography variant="body1" sx={{ fontSize: 10 }}>
+            <Typography variant="body1" sx={{ fontSize: 10, color: textColor }}>
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
               ever since the 1500s, when an unknown printer took a galley of
