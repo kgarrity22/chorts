@@ -56,7 +56,7 @@ export const VizCard = ({
         <CardMedia
           component="img"
           id={img}
-          image={`/src/assets/charts-imgs/${img || "chart.png"}`}
+          image={`src/assets/charts-imgs/${img || "chart.png"}`}
           alt={`${name}-viz`} // project name
           sx={{
             height: 300,
