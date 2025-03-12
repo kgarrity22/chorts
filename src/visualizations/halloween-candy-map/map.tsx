@@ -1,24 +1,25 @@
 import { Box } from "@mui/material";
 import { BaseChart } from "../utils/vega-utils";
-import AlmondJoy from "./assets/almond-joy.svg";
-import BlowPop from "./assets/blow-pop.svg";
-import ButterFinger from "./assets/butterfinger.svg";
-import CandyCorn from "./assets/candy-corn.svg";
-import HersheysKisses from "./assets/hersheys-kisses.svg";
-import HersheysBar from "./assets/hersheys-mini-bar.svg";
-import HotTamales from "./assets/hot-tamales.svg";
-import JollyRanchers from "./assets/jolly-ranchers.svg";
-import LemonHeads from "./assets/lemonheads.svg";
-import MilkyWay from "./assets/milky-way.svg";
-import MNMs from "./assets/mms.svg";
-import Reeses from "./assets/reeses-cups.svg";
-import Skittles from "./assets/skittles.svg";
-import Snickers from "./assets/snickers.svg";
-import SourPatch from "./assets/sour-patch-kids.svg";
-import Starburst from "./assets/starburst.svg";
-import ThreeMusketeers from "./assets/three-musketeers.svg";
-import TootsiePop from "./assets/tootsie-pop.svg";
-import Twix from "./assets/twix.svg";
+import AlmondJoy from "/src/static/halloween-svgs/almond-joy.svg";
+import BlowPop from "/src/static/halloween-svgs/blow-pop.svg";
+import ButterFinger from "/src/static/halloween-svgs/butterfinger.svg";
+import CandyCorn from "/src/static/halloween-svgs/candy-corn.svg";
+import HersheysKisses from "/src/static/halloween-svgs/hersheys-kisses.svg";
+import HersheysBar from "/src/static/halloween-svgs/hersheys-mini-bar.svg";
+import HotTamales from "/src/static/halloween-svgs/hot-tamales.svg";
+import JollyRanchers from "/src/static/halloween-svgs/jolly-ranchers.svg";
+import LemonHeads from "/src/static/halloween-svgs/lemonheads.svg";
+import MilkyWay from "/src/static/halloween-svgs/milky-way.svg";
+import MNMs from "/src/static/halloween-svgs/mms.svg";
+import Reeses from "/src/static/halloween-svgs/reeses-cups.svg";
+import Skittles from "/src/static/halloween-svgs/skittles.svg";
+import Snickers from "/src/static/halloween-svgs/snickers.svg";
+import SourPatch from "/src/static/halloween-svgs/sour-patch-kids.svg";
+import Starburst from "/src/static/halloween-svgs/starburst.svg";
+import ThreeMusketeers from "/src/static/halloween-svgs/three-musketeers.svg";
+import TootsiePop from "/src/static/halloween-svgs/tootsie-pop.svg";
+import Twix from "/src/static/halloween-svgs/twix.svg";
+
 import { TopLevelSpec } from "vega-lite";
 
 const CandiesWrapper = () => (
