@@ -1,5 +1,6 @@
 import { Box } from "@mui/material";
 import { BaseChart } from "../utils/vega-utils";
+import { TopLevelSpec } from "vega-lite";
 
 // bubbles that race over time showing climate
 export const ClimateRacingBubbles = () => {
@@ -24,7 +25,7 @@ export const ClimateRacingBubbles = () => {
         key: { field: "country" },
       },
     },
-  };
+  } as TopLevelSpec;
   return (
     <Box>
       <BaseChart spec={spec} />

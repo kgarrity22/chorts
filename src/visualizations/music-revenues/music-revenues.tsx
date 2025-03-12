@@ -1,5 +1,6 @@
 import { Box, Typography } from "@mui/material";
 import { BaseChart } from "../utils/vega-utils";
+import { TopLevelSpec } from "vega-lite";
 // import data from "./data/revenue-data.csv";
 
 export const MusicRevenues = () => {
@@ -47,7 +48,7 @@ export const MusicRevenues = () => {
       //   },
     ],
     layer: [{ mark: "bar" }],
-  };
+  } as TopLevelSpec;
   return (
     <Box sx={{ color: "#fff" }}>
       <Typography variant="h2">Music Revenues by format</Typography>

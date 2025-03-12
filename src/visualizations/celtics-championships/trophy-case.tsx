@@ -3,7 +3,6 @@ import { BaseChart } from "../utils/vega-utils";
 import { TopLevelSpec } from "vega-lite";
 // import "./custom-tooltip-styles.css";
 
-const t = [];
 /**
  * Celtics Banners
  */

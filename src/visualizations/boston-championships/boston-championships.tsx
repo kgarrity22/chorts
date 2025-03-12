@@ -1,37 +1,12 @@
 import { Box } from "@mui/material";
 import { BaseChart } from "../utils/vega-utils";
-// todo import the logos as svgs here
-import { TopLevelSpec } from "vega-lite";
-
-const LogosWrapper = () => (
-  <>
-    {/* <AlmondJoy />
-    <Skittles />
-    <MilkyWay />
-    <Reeses />
-    <HotTamales />
-    <SourPatch />
-    <JollyRanchers />
-    <MNMs />
-    <ButterFinger />
-    <Snickers />
-    <CandyCorn />
-    <Twix />
-    <HersheysBar />
-    <HersheysKisses />
-    <Starburst />
-    <BlowPop />
-    <TootsiePop />
-    <LemonHeads />
-    <ThreeMusketeers /> */}
-  </>
-);
+import { Spec } from "vega";
 
 /**
  * Candy Map
  */
 export const BostonChampionships = () => {
-  const spec: TopLevelSpec = {
+  const spec = {
     $schema: "https://vega.github.io/schema/vega/v5.json",
     // description:
     //   "This is an exploration of some new interaction techniques. This visual includes: A scrubber control (in the form of a rotating baseball!), Dynamic progress line, Sub node-link trees that fade-in on a delay. Although each node-link tree only goes one level deep, I can see some potential for combining on-demand trees with other visuals such as scatter plots, line charts, etc.",
@@ -865,7 +840,7 @@ export const BostonChampionships = () => {
         ],
       },
     ],
-  };
+  } as Spec;
 
   return (
     <Box
@@ -878,7 +853,6 @@ export const BostonChampionships = () => {
       }}
     >
       <Box sx={{ m: 5 }}>
-        <LogosWrapper />
         <BaseChart spec={spec} />
       </Box>
     </Box>
