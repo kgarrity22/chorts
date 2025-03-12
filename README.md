@@ -1,80 +1,46 @@
-# Chorts
+# Viz Gallery
 
-A collection of charts and data visualizations I've built
+A library of bespoke data visualizations created with various JS visualization tools
 
-![istockphoto-1147544807-612x612](https://gist.github.com/user-attachments/assets/ff1b22ed-37f7-4622-86e7-c3a09355ef98)
+TODO: drop image here
 
 ## Description
+This repo contains a series of data visualizations I've created, mostly with D3 and Vega. It serves as a place where I experiment with different visualization practices & interaction techniques and explore datasets I find interesting.
 
-An in-depth paragraph about your project and overview of use.
+#### Some viz techniques explored here:
+* Using SVGs as fill
+* Smooth zooming on click where zoomed version shows additional level of detail
+* Creating non-cartesian-plane visuals with Vega-lite
+* Using SVGs for shape encodings
+* Adding labels with [d3-svg-annotation](https://www.npmjs.com/package/d3-svg-annotation)
 
-### Features
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
 
 
 ### Built With
 
 * [![React][React.js]][React-url]
+// d3
+// observable
+// vega
+// vega lite
 
 
-## Getting Started
 
-### Dependencies
+## Structure
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+Each separate visual can be found inside of it's own directory inside of `src/visualizations` (note that a number of these are still under active development). 
+* some hosted here, some hosted on observable 
+* the datasets are in here as well 
 
-### Installation
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/kgarrity22/chorts.git
-   ```
-2. Install packages
-   ```sh
-   yarn install
-   ```
-
-### Executing program
-
-* Running locally:
-```
-yarn dev
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Contact
+Questions or comments? Reach out to: kathleen.garrity223@gmail.com
 
-Kathleen Garrity
-kathleen.garrity223@gmail.com
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [README-Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-
+This project is made possible by teams & contributors behind D3, Observable, Vega, and Vega-lite. Individual visualizations also cite further sources for datasets or visual inspirations.
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
