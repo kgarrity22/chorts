@@ -2,10 +2,11 @@
 
 A library of bespoke data visualizations created with various JS visualization tools
 
-TODO: drop image here
+<img width="1427" alt="viz-gallery" src="https://github.com/user-attachments/assets/1a867242-805e-4dd2-bbdf-1a41f08b2fda" />
+
 
 ## Description
-This repo contains a series of data visualizations I've created, mostly with D3 and Vega. It serves as a place where I experiment with different visualization practices & interaction techniques and explore datasets I find interesting.
+This repo contains a series of data visualizations I've created, mostly with D3 and Vega. It serves as a place where I experiment with different visualization practices & interaction techniques and explore some interesting datasets.
 
 #### Some viz techniques explored here:
 * Using SVGs as fill
@@ -19,20 +20,18 @@ This repo contains a series of data visualizations I've created, mostly with D3 
 ### Built With
 
 * [![React][React.js]][React-url]
-// d3
-// observable
-// vega
-// vega lite
+* [![D3][D3.js]][D3-url]
+* [![Observable][Observable]][Observable-url]
+* [![Vega][Vega]][Vega-url]
+* [![Vega-lite][Vega-lite]][Vega-lite-url]
+
+
 
 
 
 ## Structure
 
-Each separate visual can be found inside of it's own directory inside of `src/visualizations` (note that a number of these are still under active development). 
-* some hosted here, some hosted on observable 
-* the datasets are in here as well 
-
-
+Each separate visual can be found inside of it's own directory inside of `src/visualizations` (note that a number of these are still under active development). Some of the visualizations live inside this site, while a handful are hosted on [Observable](https://observablehq.com/about). The corresponding datasets can also be found within each visual's directory.
 
 
 ## Contact
@@ -45,3 +44,11 @@ This project is made possible by teams & contributors behind D3, Observable, Veg
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[D3.js]: https://img.shields.io/badge/D3-20232A?style=for-the-badge&logo=d3&logoColor=61DAFB
+[D3-url]: https://d3js.org/
+[Observable]: https://img.shields.io/badge/Observable-20232A?style=for-the-badge&logo=observable&logoColor=61DAFB
+[Observable-url]: https://observablehq.com/about
+[Vega]: https://img.shields.io/badge/Vega-20232A?style=for-the-badge&logo=vega&logoColor=61DAFB
+[Vega-url]:https://vega.github.io/vega/
+[Vega-lite]: https://img.shields.io/badge/VegaLite-20232A?style=for-the-badge&logo=vega&logoColor=61DAFB
+[Vega-lite-url]: https://vega.github.io/vega-lite/
