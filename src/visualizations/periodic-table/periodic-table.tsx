@@ -26,7 +26,7 @@ export const PeriodicTable = () => {
     background: "#edf2f4",
     width: 1000,
     height: 500,
-    data: { url: "src/visualizations/periodic-table/data/data.json" },
+    data: { url: "/src/visualizations/periodic-table/data/data.json" },
     encoding: {
       x: { field: "col", type: "quantitative", axis: null },
       y: {

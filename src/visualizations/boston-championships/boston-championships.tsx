@@ -664,7 +664,7 @@ export const BostonChampionships = () => {
     data: [
       {
         name: "dataset",
-        url: "src/visualizations/boston-championships/data/data.json",
+        url: "/src/visualizations/boston-championships/data/data.json",
       },
       {
         name: "datasetUpdated",

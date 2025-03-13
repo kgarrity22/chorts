@@ -19,7 +19,7 @@ export const TrophyCase = () => {
       subtitle:
         "Click on a banner to get a detailed view of that year's celtics win",
     },
-    data: { url: "src/visualizations/celtics-championships/data/data.json" },
+    data: { url: "/src/visualizations/celtics-championships/data/data.json" },
     transform: [
       // {
       //   calculate: `'<div style="display:grid; grid-template-columns:auto 30px; gap:2px;">' +

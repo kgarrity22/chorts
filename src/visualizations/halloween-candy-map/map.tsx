@@ -1,24 +1,25 @@
 import { Box } from "@mui/material";
 import { BaseChart } from "../utils/vega-utils";
-import AlmondJoy from "/src/static/halloween-svgs/almond-joy.svg";
-import BlowPop from "/src/static/halloween-svgs/blow-pop.svg";
-import ButterFinger from "/src/static/halloween-svgs/butterfinger.svg";
-import CandyCorn from "/src/static/halloween-svgs/candy-corn.svg";
-import HersheysKisses from "/src/static/halloween-svgs/hersheys-kisses.svg";
-import HersheysBar from "/src/static/halloween-svgs/hersheys-mini-bar.svg";
-import HotTamales from "/src/static/halloween-svgs/hot-tamales.svg";
-import JollyRanchers from "/src/static/halloween-svgs/jolly-ranchers.svg";
-import LemonHeads from "/src/static/halloween-svgs/lemonheads.svg";
-import MilkyWay from "/src/static/halloween-svgs/milky-way.svg";
-import MNMs from "/src/static/halloween-svgs/mms.svg";
-import Reeses from "/src/static/halloween-svgs/reeses-cups.svg";
-import Skittles from "/src/static/halloween-svgs/skittles.svg";
-import Snickers from "/src/static/halloween-svgs/snickers.svg";
-import SourPatch from "/src/static/halloween-svgs/sour-patch-kids.svg";
-import Starburst from "/src/static/halloween-svgs/starburst.svg";
-import ThreeMusketeers from "/src/static/halloween-svgs/three-musketeers.svg";
-import TootsiePop from "/src/static/halloween-svgs/tootsie-pop.svg";
-import Twix from "/src/static/halloween-svgs/twix.svg";
+// import AlmondJoy from "static/halloween-svgs/almond-joy.svg";
+import AlmondJoy from "/src/assets/halloween-svgs/almond-joy.svg";
+import BlowPop from "/src/assets/halloween-svgs/blow-pop.svg";
+import ButterFinger from "/src/assets/halloween-svgs/butterfinger.svg";
+import CandyCorn from "/src/assets/halloween-svgs/candy-corn.svg";
+import HersheysKisses from "/src/assets/halloween-svgs/hersheys-kisses.svg";
+import HersheysBar from "/src/assets/halloween-svgs/hersheys-mini-bar.svg";
+import HotTamales from "/src/assets/halloween-svgs/hot-tamales.svg";
+import JollyRanchers from "/src/assets/halloween-svgs/jolly-ranchers.svg";
+import LemonHeads from "/src/assets/halloween-svgs/lemonheads.svg";
+import MilkyWay from "/src/assets/halloween-svgs/milky-way.svg";
+import MNMs from "/src/assets/halloween-svgs/mms.svg";
+import Reeses from "/src/assets/halloween-svgs/reeses-cups.svg";
+import Skittles from "/src/assets/halloween-svgs/skittles.svg";
+import Snickers from "/src/assets/halloween-svgs/snickers.svg";
+import SourPatch from "/src/assets/halloween-svgs/sour-patch-kids.svg";
+import Starburst from "/src/assets/halloween-svgs/starburst.svg";
+import ThreeMusketeers from "/src/assets/halloween-svgs/three-musketeers.svg";
+import TootsiePop from "/src/assets/halloween-svgs/tootsie-pop.svg";
+import Twix from "/src/assets/halloween-svgs/twix.svg";
 
 import { TopLevelSpec } from "vega-lite";
 
@@ -128,14 +129,14 @@ export const CandyMap = () => {
               cursor: "pointer",
             },
             data: {
-              url: "src/visualizations/halloween-candy-map/data/data.json",
+              url: "/src/visualizations/halloween-candy-map/data/data.json",
             },
             transform: [
               {
                 lookup: "stateId",
                 from: {
                   data: {
-                    url: "src/visualizations/halloween-candy-map/data/us-states.json",
+                    url: "/src/visualizations/halloween-candy-map/data/us-states.json",
                     format: { type: "json", property: "features" },
                   },
                   key: "id",
@@ -262,7 +263,7 @@ export const CandyMap = () => {
             height: 200,
             width: 600,
             data: {
-              url: "src/visualizations/halloween-candy-map/data/data.json",
+              url: "/src/visualizations/halloween-candy-map/data/data.json",
             },
             title: {
               text: {
