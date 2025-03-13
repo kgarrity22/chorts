@@ -1,6 +1,5 @@
 import { Box } from "@mui/material";
 import { BaseChart } from "../utils/vega-utils";
-// import AlmondJoy from "static/halloween-svgs/almond-joy.svg";
 import AlmondJoy from "/src/assets/halloween-svgs/almond-joy.svg";
 import BlowPop from "/src/assets/halloween-svgs/blow-pop.svg";
 import ButterFinger from "/src/assets/halloween-svgs/butterfinger.svg";
@@ -101,7 +100,7 @@ export const CandyMap = () => {
         layer: [
           {
             data: {
-              url: "src/visualizations/halloween-candy-map/data/us-states.json",
+              url: "/data/halloween-candy/us-states.json",
               format: { type: "json", property: "features" },
             },
             mark: {
@@ -129,14 +128,14 @@ export const CandyMap = () => {
               cursor: "pointer",
             },
             data: {
-              url: "/src/visualizations/halloween-candy-map/data/data.json",
+              url: "/data/halloween-candy/data.json",
             },
             transform: [
               {
                 lookup: "stateId",
                 from: {
                   data: {
-                    url: "/src/visualizations/halloween-candy-map/data/us-states.json",
+                    url: "/data/halloween-candy/us-states.json",
                     format: { type: "json", property: "features" },
                   },
                   key: "id",
@@ -263,7 +262,7 @@ export const CandyMap = () => {
             height: 200,
             width: 600,
             data: {
-              url: "/src/visualizations/halloween-candy-map/data/data.json",
+              url: "/data/halloween-candy/data.json",
             },
             title: {
               text: {
