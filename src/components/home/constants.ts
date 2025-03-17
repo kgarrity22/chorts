@@ -1,11 +1,18 @@
 export const projects = [
   {
+    name: "NBA Salaries",
+    url: "https://observablehq.com/d/b28ea693946e7da1",
+    img: "nba-salaries.png",
+    description:
+      "Exploring bar chart stacking animation techniques with NBA salary data",
+    isComingSoon: false,
+  },
+  {
     name: "Halloween Candy Map",
     url: "/candy-map",
     img: "halloween-candy.png",
     description:
       "An interactive U.S. map showing the most popular halloween candies in each state",
-    contrastText: "light",
     isComingSoon: false,
   },
   {
@@ -29,7 +36,6 @@ export const projects = [
     img: "periodic-table.png",
     description:
       "An interactive visualization of the periodic table of elements built with Vega-lite",
-    contrastText: "light",
     isComingSoon: false,
   },
 
@@ -78,7 +84,6 @@ export const projects = [
     img: "mt-range-at-night.png",
     description:
       "Experimenting with using SVG shapes as marks in Vega-lite to create a night sky visual",
-    contrastText: "light",
     isComingSoon: false,
   },
   // {
