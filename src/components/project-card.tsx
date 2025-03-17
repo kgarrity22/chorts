@@ -39,9 +39,9 @@ export const VizCard = ({
           borderRadius: theme.spacing(1),
           "&:hover": {
             transform: "scale(1.05)",
-            webkitBoxShadow: "0px 0px 60px 3px rgba(0,47,189,0.9)",
-            MozBoxShadow: "0px 0px 60px 3px rgba(0,47,189,0.9)",
-            boxShadow: "0px 0px 60px 3px rgba(0,47,189,0.9)",
+            webkitBoxShadow: "0px 0px 20px 1px rgba(0,47,189,0.9)",
+            MozBoxShadow: "0px 0px 20px 1px rgba(0,47,189,0.9)",
+            boxShadow: "0px 0px 20px 1px rgba(0,47,189,0.9)",
             ".MuiCardContent-root": {
               opacity: 1,
               transition: "0.2s opacity",
