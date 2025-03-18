@@ -1,5 +1,13 @@
 export const projects = [
   {
+    name: "Browser Market Share",
+    url: "https://observablehq.com/d/70aa024e06e75ff4",
+    img: "browser-market-share.png",
+    description:
+      "Animated pie chart showing the popularity of different browsers",
+    isComingSoon: false,
+  },
+  {
     name: "NBA Salaries",
     url: "https://observablehq.com/d/b28ea693946e7da1",
     img: "nba-salaries.png",
@@ -23,6 +31,7 @@ export const projects = [
       "Compares the ages of U.S. Presidents while in office to the average U.S. lifespan during the same period of time",
     isComingSoon: false,
   },
+
   {
     name: "Market Cap by Sector",
     url: "https://observablehq.com/d/f65c0eaac01cbc84",
