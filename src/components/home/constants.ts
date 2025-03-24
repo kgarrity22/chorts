@@ -31,6 +31,14 @@ export const projects = [
       "Compares the ages of U.S. Presidents while in office to the average U.S. lifespan during the same period of time",
     isComingSoon: false,
   },
+  {
+    name: "WNBA Games on National Broadcast",
+    url: "https://observablehq.com/d/6cc387e207ccf6da",
+    img: "",
+    description:
+      "More WNBA games this year available on national broadcast than ever before",
+    isComingSoon: false,
+  },
 
   {
     name: "Market Cap by Sector",
