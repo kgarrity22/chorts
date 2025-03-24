@@ -32,11 +32,11 @@ export const projects = [
     isComingSoon: false,
   },
   {
-    name: "WNBA Games on National Broadcast",
+    name: "Nationally Televised WNBA Games",
     url: "https://observablehq.com/d/6cc387e207ccf6da",
-    img: "",
+    img: "wnba-televised-games.png",
     description:
-      "More WNBA games this year available on national broadcast than ever before",
+      "Compares the number of games that each WNBA team will have nationally televised in 2025 vs. 2024s",
     isComingSoon: false,
   },
 
