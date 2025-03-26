@@ -1,5 +1,12 @@
 export const projects = [
   {
+    name: "Most Expensive U.S. Sports Franchises",
+    url: "https://observablehq.com/d/2206ff593fab19f0",
+    img: "most-expensive-sports-teams.png",
+    description: "Bubble chart showing the top U.S. sports franchise sales",
+    isComingSoon: false,
+  },
+  {
     name: "Browser Market Share",
     url: "https://observablehq.com/d/70aa024e06e75ff4",
     img: "browser-market-share.png",
@@ -36,7 +43,7 @@ export const projects = [
     url: "https://observablehq.com/d/6cc387e207ccf6da",
     img: "wnba-televised-games.png",
     description:
-      "Compares the number of games that each WNBA team will have nationally televised in 2025 vs. 2024s",
+      "Compares the number of games that each WNBA team will have nationally televised in 2025 vs. 2024",
     isComingSoon: false,
   },
 
