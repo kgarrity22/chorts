@@ -1,5 +1,13 @@
 export const projects = [
   {
+    name: "Speedometer",
+    url: "https://observablehq.com/d/30f475bc8632030b",
+    img: "speedometer.png",
+    description:
+      "Interactive speedometer in D3 with both mouse & keyboard controls",
+    isComingSoon: false,
+  },
+  {
     name: "Most Expensive U.S. Sports Franchises",
     url: "https://observablehq.com/d/2206ff593fab19f0",
     img: "most-expensive-sports-teams.png",
