@@ -1,5 +1,13 @@
 export const projects = [
   {
+    name: "Swanson Pyramid of Greatness",
+    url: "https://observablehq.com/d/2464294c158e692d",
+    img: "swanson-pyramid.png",
+    description:
+      "The Swanson Pyramid of Greatness from Parks & Rec built with D3",
+    isComingSoon: false,
+  },
+  {
     name: "Speedometer",
     url: "https://observablehq.com/d/30f475bc8632030b",
     img: "speedometer.png",
