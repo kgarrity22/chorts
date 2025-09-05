@@ -1,10 +1,10 @@
 export const projects = [
   {
     name: "Sketchy Venn Diagram",
-    url: "",
+    url: "https://observablehq.com/d/a84efc8130fe3d31",
     img: "venn-diagram.png",
-    description: "A sketchy venn diagram built with D3 & RoughJS",
-    isComingSoon: true,
+    description: "A hand-drawn styled Venn diagram built with D3 & RoughJS",
+    isComingSoon: false,
   },
   {
     name: "Swanson Pyramid of Greatness",
