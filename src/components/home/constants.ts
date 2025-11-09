@@ -1,5 +1,13 @@
 export const projects = [
   {
+    name: "Country Healthcare Models",
+    url: "https://observablehq.com/d/ebab75828af439e4",
+    img: "country-healthcare-models.png",
+    description:
+      "World map showing use of different health care models with input controls to make styling user-customizable & interactive",
+    isComingSoon: false,
+  },
+  {
     name: "Sketchy Venn Diagram",
     url: "https://observablehq.com/d/a84efc8130fe3d31",
     img: "venn-diagram.png",
